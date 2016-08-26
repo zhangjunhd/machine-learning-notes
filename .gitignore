@@ -8,3 +8,5 @@ data/ap/*
 
 
 data/E2006.train
+
+data/retail.dat.gz
