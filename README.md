@@ -13,3 +13,6 @@
 - stanford_segmenter.ipynb:斯坦福中文分词器
 - text_clustering.ipynb:TF-IDF,Vectorizer,L2,KMeans
 - topic_model.ipynb:英文文本预处理,topic model
+
+## 推荐
+- tutorial_matrix_factorization.ipynb:matrix factorization代码示例(梯度下降优化)
