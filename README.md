@@ -16,3 +16,4 @@
 
 ## 推荐
 - tutorial_matrix_factorization.ipynb:matrix factorization代码示例(梯度下降优化)
+- tutorial_libfm:matrix factorization by libFM
