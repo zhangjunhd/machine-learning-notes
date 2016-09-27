@@ -13,3 +13,5 @@ data/E2006.train
 data/retail.dat.gz
 
 .DS_Store
+
+*.pyc
