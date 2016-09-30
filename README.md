@@ -13,7 +13,7 @@
 - apriori.ipynb:histogram,Apriori,最小支持度,项集(itemset),提升度lift
 
 ## 自然语言处理
-- stanford_segmenter.ipynb:斯坦福中文分词器
+- [stanford_segmenter.ipynb](stanford_segmenter.ipynb):斯坦福中文分词器
 - text_clustering.ipynb:TF-IDF,Vectorizer,L2,KMeans
 - topic_model.ipynb:英文文本预处理,topic model
 
