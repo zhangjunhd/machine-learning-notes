@@ -23,3 +23,4 @@
 - [tutorial_libfm](tutorial_libfm):matrix factorization by libFM
 
 # Spark Machine Learning Examples
+- [explore_user_data.ipynb](pyspark_explore_user_data.ipynb):使用pyspark对MovieLens进行数据探索
