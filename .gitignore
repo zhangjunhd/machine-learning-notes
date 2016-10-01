@@ -15,3 +15,5 @@ data/retail.dat.gz
 .DS_Store
 
 *.pyc
+
+data/Bike-Sharing-Dataset/hour_noheader.csv
