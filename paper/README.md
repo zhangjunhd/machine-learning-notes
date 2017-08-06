@@ -34,7 +34,12 @@
     1. Ryan Kiros,Yukun Zhu,Ruslan Salakhutdinov,Richard S. Zemel,Antonio Torralba, Raquel Urtasun, Sanja Fidler
     1. 2015
     1. http://papers.nips.cc/paper/5950-skip-thought-vectors.pdf
-1. Learning Deep Structured Semantic Models for Web Search using Clickthrough Data
+
+## DSSM
+1. [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data][9]
+    1. Po-Sen Huang, Xiaodong He, Jianfeng Gao, Li Deng,Alex Acero, Larry Heck
+    1. CIKM’13, Oct. 27 2013
+    1. https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf
 1. Learning Semantic Representations Using Convolutional Neural Networks for Web Search
 
 
@@ -47,3 +52,4 @@
 [6]: Document-Embedding-with-Paragraph-Vectors.ipynb
 [7]: Recurrent-neural-network-based-language-model.ipynb
 [8]: Skip-Thought-Vectors.ipynb
+[9]: Learning-Deep-Structured-Semantic-Models-for-Web-Search-using-Clickthrough-Data.ipynb
