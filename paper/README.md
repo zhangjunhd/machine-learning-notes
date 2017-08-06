@@ -1,6 +1,9 @@
 # Deep Learning
 
 
+# Natural Language Processing Review
+
+
 
 # Neural Probabilistic Language Model
 1. [A Neural Probabilistic Language Model][1],Yoshua Bengio,Réjean Ducharme,Pascal Vincent,Christian Jauvin,[Journal of Machine Learning Research 3 (2003)][101]
@@ -21,8 +24,9 @@
 1. [Semantic Parsing for Single-Relation Question Answering][11],Wen-tau Yih,Xiaodong He,Christopher Meek,[2014][111]
 1. [Modeling Interestingness with Deep Neural Networks][12],Jianfeng Gao, Patrick Pantel, Michael Gamon, Xiaodong He, Li Deng,[2014][112]
 1. [A Latent Semantic Model with Convolutional-Pooling Structure for Information Retrieval][13],Yelong Shen,Xiaodong He,Jianfeng Gao,Li Deng,Grégoire Mesnil,[CIKM’14, November 03 2014][113]
+1. [Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base][14],Wen-tau Yih,Ming-Wei Chang,Xiaodong He,Jianfeng Gao,[2015][114]
 
-
+## Translation
 
 
 ## Natural Language Generation(NLG)
@@ -41,7 +45,7 @@
 [11]:Semantic-Parsing-for-Single-Relation-Question-Answering.ipynb
 [12]:Modeling-Interestingness-with-Deep-Neural-Networks.ipynb
 [13]:A-Latent-Semantic-Model-with-Convolutional-Pooling-Structure-for-Information-Retrieval
-
+[14]:Semantic-Parsing-via-Staged-Query-Graph-Generation-Question-Answering-with-Knowledge-Base
 
 
 [101]:http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
@@ -57,3 +61,4 @@
 [111]:https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/SingleRelationQA-YihHeMeek-ACL14.pdf
 [112]:https://www.microsoft.com/en-us/research/wp-content/uploads/2014/10/604_Paper.pdf
 [113]:https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2014_cdssm_final.pdf
+[114]:https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ACL15-STAGG.pdf
