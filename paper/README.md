@@ -35,12 +35,17 @@
     1. 2015
     1. http://papers.nips.cc/paper/5950-skip-thought-vectors.pdf
 
-## DSSM
+## Deep Structured Semantic Models(DSSM)
 1. [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data][9]
     1. Po-Sen Huang, Xiaodong He, Jianfeng Gao, Li Deng,Alex Acero, Larry Heck
     1. CIKM’13, Oct. 27 2013
     1. https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf
-1. Learning Semantic Representations Using Convolutional Neural Networks for Web Search
+1. [Learning Semantic Representations Using Convolutional Neural Networks for Web Search][10]
+    1. Yelong Shen,Xiaodong He,Jianfeng Gao,Li Deng,Grégoire Mesnil
+    1. WWW’14 Companion, April 7–11, 2014
+    1. https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/www2014_cdssm_p07.pdf
+
+
 
 
 
@@ -53,3 +58,4 @@
 [7]: Recurrent-neural-network-based-language-model.ipynb
 [8]: Skip-Thought-Vectors.ipynb
 [9]: Learning-Deep-Structured-Semantic-Models-for-Web-Search-using-Clickthrough-Data.ipynb
+[10]:Learning-Semantic-Representations-Using-Convolutional-Neural-Networks-for-Web-Search.ipynb
