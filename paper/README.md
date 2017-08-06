@@ -14,4 +14,4 @@
 
 
 
-[1]: A%20Neural%20Probabilistic%20Language%20Model.ipynb
+[1]: A-Neural-Probabilistic-Language-Model.ipynb
