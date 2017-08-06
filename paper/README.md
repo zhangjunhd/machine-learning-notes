@@ -30,6 +30,10 @@
     1. Andrew M. Dai,Christopher Olah,Quoc V. Le
     1. 29 Jul 2015
     1. https://arxiv.org/pdf/1507.07998.pdf
+1. [Skip-Thought Vectors][8]
+    1. Ryan Kiros,Yukun Zhu,Ruslan Salakhutdinov,Richard S. Zemel,Antonio Torralba, Raquel Urtasun, Sanja Fidler
+    1. 2015
+    1. http://papers.nips.cc/paper/5950-skip-thought-vectors.pdf
 1. Learning Deep Structured Semantic Models for Web Search using Clickthrough Data
 1. Learning Semantic Representations Using Convolutional Neural Networks for Web Search
 
@@ -42,3 +46,4 @@
 [5]: Distributed-Representations-of-Sentences-and-Documents.ipynb
 [6]: Document-Embedding-with-Paragraph-Vectors.ipynb
 [7]: Recurrent-neural-network-based-language-model.ipynb
+[8]: Skip-Thought-Vectors.ipynb
