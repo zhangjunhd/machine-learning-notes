@@ -1,8 +1,9 @@
+# Deep Learning
+
+
+
 # Neural Probabilistic Language Model
-1. [A Neural Probabilistic Language Model][1]
-    1. Yoshua Bengio,Réjean Ducharme,Pascal Vincent,Christian Jauvin
-    1. Journal of Machine Learning Research 3 (2003) 1137–1155 Submitted 4/02; Published 2/03
-    1. http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
+1. [A Neural Probabilistic Language Model][1],Yoshua Bengio,Réjean Ducharme,Pascal Vincent,Christian Jauvin,[Journal of Machine Learning Research 3 (2003)][101]
 1. Semantic Hashing
 
 ## Continuous Space Word Representations
@@ -48,8 +49,13 @@
     1. Wen-tau Yih,Xiaodong He,Christopher Meek
     1. 2014
     1. https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/SingleRelationQA-YihHeMeek-ACL14.pdf
+1. [Modeling Interestingness with Deep Neural Networks][]
+    1. Jianfeng Gao, Patrick Pantel, Michael Gamon, Xiaodong He, Li Deng
+    1. 2014
+    1. https://www.microsoft.com/en-us/research/wp-content/uploads/2014/10/604_Paper.pdf
 
 
+## Natural Language Generation(NLG)
 
 
 [1]: A-Neural-Probabilistic-Language-Model.ipynb
@@ -63,3 +69,9 @@
 [9]: Learning-Deep-Structured-Semantic-Models-for-Web-Search-using-Clickthrough-Data.ipynb
 [10]:Learning-Semantic-Representations-Using-Convolutional-Neural-Networks-for-Web-Search.ipynb
 [11]:Semantic-Parsing-for-Single-Relation-Question-Answering.ipynb
+
+
+
+
+
+[101]:http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
