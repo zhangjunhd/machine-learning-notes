@@ -44,7 +44,10 @@
     1. Yelong Shen,Xiaodong He,Jianfeng Gao,Li Deng,Grégoire Mesnil
     1. WWW’14 Companion, April 7–11, 2014
     1. https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/www2014_cdssm_p07.pdf
-
+1. [Semantic Parsing for Single-Relation Question Answering][11]
+    1. Wen-tau Yih,Xiaodong He,Christopher Meek
+    1. 2014
+    1. https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/SingleRelationQA-YihHeMeek-ACL14.pdf
 
 
 
@@ -59,3 +62,4 @@
 [8]: Skip-Thought-Vectors.ipynb
 [9]: Learning-Deep-Structured-Semantic-Models-for-Web-Search-using-Clickthrough-Data.ipynb
 [10]:Learning-Semantic-Representations-Using-Convolutional-Neural-Networks-for-Web-Search.ipynb
+[11]:Semantic-Parsing-for-Single-Relation-Question-Answering.ipynb
