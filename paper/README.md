@@ -20,7 +20,10 @@
     1. Quoc Le,Tomas Mikolov
     1. 2014 May 22
     1. https://arxiv.org/pdf/1405.4053.pdf
-1. Document Embedding with Paragraph Vectors
+1. [Document Embedding with Paragraph Vectors][6]
+    1. Andrew M. Dai,Christopher Olah,Quoc V. Le
+    1. 29 Jul 2015
+    1. https://arxiv.org/pdf/1507.07998.pdf
 1. Learning Deep Structured Semantic Models for Web Search using Clickthrough Data
 1. Learning Semantic Representations Using Convolutional Neural Networks for Web Search
 
@@ -31,3 +34,4 @@
 [3]: Efficient-Estimation-of-Word-Representations-in-Vector-Space.ipynb
 [4]: Distributed-Representations-of-Words-and-Phrases-and-their-Compositionality.ipynb
 [5]: Distributed-Representations-of-Sentences-and-Documents.ipynb
+[6]: Document-Embedding-with-Paragraph-Vectors.ipynb
