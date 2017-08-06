@@ -12,7 +12,11 @@
     1. Tomas Mikolov,Kai Chen,Greg Corrado,Jeffrey Dean
     1. 7 Sep 2013
     1. https://arxiv.org/pdf/1301.3781.pdf
-1. Distributed Representations of Words and Phrases and their Compositionality
+1. [Distributed Representations of Words and Phrases and their Compositionality][4]
+    1. Tomas Mikolov,Ilya Sutskever,Kai Chen,Greg Corrado,Jeffrey Dean
+    1. 2013 OCT 16
+    1. https://arxiv.org/pdf/1310.4546.pdf
+
 1. Distributed Representations of Sentences and Documents
 1. Document Embedding with Paragraph Vectors
 1. Learning Deep Structured Semantic Models for Web Search using Clickthrough Data
@@ -23,3 +27,4 @@
 [1]: A-Neural-Probabilistic-Language-Model.ipynb
 [2]: Linguistic-Regularities-in-Continuous-Space-Word-Representations.ipynb
 [3]: Efficient-Estimation-of-Word-Representations-in-Vector-Space.ipynb
+[4]: Distributed-Representations-of-Words-and-Phrases-and-their-Compositionality.ipynb
