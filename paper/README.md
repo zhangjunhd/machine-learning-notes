@@ -16,8 +16,10 @@
     1. Tomas Mikolov,Ilya Sutskever,Kai Chen,Greg Corrado,Jeffrey Dean
     1. 2013 OCT 16
     1. https://arxiv.org/pdf/1310.4546.pdf
-
-1. Distributed Representations of Sentences and Documents
+1. [Distributed Representations of Sentences and Documents][5]
+    1. Quoc Le,Tomas Mikolov
+    1. 2014 May 22
+    1. https://arxiv.org/pdf/1405.4053.pdf
 1. Document Embedding with Paragraph Vectors
 1. Learning Deep Structured Semantic Models for Web Search using Clickthrough Data
 1. Learning Semantic Representations Using Convolutional Neural Networks for Web Search
@@ -28,3 +30,4 @@
 [2]: Linguistic-Regularities-in-Continuous-Space-Word-Representations.ipynb
 [3]: Efficient-Estimation-of-Word-Representations-in-Vector-Space.ipynb
 [4]: Distributed-Representations-of-Words-and-Phrases-and-their-Compositionality.ipynb
+[5]: Distributed-Representations-of-Sentences-and-Documents.ipynb
