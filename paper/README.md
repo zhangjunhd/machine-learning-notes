@@ -1,5 +1,5 @@
 # Deep Learning
-
+1. [A Learning Algorithm for Boltzmann Machines][0],DAVID H. ACKLEY,GEOFFREY E. HINTON,TERRENCE J. SEJNOWSKI,[COGNITIVE SCIENCE 9, 147-169(1985)][100]
 
 # Natural Language Processing Review
 
@@ -31,7 +31,7 @@
 
 ## Natural Language Generation(NLG)
 
-
+[0]: A-Learning-Algorithm-for-Boltzmann-Machines.ipynb
 [1]: A-Neural-Probabilistic-Language-Model.ipynb
 [2]: Linguistic-Regularities-in-Continuous-Space-Word-Representations.ipynb
 [3]: Efficient-Estimation-of-Word-Representations-in-Vector-Space.ipynb
@@ -44,10 +44,10 @@
 [10]:Learning-Semantic-Representations-Using-Convolutional-Neural-Networks-for-Web-Search.ipynb
 [11]:Semantic-Parsing-for-Single-Relation-Question-Answering.ipynb
 [12]:Modeling-Interestingness-with-Deep-Neural-Networks.ipynb
-[13]:A-Latent-Semantic-Model-with-Convolutional-Pooling-Structure-for-Information-Retrieval
-[14]:Semantic-Parsing-via-Staged-Query-Graph-Generation-Question-Answering-with-Knowledge-Base
+[13]:A-Latent-Semantic-Model-with-Convolutional-Pooling-Structure-for-Information-Retrieval.ipynb
+[14]:Semantic-Parsing-via-Staged-Query-Graph-Generation-Question-Answering-with-Knowledge-Base.ipynb
 
-
+[100]:http://www.cs.toronto.edu/~fritz/absps/cogscibm.pdf
 [101]:http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
 [102]:http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf
 [103]:http://www.aclweb.org/anthology/N13-1090
