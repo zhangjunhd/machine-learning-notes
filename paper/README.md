@@ -1,13 +1,12 @@
 # Deep Learning
 1. [A Learning Algorithm for Boltzmann Machines][0],DAVID H. ACKLEY,GEOFFREY E. HINTON,TERRENCE J. SEJNOWSKI,[COGNITIVE SCIENCE 9, 147-169(1985)][100]
 
-# Natural Language Processing Review
-
-
 
 # Neural Probabilistic Language Model
 1. [A Neural Probabilistic Language Model][1],Yoshua Bengio,Réjean Ducharme,Pascal Vincent,Christian Jauvin,[Journal of Machine Learning Research 3 (2003)][101]
 1. Semantic Hashing
+1. [Natural Language Processing (almost) from Scratch][15],Ronan Collobert,Jason Weston,[2 Mar 2011][115]
+
 
 ## Continuous Space Representations
 1. [Recurrent neural network based language model][7],Tomas Mikolov,[INTERSPEECH 2010][102]
@@ -27,6 +26,7 @@
 1. [Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base][14],Wen-tau Yih,Ming-Wei Chang,Xiaodong He,Jianfeng Gao,[2015][114]
 
 ## Translation
+1. [Learning Continuous Phrase Representations for Translation Modeling][16],Jianfeng Gao,Xiaodong He,Wen-tau Yih,Li Deng,[2013][116]
 
 
 ## Natural Language Generation(NLG)
@@ -46,6 +46,8 @@
 [12]:Modeling-Interestingness-with-Deep-Neural-Networks.ipynb
 [13]:A-Latent-Semantic-Model-with-Convolutional-Pooling-Structure-for-Information-Retrieval.ipynb
 [14]:Semantic-Parsing-via-Staged-Query-Graph-Generation-Question-Answering-with-Knowledge-Base.ipynb
+[15]:Natural-Language-Processing-almost-from-Scratch.ipynb
+[16]:Learning-Continuous-Phrase-Representations-for-Translation-Modeling.ipynb
 
 [100]:http://www.cs.toronto.edu/~fritz/absps/cogscibm.pdf
 [101]:http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
@@ -62,3 +64,5 @@
 [112]:https://www.microsoft.com/en-us/research/wp-content/uploads/2014/10/604_Paper.pdf
 [113]:https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2014_cdssm_final.pdf
 [114]:https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ACL15-STAGG.pdf
+[115]:https://arxiv.org/pdf/1103.0398.pdf
+[116]:https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/nn4smt.acl_.v9.pdf
