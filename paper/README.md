@@ -27,6 +27,9 @@
 
 ## Translation
 1. [Learning Continuous Phrase Representations for Translation Modeling][16],Jianfeng Gao,Xiaodong He,Wen-tau Yih,Li Deng,[2013][116]
+1. [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation],Kyunghyun Cho,Yoshua Bengio,
+[3 Sep 2014][117]
+
 
 
 ## Natural Language Generation(NLG)
@@ -48,6 +51,7 @@
 [14]:Semantic-Parsing-via-Staged-Query-Graph-Generation-Question-Answering-with-Knowledge-Base.ipynb
 [15]:Natural-Language-Processing-almost-from-Scratch.ipynb
 [16]:Learning-Continuous-Phrase-Representations-for-Translation-Modeling.ipynb
+[17]:Learning-Phrase-Representations-using-RNN-Encoder–Decoder-for-Statistical-Machine-Translation.ipynb
 
 [100]:http://www.cs.toronto.edu/~fritz/absps/cogscibm.pdf
 [101]:http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
@@ -66,3 +70,4 @@
 [114]:https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/ACL15-STAGG.pdf
 [115]:https://arxiv.org/pdf/1103.0398.pdf
 [116]:https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/nn4smt.acl_.v9.pdf
+[117]:https://arxiv.org/pdf/1406.1078.pdf
