@@ -1,5 +1,7 @@
 # Deep Learning
 1. [A Learning Algorithm for Boltzmann Machines][0],DAVID H. ACKLEY,GEOFFREY E. HINTON,TERRENCE J. SEJNOWSKI,[COGNITIVE SCIENCE 9, 147-169(1985)][100]
+1. [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling][19],Junyoung Chung, Caglar Gulcehre, KyungHyun Cho, Yoshua Bengio,[11 Dec 2014][119]
+
 
 
 # Neural Probabilistic Language Model
@@ -27,8 +29,10 @@
 
 ## Translation
 1. [Learning Continuous Phrase Representations for Translation Modeling][16],Jianfeng Gao,Xiaodong He,Wen-tau Yih,Li Deng,[2013][116]
-1. [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation],Kyunghyun Cho,Yoshua Bengio,
+1. [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation][17],Kyunghyun Cho,Yoshua Bengio,
 [3 Sep 2014][117]
+1. [Sequence to Sequence Learning with Neural Networks][18],Ilya Sutskever,Oriol Vinyals,Quoc V. Le,[14 Dec 2014][118]
+
 
 
 
@@ -52,6 +56,8 @@
 [15]:Natural-Language-Processing-almost-from-Scratch.ipynb
 [16]:Learning-Continuous-Phrase-Representations-for-Translation-Modeling.ipynb
 [17]:Learning-Phrase-Representations-using-RNN-Encoder–Decoder-for-Statistical-Machine-Translation.ipynb
+[18]:Sequence-to-Sequence-Learning-with-Neural-Networks.ipynb
+[19]:Empirical-Evaluation-of-Gated-Recurrent-Neural-Networks-on-Sequence-Modeling.ipynb
 
 [100]:http://www.cs.toronto.edu/~fritz/absps/cogscibm.pdf
 [101]:http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
@@ -71,3 +77,5 @@
 [115]:https://arxiv.org/pdf/1103.0398.pdf
 [116]:https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/nn4smt.acl_.v9.pdf
 [117]:https://arxiv.org/pdf/1406.1078.pdf
+[118]:https://arxiv.org/pdf/1409.3215.pdf
+[119]:https://arxiv.org/abs/1412.3555
