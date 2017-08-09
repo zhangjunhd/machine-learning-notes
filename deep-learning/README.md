@@ -10,4 +10,4 @@
 
 
 
-[1]:Fundamentals-of-Deep-Learning.ipynb
+[1]:Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning.ipynb
