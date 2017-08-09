@@ -32,7 +32,8 @@
 1. [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation][17],Kyunghyun Cho,Yoshua Bengio,
 [3 Sep 2014][117]
 1. [Sequence to Sequence Learning with Neural Networks][18],Ilya Sutskever,Oriol Vinyals,Quoc V. Le,[14 Dec 2014][118]
-
+1. [MULTI-TASK SEQUENCE TO SEQUENCE LEARNING][21],Minh-Thang Luong, Quoc V. Le, Ilya Sutskever, Oriol Vinyals, Lukasz Kaiser,[ICLR 2016][121]
+1. [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation][20],Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V. Le, Jeffrey Dean,[8 Oct 2016][120]
 
 
 
@@ -58,6 +59,8 @@
 [17]:Learning-Phrase-Representations-using-RNN-Encoder–Decoder-for-Statistical-Machine-Translation.ipynb
 [18]:Sequence-to-Sequence-Learning-with-Neural-Networks.ipynb
 [19]:Empirical-Evaluation-of-Gated-Recurrent-Neural-Networks-on-Sequence-Modeling.ipynb
+[20]:Googles-Neural-Machine-Translation-System-Bridging-the-Gap-between-Human-and-Machine-Translation.ipynb
+[21]:MULTI-TASK-SEQUENCE-TO-SEQUENCE-LEARNING.ipynb
 
 [100]:http://www.cs.toronto.edu/~fritz/absps/cogscibm.pdf
 [101]:http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
@@ -79,3 +82,5 @@
 [117]:https://arxiv.org/pdf/1406.1078.pdf
 [118]:https://arxiv.org/pdf/1409.3215.pdf
 [119]:https://arxiv.org/abs/1412.3555
+[120]:https://arxiv.org/pdf/1609.08144.pdf
+[121]:https://nlp.stanford.edu/pubs/luong2016iclr_multi.pdf
