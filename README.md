@@ -1,8 +1,4 @@
-# Python Machine Learning Examples
-## 统计
-- [ThinkStat](thinkstats/ThinkStats.ipynb
-):统计分析
-
+# 机器学习笔记
 ## 分类
 - [knn_classification.ipynb](knn_classification.ipynb):Iris,knn,split data
 
