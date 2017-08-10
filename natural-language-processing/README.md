@@ -1,10 +1,5 @@
-# Deep Learning
-1. [A Learning Algorithm for Boltzmann Machines][0],DAVID H. ACKLEY,GEOFFREY E. HINTON,TERRENCE J. SEJNOWSKI,[COGNITIVE SCIENCE 9, 147-169(1985)][100]
-1. [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling][19],Junyoung Chung, Caglar Gulcehre, KyungHyun Cho, Yoshua Bengio,[11 Dec 2014][119]
-
-
-
-# Neural Probabilistic Language Model
+# Natural Language Processing
+## Neural Probabilistic Language Model
 1. [A Neural Probabilistic Language Model][1],Yoshua Bengio,Réjean Ducharme,Pascal Vincent,Christian Jauvin,[Journal of Machine Learning Research 3 (2003)][101]
 1. Semantic Hashing
 1. [Natural Language Processing (almost) from Scratch][15],Ronan Collobert,Jason Weston,[2 Mar 2011][115]
@@ -39,7 +34,7 @@
 
 ## Natural Language Generation(NLG)
 
-[0]: A-Learning-Algorithm-for-Boltzmann-Machines.ipynb
+
 [1]: A-Neural-Probabilistic-Language-Model.ipynb
 [2]: Linguistic-Regularities-in-Continuous-Space-Word-Representations.ipynb
 [3]: Efficient-Estimation-of-Word-Representations-in-Vector-Space.ipynb
@@ -58,11 +53,10 @@
 [16]:Learning-Continuous-Phrase-Representations-for-Translation-Modeling.ipynb
 [17]:Learning-Phrase-Representations-using-RNN-Encoder–Decoder-for-Statistical-Machine-Translation.ipynb
 [18]:Sequence-to-Sequence-Learning-with-Neural-Networks.ipynb
-[19]:Empirical-Evaluation-of-Gated-Recurrent-Neural-Networks-on-Sequence-Modeling.ipynb
+
 [20]:Googles-Neural-Machine-Translation-System-Bridging-the-Gap-between-Human-and-Machine-Translation.ipynb
 [21]:MULTI-TASK-SEQUENCE-TO-SEQUENCE-LEARNING.ipynb
 
-[100]:http://www.cs.toronto.edu/~fritz/absps/cogscibm.pdf
 [101]:http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
 [102]:http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf
 [103]:http://www.aclweb.org/anthology/N13-1090
@@ -81,6 +75,6 @@
 [116]:https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/nn4smt.acl_.v9.pdf
 [117]:https://arxiv.org/pdf/1406.1078.pdf
 [118]:https://arxiv.org/pdf/1409.3215.pdf
-[119]:https://arxiv.org/abs/1412.3555
+
 [120]:https://arxiv.org/pdf/1609.08144.pdf
 [121]:https://nlp.stanford.edu/pubs/luong2016iclr_multi.pdf
