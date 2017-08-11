@@ -12,5 +12,6 @@
 
 - [豆瓣链接](https://book.douban.com/subject/26425877/)
 - [safaribooks](https://www.safaribooksonline.com/library/view/fundamentals-of-deep/9781491925607/)
+- [Notebook](Fundamentals-of-Deep-Learning.ipynb)
 
 ## 目录
