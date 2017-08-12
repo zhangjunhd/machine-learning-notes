@@ -32,4 +32,3 @@
 
 [1]: Fundamentals-of-Deep-Learning-1+2.ipynb
 [2]: Fundamentals-of-Deep-Learning-3.ipynb
-
