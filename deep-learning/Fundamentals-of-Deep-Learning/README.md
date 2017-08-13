@@ -29,6 +29,17 @@
     - Test Sets, Validation Sets, and Overfitting
     - Preventing Overfitting in Deep Neural Networks
 - [Chapter 3. Implementing Neural Networks in TensorFlow][2]
+    - Installing TensorFlow
+    - Creating and Manipulating TensorFlow Variables
+    - TensorFlow Operations
+    - Placeholder Tensors
+    - Sessions in TensorFlow
+    - Navigating Variable Scopes and Sharing Variables
+    - Managing Models over the CPU and GPU
+    - Specifying the Logistic Regression Model in TensorFlow
+    - Logging and Training the Logistic Regression Model
+    - Leveraging TensorBoard to Visualize Computation Graphs and Learning
+    - Building a Multilayer Model for MNIST in TensorFlow
 
 [1]: Fundamentals-of-Deep-Learning-1+2.ipynb
 [2]: Fundamentals-of-Deep-Learning-3.ipynb
