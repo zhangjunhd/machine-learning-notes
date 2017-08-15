@@ -40,6 +40,22 @@
     - Logging and Training the Logistic Regression Model
     - Leveraging TensorBoard to Visualize Computation Graphs and Learning
     - Building a Multilayer Model for MNIST in TensorFlow
+- [Chapter 4. Beyond Gradient Descent][3]
+    - Local Minima in the Error Surfaces of Deep Networks
+    - How Pesky Are Spurious Local Minima in Deep Networks?
+    - Flat Regions in the Error Surface
+    - When the Gradient Points in the Wrong Direction
+    - Momentum-Based Optimization
+    - A Brief View of Second-Order Methods
+        - Conjugate Gradient Descent
+        - Broyden–Fletcher–Goldfarb–Shanno (BFGS)
+    - Learning Rate Adaptation
+        - AdaGrad—Accumulating Historical Gradients
+        - RMSProp—Exponentially Weighted Moving Average of Gradients
+        - Adam—Combining Momentum and RMSProp
+    - Optimization Algorithms Experiment
+
 
 [1]: Fundamentals-of-Deep-Learning-1+2.ipynb
 [2]: Fundamentals-of-Deep-Learning-3.ipynb
+[3]: Fundamentals-of-Deep-Learning-4.ipynb
