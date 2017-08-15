@@ -19,5 +19,5 @@ data/retail.dat.gz
 data/Bike-Sharing-Dataset/hour_noheader.csv
 
 deep-learning/Fundamentals-of-Deep-Learning/data
-deep-learning/Fundamentals-of-Deep-Learning/logistic_logs
-deep-learning/Fundamentals-of-Deep-Learning/mlp_logs
+deep-learning/Fundamentals-of-Deep-Learning/*_logs*
+
