@@ -54,8 +54,18 @@
         - RMSProp—Exponentially Weighted Moving Average of Gradients
         - Adam—Combining Momentum and RMSProp
     - Optimization Algorithms Experiment
-
+- [Chapter 5. Convolutional Neural Networks][4]
+    - Vanilla Deep Neural Networks Don’t Scale
+    - Filters and Feature Maps
+    - Full Description of the Convolutional Layer
+    - Max Pooling
+    - Full Architectural Description of Convolution Networks
+    - Closing the Loop on MNIST with Convolutional Networks
+    - Building a Convolutional Network for CIFAR-10
+    - Visualizing Learning in Convolutional Networks
+    - Leveraging Convolutional Filters to Replicate Artistic Styles
 
 [1]: Fundamentals-of-Deep-Learning-1+2.ipynb
 [2]: Fundamentals-of-Deep-Learning-3.ipynb
 [3]: Fundamentals-of-Deep-Learning-4.ipynb
+[4]: Fundamentals-of-Deep-Learning-5.ipynb
