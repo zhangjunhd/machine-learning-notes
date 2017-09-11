@@ -126,11 +126,26 @@
         - 若果index value是重复的
             - 对于Series：SeriesObj['index_name'] 得到另一个Series(多entry的)
             - 对于DataFrame：DataFrame['index_name'] 得到另一个对于DataFrame：DataFrame(多entry的)
+1. [汇总和计算描述统计][5]
+    - 描述统计
+        - DataFrameObj.sum()
+        - DataFrameObj.sum(axis=1)
+        - DataFrameObj.mean(axis=1, skipna=False)
+        - DataFrameObj.describe()
+        - Descriptive and summary statistics列表
+    - 相关系数与协方差
+        - corr()
+        - cov()
+        - corrwith()
+    - 唯一值、值计数以及成员资格
+        - unique()
+        - value_counts()
+        - isin()：匹配一个指定的数组
+        - pd.match(SeriesObj1, SeriesObj2)：匹配SeriesObj1中是否有SeriesObj2的元素，得到一个array，是对应元素在SeriesObj2中的position
+        - apply(pd.value_counts).fillna(0)：例子，按列统计value，不存在的补零
 
 ---
-- 汇总和计算描述统计
-    - 相关系数与协方差
-    - 唯一值、值计数以及成员资格
+
 - 处理缺失数据
     - 过滤缺失数据
     - 填充缺失数据
@@ -147,3 +162,4 @@
 [2]: pandas-dataframe.ipynb
 [3]: pandas-index.ipynb
 [4]: pandas-basic.ipynb
+[5]: pandas-summarize-statistics.ipynb
