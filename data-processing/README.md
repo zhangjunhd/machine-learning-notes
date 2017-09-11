@@ -143,12 +143,24 @@
         - isin()：匹配一个指定的数组
         - pd.match(SeriesObj1, SeriesObj2)：匹配SeriesObj1中是否有SeriesObj2的元素，得到一个array，是对应元素在SeriesObj2中的position
         - apply(pd.value_counts).fillna(0)：例子，按列统计value，不存在的补零
+1. [Pandas处理缺失数据][6]
+    - 处理缺失数据
+        - isnull() 返回布尔Series
+    - 过滤缺失数据
+        - SeriesObj.dropna()，可以有参数thresh=3
+        - SeriesObj[SeriesObj.notnull()] 与上面的表达是等价的
+        - 对于DataFrame，dropna(axis=1, how='all')
+    - 填充缺失数据
+        - fillna(0)：填充零
+        - fillna({1: 0.5, 3: -1, 2: 0})：这里key是column name
+        - fillna(0, inplace=True)
+        - fillna(method='ffill', limit=2)
+        - fillna(SeriesObj.mean())：填充均值
+
 
 ---
 
-- 处理缺失数据
-    - 过滤缺失数据
-    - 填充缺失数据
+
 - 层次化索引
     - 重排分级(levels)顺序
     - 根据级别(level)汇总数据
@@ -163,3 +175,4 @@
 [3]: pandas-index.ipynb
 [4]: pandas-basic.ipynb
 [5]: pandas-summarize-statistics.ipynb
+[6]: pandas-data-cleaning-preparation.ipynb
