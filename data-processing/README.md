@@ -1,6 +1,6 @@
 # 数据处理
 ## Pandas
-1. Pandas数据结构Series
+1. [Pandas数据结构Series][1]
     - Series创建与更新
         - Series.values
         - Series.index
@@ -19,7 +19,7 @@
     - name属性
         - Series.name
         - Series.index.name
-1. Pandas数据结构DataFrame
+1. [Pandas数据结构DataFrame][2]
     - DataFrame的创建、显示、更新、删除
         - 基于dict（value为数组）创建
         - DataFrame.head()
@@ -43,12 +43,16 @@
     - values属性
         - DataFrame.values
     - DataFrame constructor
----
+1. [Pandas数据结构Index Object][3]
+    - Index Objects
+    - Immutable
+    - Index methods and properties
 
-- Pandas数据结构介绍
-    - Series ok
-    - DataFrame
-    - 索引对象
+
+[1]: pandas-series.ipynb
+[2]: pandas-dataframe.ipynb
+[3]: pandas-index.ipynb
+---
 - 基本功能
     - 重新索引
     - 丢弃指定轴上的项
