@@ -1,6 +1,6 @@
 # 数据处理
 ## Pandas
-1. [Pandas数据结构Series][1]
+1. [数据结构Series][1]
     - Series创建与更新
         - Series.values
         - Series.index
@@ -19,7 +19,7 @@
     - name属性
         - Series.name
         - Series.index.name
-1. [Pandas数据结构DataFrame][2]
+1. [数据结构DataFrame][2]
     - DataFrame的创建、显示、更新、删除
         - 基于dict（value为数组）创建
         - DataFrame.head()
@@ -43,11 +43,11 @@
     - values属性
         - DataFrame.values
     - DataFrame constructor
-1. [Pandas数据结构Index Object][3]
+1. [数据结构Index Object][3]
     - Index Objects
     - Immutable
     - Index methods and properties
-1. [Pandas基本功能][4]
+1. [基本功能][4]
     - 重新索引
         - 重新索引并得到一个新的SeriesObj:SeriesOb2 = SeriesObj1.reindex(['index_value1', 'index_value2', 'index_value3'])
         - 基于索引创建新的SeriesObj并填充值(ffill/bfill)
@@ -143,7 +143,7 @@
         - isin()：匹配一个指定的数组
         - pd.match(SeriesObj1, SeriesObj2)：匹配SeriesObj1中是否有SeriesObj2的元素，得到一个array，是对应元素在SeriesObj2中的position
         - apply(pd.value_counts).fillna(0)：例子，按列统计value，不存在的补零
-1. [Pandas处理缺失数据][6]
+1. [处理缺失数据][6]
     - 处理缺失数据
         - isnull() 返回布尔Series
     - 过滤缺失数据
@@ -156,7 +156,51 @@
         - fillna(0, inplace=True)
         - fillna(method='ffill', limit=2)
         - fillna(SeriesObj.mean())：填充均值
-
+1. [Pandas数据转换][7]
+    - 去重
+        - DataFrameObj.duplicated() 得到一个布尔Series
+        - DataFrameObj.drop_duplicates()
+        - DataFrameObj.drop_duplicates(['column_name']) 基于某一列算重复值
+        - DataFrameObj.drop_duplicates(['column_name1', 'column_name2'], keep='last') 基于某两列算重复值
+    - 使用Function 或 Mapping做转换
+        - 使用map()
+            - data['column_name'].str.lower().map(func)
+            - DataFrameObj['column_name'].map(lambda x: func[x.lower()])
+    - 替换值
+        - SeriesObj.replace(-999, np.nan) 一对一
+        - SeriesObj.replace([-999, -1000], np.nan) 多对1
+        - SeriesObj.replace([-999, -1000], [np.nan, 0]) 本质还是一对一
+        - SeriesObj.replace({-999: np.nan, -1000: 0}) 多组一对一
+    - 重命名 Axis Indexes
+        - DataFrameObj.index.map(transformFunc)
+        - DataFrameObj.rename(index=str.title, columns=str.upper)
+        - DataFrameObj.rename(index={'origIndexName': 'newIndexName'},columns={'origColumnsName': 'newColumnName'})
+        - rename(inplace=True)
+    - Discretization 与 Binning
+        - cats = pd.cut(数组数据, bins)
+            - cats：分箱完Obj
+            - cats.categories 每个箱子的name
+            - cats.codes 每个值属于的箱子编号
+            - pd.value_counts(cats) 得到每个箱子内数量
+            - right=False：每个箱子默认是左闭右开，设置False后，左开右闭
+            - pd.cut(数组数据, bins, labels=group_names)，设置category名字
+            - pd.cut(数组数据, 4, precision=2) 分成4组，保留小数点2位
+        - cats = pd.qcut(data, 4)：Cut into quartiles
+    - 发现和过滤 Outliers
+        - 基于某规则过滤一列，转化成一个布尔数组：
+            - col = DataFrameObj[column_name];col[np.abs(col) > 3]
+        - 找出任一符合某规则的列
+            - DataFrameObj[(np.abs(DataFrameObj) > 3).any(1)]
+        - 排除Outliers
+            - DataFrameObj[np.abs(DataFrameObj) > 3] = np.sign(DataFrameObj) * 3
+    - Permutation 和 Random Sampling
+        - np.random.permutation(5) 排列0-4
+        - df.take(一个数字数组) ，index是数字，则按这个数字数组作为index取数据
+        - np.random.randint(0, 100, size=10) 在0-100中随机取10个整数
+    - 计算 Indicator/Dummy 变量
+        - pd.get_dummies()
+        - 示例了如何将movielens/movies.dat的genres做成Indicator
+        - 示例了将bins和get_dummies结合
 
 ---
 
@@ -176,3 +220,4 @@
 [4]: pandas-basic.ipynb
 [5]: pandas-summarize-statistics.ipynb
 [6]: pandas-data-cleaning-preparation.ipynb
+[7]: pandas-data-transformation.ipynb
