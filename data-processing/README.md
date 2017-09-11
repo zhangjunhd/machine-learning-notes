@@ -47,22 +47,87 @@
     - Index Objects
     - Immutable
     - Index methods and properties
-
-
-[1]: pandas-series.ipynb
-[2]: pandas-dataframe.ipynb
-[3]: pandas-index.ipynb
----
-- 基本功能
+1. [Pandas基本功能][4]
     - 重新索引
+        - 重新索引并得到一个新的SeriesObj:SeriesOb2 = SeriesObj1.reindex(['index_value1', 'index_value2', 'index_value3'])
+        - 基于索引创建新的SeriesObj并填充值(ffill/bfill)
+        - 重新索引并得到一个新的DataFrameObj:DataFrameObj2 = DataFrameObj1.reindex(['index_value1', 'index_value2', 'index_value3'])
+        - 基于columns关键字重索引：DataFrameObj.reindex(columns=['col_name1', 'col_name2', 'col_name3'])
+        - 基于loc重索引：DataFrameObj.loc[['index_name1', 'index_name2', 'index_name3'], ['col_name1', 'col_name2', 'col_name3']]
     - 丢弃指定轴上的项
+        - NewSeriesObj = SeriesObj.drop('index_name')
+        - SeriesObj.drop(['index_name1', 'index_name2'])
+        - DataFrameObj.drop(['index_name1', 'index_name2'])
+        - DataFrameObj.drop('column_name', axis=1) 删除整列
+        - DataFrameObj.drop(['column_name1', 'column_name2'], axis=1) 删除整列
+        - DataFrameObj.drop(['index_name1', 'index_name2'], axis=0) 删除整行
+        - SeriesObj.drop('index_name', inplace=True) 就地删除，不生成新对象
     - 索引、选取和过滤
+        - Series获取内容值
+            - 基于索引取内容
+                - SeriesObj['index_name']
+                - SeriesObj['index_name1','index_name2','index_name4']
+                - SeriesObj['index_name1':'index_name4']
+            - 基于位置序号取内容
+                - SeriesObj[position]
+                - SeriesObj[position1:position2]
+                - SeriesObj[[position1,position2]]
+            - 基于布尔数组取内容
+                - SeriesObj[SeriesObj < 2]
+        - DataFrame获取内容值
+            - 基于column取内容
+                - DataFrameObj['column_name']
+                - DataFrameObj[['column_name3', 'column_name1']]
+            - DataFrameObj[:2] 显示从第2行起的所有行数据
+            - 基于布尔表达式取内容
+                - DataFrameObj[DataFrameObj['column_name'] > 5] 显示满足某布尔表达式的数据
+                - DataFrameObj < 5 得到一个全局布尔dataframe
+                - DataFrameObj[DataFrameObj < 5] = 0 赋值满足某布尔表达式的数据
+            - 基于loc/iloc取内容(loc基于value定位column/index，iloc基于position定位column/index)
+                - DataFrameObj.loc['index_name', ['column_name2', 'column_name3']]
+                - DataFrameObj.iloc[[1, 2], [3, 0, 1]] 显示指定行列上的数据，这里指定了二维数据
+                - DataFrameObj.iloc[2] 显示第2行数据
+                - DataFrameObj.loc[:'Utah', 'two']
+                - DataFrameObj.iloc[:, :3][data.three > 5] 这里第二个维度使用了布尔表达式
     - 算术运算和数据对齐
+        - 两个Series/DataFrame的算数运算是把对应行列上数据运算，不存在的补足NaN
     - 在算数方法中填充值
+        - DataFrameObj1.add(DataFrameObj2, fill_value=0) 本来是Nan，现在以0填充
+        - DataFrameObj1.reindex(columns=DataFrameObj2.columns, fill_value=0) 这样写就不会扩充更多的来自DataFrameObj2的行（对比上面第一种情况）
     - DataFrame和Series之间的运算
+        - 从DataFrame中取某行成为Series：SeriesObj = DataFrameObj.iloc[0]
+        - DataFrame与Series算术运算
+            - DataFrameObj - SeriesObj
+            - DataFrameObj.sub(SeriesObj, axis=0) 这里是按行计算然后broadcast
     - 函数应用与映射
+        - Numpy.abs(DataFrameObj) NumPy ufuncs是(element-wise array methods)
+        - DataFrameObj.apply(func) 
+            - 默认func会按列作用到所有元素
+            - axis=1，func会按行作用到所有元素
+        - DataFrameObj.applymap(func) 这是element-wise
     - 排序和排名
+        - sort_index
+            - SeriesObj.sort_index()
+            - DataFrameObj.sort_index() 基于index名排序
+            - DataFrameObj.sort_index(axis=1) 基于列名排序
+            - DataFrameObj.sort_index(axis=1, ascending=False) 基于列名排序，降序
+        - sort_values
+            - SeriesObj.sort_values()
+            - DataFrameObj.sort_values(by='column_name')
+            - DataFrameObj.sort_values(by=['column_name2', 'column_name1'])
+        - rank
+            - SeriesObj.rank()
+            - SeriesObj.rank(method='first')
+            - SeriesObj.rank(ascending=False, method='max')
+            - DataFrameObj.rank(axis=1) 按行
+            - DataFrameObj.rank(method='first') 按列
     - 带有重复值的轴索引
+        - SeriesObj.index.is_unique
+        - 若果index value是重复的
+            - 对于Series：SeriesObj['index_name'] 得到另一个Series(多entry的)
+            - 对于DataFrame：DataFrame['index_name'] 得到另一个对于DataFrame：DataFrame(多entry的)
+
+---
 - 汇总和计算描述统计
     - 相关系数与协方差
     - 唯一值、值计数以及成员资格
@@ -76,3 +141,9 @@
 - 其他有关pandas的话题
     - 整数索引
     - 面板数据
+
+
+[1]: pandas-series.ipynb
+[2]: pandas-dataframe.ipynb
+[3]: pandas-index.ipynb
+[4]: pandas-basic.ipynb
