@@ -156,7 +156,7 @@
         - fillna(0, inplace=True)
         - fillna(method='ffill', limit=2)
         - fillna(SeriesObj.mean())：填充均值
-1. [Pandas数据转换][7]
+1. [数据转换][7]
     - 去重
         - DataFrameObj.duplicated() 得到一个布尔Series
         - DataFrameObj.drop_duplicates()
@@ -201,9 +201,31 @@
         - pd.get_dummies()
         - 示例了如何将movielens/movies.dat的genres做成Indicator
         - 示例了将bins和get_dummies结合
+1. [String操作][8]
+    - String对象方法
+        - split()
+        - strip()
+        - join()
+        - index()
+        - find()
+        - count()
+        - replace()
+    - 正则表达式
+        - \s+:one or more whitespace characters
+        - findall()
+        - search():returns only the first match.
+        - match():only matches at the beginning of the string.
+        - sub()
+            - using special symbols like \1 and \2
+        - groups()
+            - findall returns a list of tuples when the pattern has groups
+        - 列表：Regular expression methods
+    - Pandas中向量化string函数
+        - SeriesObj.str.contains('keyword')
+        - SeriesObj.str.findall(pattern, flags=re.IGNORECASE) 结合正则表达式
+        - 列表：Vectorized string methods
 
 ---
-
 
 - 层次化索引
     - 重排分级(levels)顺序
@@ -221,3 +243,4 @@
 [5]: pandas-summarize-statistics.ipynb
 [6]: pandas-data-cleaning-preparation.ipynb
 [7]: pandas-data-transformation.ipynb
+[8]: pandas-string-manipulation.ipynb
