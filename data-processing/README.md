@@ -224,13 +224,71 @@
         - SeriesObj.str.contains('keyword')
         - SeriesObj.str.findall(pattern, flags=re.IGNORECASE) 结合正则表达式
         - 列表：Vectorized string methods
-
+1. [数据合并与重塑][9]
+    - 合并数据集
+        - 数据库风格的DataFrame合并
+            - pd.merge(DataFrameObj1, DataFrameObj2)
+            - 基于两个dataframe中同名column_name作为merge key，类似inner join
+            - pd.merge(DataFrameObj1, DataFrameObj2, on='column_name')
+                - 显式地指定column name
+            - pd.merge(DataFrameObj1, DataFrameObj2, left_on='column_name1', right_on='column_name2')
+            - pd.merge(DataFrameObj1, DataFrameObj2, how='outer'):outer join
+            - pd.merge(DataFrameObj1, DataFrameObj2, on='column_name', how='left'):left outer join
+            - pd.merge(DataFrameObj1, DataFrameObj2, how='inner')
+            - 列表：Different join types with how argument
+            - 列表：merge function arguments
+        - 索引上的合并
+            - 指定column name和index进行merge
+                - pd.merge(DataFrameObj1, DataFrameObj2, left_on='column_name', right_index=True)
+                - pd.merge(DataFrameObj1, DataFrameObj2, left_on='column_name', right_index=True, how='outer')
+                - pd.merge(DataFrameObj1, DataFrameObj2, left_on=['column_name1', 'column_name2'], right_index=True)
+            - 指定index和index进行merge
+                - pd.merge(DataFrameObj1, DataFrameObj2, how='outer', left_index=True, right_index=True)
+                - 等价于： DataFrameObj1.join(DataFrameObj2, how='outer')
+            - 多个dataframe间的join
+                - DataFrameObj1.join([DataFrameObj2, DataFrameObj3])
+        - axis连接
+            - concat
+                - pd.concat([Series1, Series2, Series3]):合并到1列
+                - pd.concat([Series1, Series2, Series3], axis=1):合并到1行
+                - pd.concat([Series1, Series2], axis=1, join='inner'):默认是全外连接，这里显式地指定内连接
+                - pd.concat([Series1, Series2], axis=1, join_axes=[['index1', 'index2', 'index3', 'index4']]):指定`join_axes`
+                - result = pd.concat([Series1, Series1, Series2], keys=['key1', 'key2', 'key3']):三个level并不存在，所以组成了层次结构
+                    - result.unstack():摊平
+                - pd.concat([DataFrameObj1, DataFrameObj2], ignore_index=True)
+        - 合并重叠数据
+            - np.where(pd.isnull(Series1), Series2, Series1)
+            - Series2[:-2].combine_first(Series1[2:])
+    - 层次化索引
+        - 层次化索引介绍
+            - 设置MultiIndex(`hierarchically-indexed` object, so-called `partial indexing`)
+            - unstack():把多level index转成单level index
+            - unstack().stack():再转成多level index
+        - 重排分级(levels)顺序
+            - swaplevel('index_name1', 'index_name2')
+            - sortlevel(index_position)
+            - swaplevel(index_position0, index_position1).sortlevel(index_position0)
+        - 根据级别(level)汇总数据
+            - sum(level='index_name')
+            - sum(level='index_name', axis=1)
+        - 使用DataFrame的列进行索引
+            - set_index()
+            - reset_index()
+        - 整型位置索引
+            - loc (for labels) 
+            - iloc (for integers)
+    - 重塑和轴向旋转
+        - 重塑层次化索引
+            - SeriesObj.DataFrameObj.stack():把一个dataframe 压成一个series，即变成层次结构(level)
+                - SeriesObj.unstack()
+                - SeriesObj.unstack(0):level number
+                - SeriesObj.unstack('level_name')
+            - stack(dropna=False):stack()默认会过滤缺失值
+        - 将『长格式』旋转(pivot)为『宽格式』
+            - 旋转：stack() 和 pivot()
 ---
 
-- 层次化索引
-    - 重排分级(levels)顺序
-    - 根据级别(level)汇总数据
-    - 使用DataFrame的列
+
 - 其他有关pandas的话题
     - 整数索引
     - 面板数据
@@ -244,3 +302,4 @@
 [6]: pandas-data-cleaning-preparation.ipynb
 [7]: pandas-data-transformation.ipynb
 [8]: pandas-string-manipulation.ipynb
+[9]: pandas-data-merge-reshape.ipynb
