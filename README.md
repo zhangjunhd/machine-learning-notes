@@ -37,13 +37,13 @@
 
 
 
-[1]: pandas-series.ipynb
-[2]: pandas-dataframe.ipynb
-[3]: pandas-index.ipynb
-[4]: pandas-basic.ipynb
-[5]: pandas-summarize-statistics.ipynb
-[6]: pandas-data-cleaning-preparation.ipynb
-[7]: pandas-data-transformation.ipynb
-[8]: pandas-string-manipulation.ipynb
-[9]: pandas-data-merge-reshape.ipynb
-[10]:pandas-data-aggregation-and-group.ipynb
+[1]: data-processing/pandas-series.ipynb
+[2]: data-processing/pandas-dataframe.ipynb
+[3]: data-processing/pandas-index.ipynb
+[4]: data-processing/pandas-basic.ipynb
+[5]: data-processing/pandas-summarize-statistics.ipynb
+[6]: data-processing/pandas-data-cleaning-preparation.ipynb
+[7]: data-processing/pandas-data-transformation.ipynb
+[8]: data-processing/pandas-string-manipulation.ipynb
+[9]: data-processing/pandas-data-merge-reshape.ipynb
+[10]:data-processing/pandas-data-aggregation-and-group.ipynb
