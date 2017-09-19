@@ -286,12 +286,28 @@
             - stack(dropna=False):stack()默认会过滤缺失值
         - 将『长格式』旋转(pivot)为『宽格式』
             - 旋转：stack() 和 pivot()
----
-
-
-- 其他有关pandas的话题
-    - 整数索引
-    - 面板数据
+1. [数据聚合与分组运算][10]
+    - GroupBy技术
+        - 对分组进行迭代
+        - 选取一个或一组列
+        - 通过字典或Series进行分组
+        - 通过函数进行分组
+        - 根据索引级别分组
+    - 数据聚合
+        - 面向列的多函数应用
+        - 以『无索引』的形式返回聚合数据
+    - 分组级运算和转换
+        - Apply: 一般性的 split-apply-combine
+        - 示例：用特定于分组的值填充缺失值
+        - 示例：随机采样和排列
+        - 示例：分组加权平均数和相关系数
+        - 示例：面向分组的线性回归
+    - 透视表和交叉表
+        - 交叉表: crosstab
+    - 示例：2012联邦选举委员会数据库
+        - 根据职业和雇主统计赞助信息
+        - 对出资额分组
+        - 根据州统计赞助信息
 
 
 [1]: pandas-series.ipynb
@@ -303,3 +319,4 @@
 [7]: pandas-data-transformation.ipynb
 [8]: pandas-string-manipulation.ipynb
 [9]: pandas-data-merge-reshape.ipynb
+[10]:pandas-data-aggregation-and-group.ipynb
