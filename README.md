@@ -12,6 +12,7 @@
 1. [数据合并与重塑][9]
 1. [数据聚合与分组运算][10]
 1. [数据导入存储与格式][11]
+1. [使用Pandas和Seaborn绘图][12]
 
 ## 经典机器学习
 ### 分类
@@ -32,7 +33,7 @@
 - [tutorial_matrix_factorization.ipynb](tutorial_matrix_factorization.ipynb):matrix factorization代码示例(梯度下降优化)
 - [tutorial_libfm](tutorial_libfm):matrix factorization by libFM
 
-# Spark Machine Learning Examples
+## Spark Machine Learning Examples
 - [explore_user_data.ipynb](pyspark_explore_user_data.ipynb):使用pyspark对MovieLens进行数据探索
 - [pyspark_regression.ipynb](pyspark_regression.ipynb):使用pyspark构建回归模型
 
@@ -49,3 +50,4 @@
 [9]: data-processing/pandas-data-merge-reshape.ipynb
 [10]:data-processing/pandas-data-aggregation-and-group.ipynb
 [11]:data-processing/pandas-dataloading-storage-fileformats.ipynb
+[12]:data-processing/plotting-with-pandas-and-seaborn.ipynb

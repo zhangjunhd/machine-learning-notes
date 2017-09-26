@@ -405,6 +405,15 @@
         - data = resp.json()
         - pd.DataFrame(data, columns=['number', 'title', 'labels', 'state'])
     - 数据库操作
+1. [使用Pandas和Seaborn绘图][12]
+    - Line
+    - Bar
+        - cross-tabulation
+        - seaborn
+    - Histograms 和 Density Plots
+    - Scatter 或 Point Plots
+    - Facet grids 和 categorical data
+
 
 [1]: pandas-series.ipynb
 [2]: pandas-dataframe.ipynb
@@ -417,3 +426,4 @@
 [9]: pandas-data-merge-reshape.ipynb
 [10]:pandas-data-aggregation-and-group.ipynb
 [11]:pandas-dataloading-storage-fileformats.ipynb
+[12]:plotting-with-pandas-and-seaborn.ipynb
