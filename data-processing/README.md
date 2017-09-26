@@ -308,7 +308,103 @@
         - 根据职业和雇主统计赞助信息
         - 对出资额分组
         - 根据州统计赞助信息
+1. [数据导入存储与格式][11]
+    - 文本格式
+        - Parsing functions in pandas
+        - pd.read_csv('filepath')
+        - pd.read_table('filepath', sep=',')
+        - pd.read_csv('filepath', header=None):不带文件头
+        - pd.read_csv('filepath', names=['col1', 'col2', 'col3']):指定文件头（列名）
+        - 指定names和index
+            - names = ['col1', 'col2', 'col3']
+            - pd.read_csv('filepath', names=names, index_col='col3')
+        - 指定层次化index
+            - pd.read_csv('filepath', index_col=['col1', 'col2'])
+        - 使用正则表达式作为分隔符
+            - pd.read_table('filepath', sep='\s+')
+        - 忽略某些行：skiprows
+            - pd.read_csv('filepath', skiprows=[0, 2, 3]):忽略第0，2，3行
+        - 缺失值:NA, -1.#IND, and NULL
+            - 检验：pd.isnull(dataframeObj)
+            - 指定特定形式的缺失值
+                - sentinels = {'col1': ['foo', 'NA'], 'col3': ['two']}
+                - pd.read_csv('filepath', na_values=sentinels)
+                - 即NA,foo,two都被定义为缺失值
+        - read_csv / read_table function arguments
+    - 读入部分数据
+        - pd.options.display.max_rows
+        - 设置浏览的行数
+            - pd.read_csv('filepath', nrows=5)
+        - iterate方式
 
+    ```py
+    chunker = pd.read_csv('data/dataload/ex6.csv', chunksize=1000)
+
+    tot = pd.Series([])
+    for piece in chunker:
+        tot = tot.add(piece['key'].value_counts(), fill_value=0)
+    ```
+
+    - 导出数据到文本
+        - data.to_csv('filepath')
+        - 指定分割符
+            - import sys
+            - data.to_csv(sys.stdout, sep='|')
+        - 缺失值显式地“展现”
+            - data.to_csv(sys.stdout, na_rep='NULL')
+        - 关闭index和header
+            - data.to_csv(sys.stdout, index=False, header=False)
+        - 指定列
+            - data.to_csv(sys.stdout, index=False, columns=['col1', 'col2', 'col3'])
+    - 手动操作数据
+
+    ```py
+    import csv
+    f = open('data/dataload/ex7.csv')
+
+    reader = csv.reader(f)
+    for line in reader:
+        print(line)
+    ```
+
+        - csv.Dialect:设置读取csv的配置信息
+        - CSV dialect options
+    - JSON数据
+        - jsonStr = json.loads(jsonObj)
+        - jsonObj = json.dumps(jsonStr)
+        - 转成dataframe
+            - pd.DataFrame(jsonStr['json_key'], columns=['json_key_1', 'json_key_2'])
+        - data = pd.read_json('jsonfile')
+            - data.to_json()
+            - data.to_json(orient='records') 
+    - XML 与 HTML
+        - pd.read_html('htmlfilepath')
+        - objectify.parse(open('xmlfilepath'))
+    - 二进制文件格式
+        - dataframeObj.to_pickle('picklepath')
+        - pd.read_pickle('picklepath')
+    - 使用HDF5格式
+        - store = pd.HDFStore('h5filepath')
+        - store['key1'] = dataframeObj
+        - store['key1_1'] = dataframeObj['col1']
+        - store.put('key2', frame, format='table')
+        - dataframeObj.to_hdf('h5filepath', 'key3', format='table')
+        - pd.read_hdf('h5filepath', 'key3', where=['index < 5'])
+    - 读取Excel文件
+        - 读
+            - xlsx = pd.ExcelFile('xlsxfilepath')
+            - pd.read_excel(xlsx, 'Sheet1')
+        - 写
+            - writer = pd.ExcelWriter('xlsxfilepath')
+            - frame.to_excel(writer, 'Sheet1')
+            - writer.save()
+    - 操作Web API
+        - import requests
+        - url = 'https://api.github.com/repos/pandas-dev/pandas/issues'
+        - resp = requests.get(url)
+        - data = resp.json()
+        - pd.DataFrame(data, columns=['number', 'title', 'labels', 'state'])
+    - 数据库操作
 
 [1]: pandas-series.ipynb
 [2]: pandas-dataframe.ipynb
@@ -320,3 +416,4 @@
 [8]: pandas-string-manipulation.ipynb
 [9]: pandas-data-merge-reshape.ipynb
 [10]:pandas-data-aggregation-and-group.ipynb
+[11]:pandas-dataloading-storage-fileformats.ipynb
