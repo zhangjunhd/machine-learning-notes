@@ -413,7 +413,40 @@
     - Histograms 和 Density Plots
     - Scatter 或 Point Plots
     - Facet grids 和 categorical data
-
+1. [时间序列][13]
+    - Date和Time
+        - datetime
+        - 在String和datetime之间转换
+    - 时间序列基础
+        - Indexing, selection, subsetting
+        - Time series with duplicate indices
+    - Date ranges,Frequencies,Shifting
+        - 生成date ranges
+        - Frequencies 和 Date Offsets
+            - Week of month dates
+        - Shifting (leading and lagging) data
+            - Shifting dates with offsets
+    - 处理Time Zone
+        - Localization 与 Conversion
+        - 对time zone-aware Timestamp objects的操作
+        - 不同time zones之间的操作
+    - Periods 与 Period Arithmetic
+        - Period Frequency转换
+        - Quarterly period frequencies
+    - Timestamps 与 Periods之间的转换
+        - 基于arrays创建PeriodIndex
+    - Resampling 与 Frequency Conversion
+        - Downsampling
+            - Open-High-Low-Close (OHLC) resampling
+            - Resampling with GroupBy
+        - Upsampling 与 interpolation
+        - Resampling with periods
+    - Time series绘图
+    - Moving window functions
+        - Exponentially-weighted functions
+        - Binary moving window functions
+        - User-defined moving window functions
+    - Performance and Memory Usage Notes
 
 [1]: pandas-series.ipynb
 [2]: pandas-dataframe.ipynb
@@ -427,3 +460,4 @@
 [10]:pandas-data-aggregation-and-group.ipynb
 [11]:pandas-dataloading-storage-fileformats.ipynb
 [12]:plotting-with-pandas-and-seaborn.ipynb
+[13]:pandas-time-series.ipynb

@@ -13,6 +13,7 @@
 1. [数据聚合与分组运算][10]
 1. [数据导入存储与格式][11]
 1. [使用Pandas和Seaborn绘图][12]
+1. [时间序列][13]
 
 ## 经典机器学习
 ### 分类
@@ -51,3 +52,4 @@
 [10]:data-processing/pandas-data-aggregation-and-group.ipynb
 [11]:data-processing/pandas-dataloading-storage-fileformats.ipynb
 [12]:data-processing/plotting-with-pandas-and-seaborn.ipynb
+[13]:data-processing/pandas-time-series.ipynb
