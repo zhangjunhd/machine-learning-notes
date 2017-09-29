@@ -18,8 +18,8 @@
 ## [自然语言处理][30]
 - 程序
     - [结巴中文分词][31]
-    - [text_clustering.ipynb](text_clustering.ipynb):TF-IDF,Vectorizer,L2,KMeans
-    - [topic_model.ipynb](topic_model.ipynb):英文文本预处理,topic model
+    - [文本聚类][32]
+    - [主题模型][33]
 - 论文
     - Neural Probabilistic Language Model
     - Continuous Space Representations
@@ -63,3 +63,5 @@
 
 [30]:natural-language-processing/
 [31]:natural-language-processing/jieba.ipynb
+[32]:natural-language-processing/text_clustering.ipynb
+[33]:natural-language-processing/topic_model.ipynb

@@ -1,7 +1,20 @@
 # 自然语言处理
 ## 代码
 1. [结巴中文分词][300]
-
+    - 分词
+    - 添加自定义词典
+    - 关键词提取
+        - 基于 TF-IDF 算法的关键词抽取
+        - 基于 TextRank 算法的关键词抽取
+    - 词性标注
+    - Tokenize
+1. [文本聚类][301]
+    - 词袋模型与文本向量化
+    - 相似度：向量间距离
+    - 聚类KMeans
+1. [主题模型][302]
+    - 构建主题模型
+    - 在主题空间比较相似度
 
 ## 论文
 ### Neural Probabilistic Language Model
@@ -86,3 +99,4 @@
 
 [300]:jieba.ipynb
 [301]:text_clustering.ipynb
+[302]:topic_model.ipynb
