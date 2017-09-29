@@ -1,11 +1,16 @@
-# Natural Language Processing
-## Neural Probabilistic Language Model
+# 自然语言处理
+## 代码
+1. [结巴中文分词][300]
+
+
+## 论文
+### Neural Probabilistic Language Model
 1. [A Neural Probabilistic Language Model][1],Yoshua Bengio,Réjean Ducharme,Pascal Vincent,Christian Jauvin,[Journal of Machine Learning Research 3 (2003)][101]
 1. Semantic Hashing
 1. [Natural Language Processing (almost) from Scratch][15],Ronan Collobert,Jason Weston,[2 Mar 2011][115]
 
 
-## Continuous Space Representations
+### Continuous Space Representations
 1. [Recurrent neural network based language model][7],Tomas Mikolov,[INTERSPEECH 2010][102]
 1. [Linguistic Regularities in Continuous Space Word Representations][2],Tomas Mikolov,Wen-tau Yih,Geoffrey Zweig,[NAACL-HLT 2013][103] 
 1. [Efficient Estimation of Word Representations in Vector Space][3],Tomas Mikolov,Kai Chen,Greg Corrado,Jeffrey Dean,[7 Sep 2013][104]
@@ -14,7 +19,7 @@
 1. [Document Embedding with Paragraph Vectors][6],Andrew M. Dai,Christopher Olah,Quoc V. Le,[29 Jul 2015][107]
 1. [Skip-Thought Vectors][8],Ryan Kiros,Yukun Zhu,Ruslan Salakhutdinov,Richard S. Zemel,Antonio Torralba, Raquel Urtasun, Sanja Fidler,[2015][108]
 
-## Deep Structured Semantic Models(DSSM)
+### Deep Structured Semantic Models(DSSM)
 1. [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data][9],Po-Sen Huang, Xiaodong He, Jianfeng Gao, Li Deng,Alex Acero, Larry Heck,[CIKM’13, Oct. 27 2013][109]
 1. [Learning Semantic Representations Using Convolutional Neural Networks for Web Search][10],Yelong Shen,Xiaodong He,Jianfeng Gao,Li Deng,Grégoire Mesnil,[WWW’14 Companion, April 7–11, 2014][110]
 1. [Semantic Parsing for Single-Relation Question Answering][11],Wen-tau Yih,Xiaodong He,Christopher Meek,[2014][111]
@@ -22,7 +27,7 @@
 1. [A Latent Semantic Model with Convolutional-Pooling Structure for Information Retrieval][13],Yelong Shen,Xiaodong He,Jianfeng Gao,Li Deng,Grégoire Mesnil,[CIKM’14, November 03 2014][113]
 1. [Semantic Parsing via Staged Query Graph Generation: Question Answering with Knowledge Base][14],Wen-tau Yih,Ming-Wei Chang,Xiaodong He,Jianfeng Gao,[2015][114]
 
-## Translation
+### Translation
 1. [Learning Continuous Phrase Representations for Translation Modeling][16],Jianfeng Gao,Xiaodong He,Wen-tau Yih,Li Deng,[2013][116]
 1. [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation][17],Kyunghyun Cho,Yoshua Bengio,
 [3 Sep 2014][117]
@@ -32,7 +37,7 @@
 
 
 
-## Natural Language Generation(NLG)
+### Natural Language Generation(NLG)
 
 
 [1]: A-Neural-Probabilistic-Language-Model.ipynb
@@ -78,3 +83,6 @@
 
 [120]:https://arxiv.org/pdf/1609.08144.pdf
 [121]:https://nlp.stanford.edu/pubs/luong2016iclr_multi.pdf
+
+[300]:jieba.ipynb
+[301]:text_clustering.ipynb

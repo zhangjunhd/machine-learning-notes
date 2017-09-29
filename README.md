@@ -1,19 +1,31 @@
 # 机器学习笔记
 ## [数据处理][0]
-### Pandas
-1. [数据结构Series][1]
-1. [数据结构DataFrame][2]
-1. [数据结构Index Object][3]
-1. [基本功能][4]
-1. [汇总和计算描述统计][5]
-1. [处理缺失数据][6]
-1. [数据转换][7]
-1. [String操作][8]
-1. [数据合并与重塑][9]
-1. [数据聚合与分组运算][10]
-1. [数据导入存储与格式][11]
-1. [使用Pandas和Seaborn绘图][12]
-1. [时间序列][13]
+- Pandas
+    - [数据结构Series][1]
+    - [数据结构DataFrame][2]
+    - [数据结构Index Object][3]
+    - [基本功能][4]
+    - [汇总和计算描述统计][5]
+    - [处理缺失数据][6]
+    - [数据转换][7]
+    - [String操作][8]
+    - [数据合并与重塑][9]
+    - [数据聚合与分组运算][10]
+    - [数据导入存储与格式][11]
+    - [使用Pandas和Seaborn绘图][12]
+    - [时间序列][13]
+
+## [自然语言处理][30]
+- 程序
+    - [结巴中文分词][31]
+    - [text_clustering.ipynb](text_clustering.ipynb):TF-IDF,Vectorizer,L2,KMeans
+    - [topic_model.ipynb](topic_model.ipynb):英文文本预处理,topic model
+- 论文
+    - Neural Probabilistic Language Model
+    - Continuous Space Representations
+    - Deep Structured Semantic Models(DSSM)
+    - Translation
+    - Natural Language Generation(NLG)
 
 ## 经典机器学习
 ### 分类
@@ -24,11 +36,6 @@
 
 ### 关联规则
 - [apriori.ipynb](apriori.ipynb):histogram,Apriori,最小支持度,项集(itemset),提升度lift
-
-## 自然语言处理
-- [stanford_segmenter.ipynb](stanford_segmenter.ipynb):斯坦福中文分词器
-- [text_clustering.ipynb](text_clustering.ipynb):TF-IDF,Vectorizer,L2,KMeans
-- [topic_model.ipynb](topic_model.ipynb):英文文本预处理,topic model
 
 ## 推荐
 - [tutorial_matrix_factorization.ipynb](tutorial_matrix_factorization.ipynb):matrix factorization代码示例(梯度下降优化)
@@ -53,3 +60,6 @@
 [11]:data-processing/pandas-dataloading-storage-fileformats.ipynb
 [12]:data-processing/plotting-with-pandas-and-seaborn.ipynb
 [13]:data-processing/pandas-time-series.ipynb
+
+[30]:natural-language-processing/
+[31]:natural-language-processing/jieba.ipynb
