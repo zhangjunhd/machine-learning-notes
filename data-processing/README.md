@@ -1,6 +1,21 @@
 # 数据处理
 ## NumPy
 1. [The NumPy ndarray: A Multidimensional Array Object][20]
+    - The NumPy ndarray
+        - data.shape
+        - data.dtype
+    - Creating ndarrays
+        - np.array
+        - np.zeros
+        - np.ones
+        - np.empty
+        - np.arange
+    - Data Types for ndarrays
+        - data.astype
+    - Operations between Arrays and Scalars
+        - vectorization
+        - broadcasting
+
 
 ## Pandas
 1. [数据结构Series][1]
