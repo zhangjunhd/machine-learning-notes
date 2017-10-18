@@ -25,6 +25,10 @@
     - data.T
     - np.dot
     - data.swapaxes
+1. [Universal Functions: Fast Element-wise Array Functions][23]
+    - np.sqrt(data)
+    - np.exp(data)
+
 
 ## Pandas
 1. [数据结构Series][1]
@@ -492,3 +496,4 @@
 [20]:numpy-ndarray.ipynb
 [21]:numpy-indexing-and-slicing.ipynb
 [22]:numpy-transposing-and-swapping-axes.ipynb
+[23]:numpy-universal-functions.ipynb
