@@ -21,6 +21,10 @@
     - Boolean Indexing
     - Fancy Indexing
         - np.ix_
+1. [The NumPy Transposing and Swapping Axes][22]
+    - data.T
+    - np.dot
+    - data.swapaxes
 
 ## Pandas
 1. [数据结构Series][1]
@@ -487,3 +491,4 @@
 
 [20]:numpy-ndarray.ipynb
 [21]:numpy-indexing-and-slicing.ipynb
+[22]:numpy-transposing-and-swapping-axes.ipynb
