@@ -1,4 +1,7 @@
 # 数据处理
+## NumPy
+1. [The NumPy ndarray: A Multidimensional Array Object][20]
+
 ## Pandas
 1. [数据结构Series][1]
     - Series创建与更新
@@ -461,3 +464,5 @@
 [11]:pandas-dataloading-storage-fileformats.ipynb
 [12]:plotting-with-pandas-and-seaborn.ipynb
 [13]:pandas-time-series.ipynb
+
+[20]:numpy-ndarray.ipynb
