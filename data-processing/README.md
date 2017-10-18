@@ -15,7 +15,12 @@
     - Operations between Arrays and Scalars
         - vectorization
         - broadcasting
-
+1. [The NumPy Indexing and Slicing][21]
+    - Basic Indexing and Slicing
+        - Indexing with slices
+    - Boolean Indexing
+    - Fancy Indexing
+        - np.ix_
 
 ## Pandas
 1. [数据结构Series][1]
@@ -481,3 +486,4 @@
 [13]:pandas-time-series.ipynb
 
 [20]:numpy-ndarray.ipynb
+[21]:numpy-indexing-and-slicing.ipynb
