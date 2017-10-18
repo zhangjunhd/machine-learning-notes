@@ -1,19 +1,7 @@
 # 机器学习笔记
 ## [数据处理][0]
+- Numpy
 - Pandas
-    - [数据结构Series][1]
-    - [数据结构DataFrame][2]
-    - [数据结构Index Object][3]
-    - [基本功能][4]
-    - [汇总和计算描述统计][5]
-    - [处理缺失数据][6]
-    - [数据转换][7]
-    - [String操作][8]
-    - [数据合并与重塑][9]
-    - [数据聚合与分组运算][10]
-    - [数据导入存储与格式][11]
-    - [使用Pandas和Seaborn绘图][12]
-    - [时间序列][13]
 
 ## [自然语言处理][30]
 - 程序
@@ -51,19 +39,6 @@
 
 
 [0]: data-processing/
-[1]: data-processing/pandas-series.ipynb
-[2]: data-processing/pandas-dataframe.ipynb
-[3]: data-processing/pandas-index.ipynb
-[4]: data-processing/pandas-basic.ipynb
-[5]: data-processing/pandas-summarize-statistics.ipynb
-[6]: data-processing/pandas-data-cleaning-preparation.ipynb
-[7]: data-processing/pandas-data-transformation.ipynb
-[8]: data-processing/pandas-string-manipulation.ipynb
-[9]: data-processing/pandas-data-merge-reshape.ipynb
-[10]:data-processing/pandas-data-aggregation-and-group.ipynb
-[11]:data-processing/pandas-dataloading-storage-fileformats.ipynb
-[12]:data-processing/plotting-with-pandas-and-seaborn.ipynb
-[13]:data-processing/pandas-time-series.ipynb
 
 [30]:natural-language-processing/
 [31]:natural-language-processing/jieba.ipynb
