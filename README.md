@@ -45,6 +45,10 @@
 - [explore_user_data.ipynb](pyspark_explore_user_data.ipynb):使用pyspark对MovieLens进行数据探索
 - [pyspark_regression.ipynb](pyspark_regression.ipynb):使用pyspark构建回归模型
 
+## [深度学习][40]
+- [深度学习中的激活函数][41]
+
+
 
 [0]: data-processing/
 [1]: data-processing/pandas-series.ipynb
@@ -65,3 +69,6 @@
 [31]:natural-language-processing/jieba.ipynb
 [32]:natural-language-processing/text_clustering.ipynb
 [33]:natural-language-processing/topic_model.ipynb
+
+[40]:deep-learning
+[41]:deep-learning/activation-function.ipynb
