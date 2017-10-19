@@ -28,7 +28,24 @@
 1. [Universal Functions: Fast Element-wise Array Functions][23]
     - np.sqrt(data)
     - np.exp(data)
-
+1. [NumPy Loop-free programming with arrays][24]
+    - np.meshgrid
+    - Expressing Conditional Logic as Array Operations
+        - np.where
+    - Mathematical and Statistical Methods
+        - np.mean()
+        - data.mean(axis=1)
+        - data.sum(0)
+        - data.cumsum()
+        - data.cumprod()
+    - Methods for Boolean Arrays
+        - bools.any
+        - bools.all
+    - Sorting
+        - data.sort
+        - data.sort(1)
+    - Unique and Other Set Logic
+        - np.unique
 
 ## Pandas
 1. [数据结构Series][1]
@@ -497,3 +514,4 @@
 [21]:numpy-indexing-and-slicing.ipynb
 [22]:numpy-transposing-and-swapping-axes.ipynb
 [23]:numpy-universal-functions.ipynb
+[24]:numpy-loop-free-programming-with-arrays.ipynb
