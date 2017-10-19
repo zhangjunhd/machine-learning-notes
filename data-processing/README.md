@@ -46,6 +46,18 @@
         - data.sort(1)
     - Unique and Other Set Logic
         - np.unique
+1. [NumPy File Input and Output with Arrays][25]
+    - np.save
+    - np.load
+    - np.savez
+1. [NumPy Linear Algebra][26]
+    - x.dot(y)
+    - inv
+    - qr
+1. [NumPy Pseudorandom Number Generation][27]
+    - np.random.normal
+    - np.random.seed
+1. [NumPy Example Random Walks][28]
 
 ## Pandas
 1. [数据结构Series][1]
@@ -495,6 +507,8 @@
         - Binary moving window functions
         - User-defined moving window functions
     - Performance and Memory Usage Notes
+## Matplotlib
+
 
 [1]: pandas-series.ipynb
 [2]: pandas-dataframe.ipynb
@@ -515,3 +529,7 @@
 [22]:numpy-transposing-and-swapping-axes.ipynb
 [23]:numpy-universal-functions.ipynb
 [24]:numpy-loop-free-programming-with-arrays.ipynb
+[25]:numpy-file-input-and-output-with-arrays.ipynb
+[26]:numpy-linear-algebra.ipynb
+[27]:numpy-pseudorandom-number-generation.ipynb
+[28]:numpy-example-random-walks.ipynb

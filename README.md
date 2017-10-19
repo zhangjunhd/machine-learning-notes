@@ -2,6 +2,7 @@
 ## [数据处理][0]
 - NumPy
 - Pandas
+- Matplotlib
 
 ## [自然语言处理][30]
 - 程序
