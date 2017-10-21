@@ -1,15 +1,22 @@
 # 机器学习笔记
 ## [数据处理][0]
-- NumPy
-- Pandas
-- Matplotlib
+1. NumPy
+1. Pandas
+1. Matplotlib
+
+## [数学][10]
+1. [机会的数学][11]
+1. [统计与真理][12]
+1. [赤裸裸的统计学][13]
+
+## [深度学习][40]
+1. [深度学习中的激活函数][41]
 
 ## [自然语言处理][30]
-- 程序
-    - [结巴中文分词][31]
-    - [文本聚类][32]
-    - [主题模型][33]
-- 论文
+1. [结巴中文分词][31]
+1. [文本聚类][32]
+1. [主题模型][33]
+1. 论文集
     - Neural Probabilistic Language Model
     - Continuous Space Representations
     - Deep Structured Semantic Models(DSSM)
@@ -34,12 +41,15 @@
 - [explore_user_data.ipynb](pyspark_explore_user_data.ipynb):使用pyspark对MovieLens进行数据探索
 - [pyspark_regression.ipynb](pyspark_regression.ipynb):使用pyspark构建回归模型
 
-## [深度学习][40]
-- [深度学习中的激活函数][41]
-
 
 
 [0]: data-processing/
+
+[10]: math/
+[11]: math/chance-of-math.ipynb
+[12]: math/statistics-and-truth.ipynb
+[13]: math/naked-statistics.ipynb
+
 
 [30]:natural-language-processing/
 [31]:natural-language-processing/jieba.ipynb
