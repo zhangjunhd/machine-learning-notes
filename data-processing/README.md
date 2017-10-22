@@ -508,6 +508,25 @@
         - User-defined moving window functions
     - Performance and Memory Usage Notes
 ## Matplotlib
+1. [Matplotlib介绍][30]
+    - 绘图
+        - plt.plot()
+    - 在一张图上绘制两个数据集
+    - 自定义图形的外观
+    - 使用子图
+        - plt.subplot()
+    - 散点图
+        - plt.scatter()
+    - 彩色映射散点图
+        - plt.colorbar()
+    - 直方图
+        - plt.hist()
+    - 标题，标签和图例
+        - plt.legend()
+        - plt.xlabel()
+        - plt.ylabel()
+        - plt.title()
+
 
 
 [1]: pandas-series.ipynb
@@ -533,3 +552,5 @@
 [26]:numpy-linear-algebra.ipynb
 [27]:numpy-pseudorandom-number-generation.ipynb
 [28]:numpy-example-random-walks.ipynb
+
+[30]:matplotlib-intro.ipynb
