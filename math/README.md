@@ -64,11 +64,7 @@
     - 回归分析
 1. [行为科学统计][4]
     - 描述性统计
-        - 变异性
-            - 全矩和四分位距
-            - 总体的方差和标准差
-            - 样本的方差和标准差
-            - 无偏估计与有偏估计
+        - [变异性][40]
 1. [统计思维][6]
 
 [1]: chance-of-math.ipynb
@@ -76,3 +72,5 @@
 [3]: naked-statistics.ipynb
 [4]: StatisticsForTheBehavioralSciences
 [6]: thinkstats
+
+[40]: StatisticsForTheBehavioralSciences/variance.ipynb
