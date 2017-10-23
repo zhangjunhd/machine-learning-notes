@@ -8,6 +8,7 @@
 1. [机会的数学][11]
 1. [统计与真理][12]
 1. [赤裸裸的统计学][13]
+1. [行为科学统计][14]
 
 ## [深度学习][40]
 1. [深度学习中的激活函数][41]
@@ -49,7 +50,7 @@
 [11]: math/chance-of-math.ipynb
 [12]: math/statistics-and-truth.ipynb
 [13]: math/naked-statistics.ipynb
-
+[4]:  math/StatisticsForTheBehavioralSciences
 
 [30]:natural-language-processing/
 [31]:natural-language-processing/jieba.ipynb
