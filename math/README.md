@@ -67,6 +67,7 @@
         - [变异性][40]
     - 推论性统计
         - [z分数][41]
+        - [概率][42]
 1. [统计思维][6]
 
 [1]: chance-of-math.ipynb
@@ -77,3 +78,4 @@
 
 [40]: StatisticsForTheBehavioralSciences/variance.ipynb
 [41]: StatisticsForTheBehavioralSciences/z-score.ipynb
+[42]: StatisticsForTheBehavioralSciences/probability.ipynb

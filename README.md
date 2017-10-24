@@ -50,7 +50,7 @@
 [11]: math/chance-of-math.ipynb
 [12]: math/statistics-and-truth.ipynb
 [13]: math/naked-statistics.ipynb
-[4]:  math/StatisticsForTheBehavioralSciences
+[14]: math/StatisticsForTheBehavioralSciences
 
 [30]:natural-language-processing/
 [31]:natural-language-processing/jieba.ipynb
