@@ -42,7 +42,7 @@
         - 科恩d值
     - [t分数][45]
     - [两个独立样本的t检验][46]
-
+    - [两个相关样本的t检验][47]
 
 
 [40]: variance.ipynb
@@ -52,3 +52,4 @@
 [44]: hypothesis-testing.ipynb
 [45]: t-score.ipynb
 [46]: 2independent-sample-t-score.ipynb
+[47]: 2relevent-sample-t-score.ipynb
