@@ -27,9 +27,23 @@
         - 正态分布
         - 二项分布
         - 推论统计
-
+    - [概率和样本：样本平均数的分布][43]
+        - 中心极限定理
+        - 标准误
+- 平均数差异推论
+    - [假设检验][44]
+        - 虚无假设
+        - 备择假设
+        - α水平
+        - z分数
+        - 第一类误差
+        - 第二类误差
+        - 显著效应
+        - 科恩d值
 
 
 [40]: variance.ipynb
 [41]: z-score.ipynb
 [42]: probability.ipynb
+[43]: sample.ipynb
+[44]: hypothesis-testing.ipynb

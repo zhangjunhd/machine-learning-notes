@@ -68,6 +68,9 @@
     - 推论性统计
         - [z分数][41]
         - [概率][42]
+        - [概率和样本：样本平均数的分布][43]
+    - 平均数差异推论
+        - [假设检验][44]
 1. [统计思维][6]
 
 [1]: chance-of-math.ipynb
@@ -79,3 +82,5 @@
 [40]: StatisticsForTheBehavioralSciences/variance.ipynb
 [41]: StatisticsForTheBehavioralSciences/z-score.ipynb
 [42]: StatisticsForTheBehavioralSciences/probability.ipynb
+[43]: StatisticsForTheBehavioralSciences/sample.ipynb
+[44]: StatisticsForTheBehavioralSciences/hypothesis-testing.ipynb
