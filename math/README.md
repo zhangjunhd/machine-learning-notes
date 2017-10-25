@@ -71,6 +71,7 @@
         - [概率和样本：样本平均数的分布][43]
     - 平均数差异推论
         - [假设检验][44]
+        - [t分数][45]
 1. [统计思维][6]
 
 [1]: chance-of-math.ipynb
@@ -84,3 +85,4 @@
 [42]: StatisticsForTheBehavioralSciences/probability.ipynb
 [43]: StatisticsForTheBehavioralSciences/sample.ipynb
 [44]: StatisticsForTheBehavioralSciences/hypothesis-testing.ipynb
+[45]: StatisticsForTheBehavioralSciences/t-score.ipynb

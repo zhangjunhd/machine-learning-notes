@@ -40,6 +40,9 @@
         - 第二类误差
         - 显著效应
         - 科恩d值
+    - [t分数][45]
+
+
 
 
 [40]: variance.ipynb
@@ -47,3 +50,4 @@
 [42]: probability.ipynb
 [43]: sample.ipynb
 [44]: hypothesis-testing.ipynb
+[45]: t-score.ipynb
