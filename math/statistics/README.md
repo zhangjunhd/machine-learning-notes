@@ -38,8 +38,11 @@
     - 总体的回归系数β的置信区间(t统计量)
     - 假设检验(t检验和F检验)
     - 虚拟变量
+1. [方差分析][64]
+
 
 [60]: probability.ipynb
 [61]: hypothesis-testing.ipynb
 [62]: chi-square-test.ipynb
 [63]: regression-analysis-and-correlation-analysis.ipynb
+[64]: anova.ipynb

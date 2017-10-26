@@ -89,6 +89,7 @@
     - [假设检验][61]
     - [两个分类变量的χ2分析][62]
     - [回归分析(regression analysis)与相关分析(correlation analysis)][63]
+    - [方差分析][64]
 1. [统计思维][6]
 
 [1]: chance-of-math.ipynb
@@ -120,3 +121,4 @@
 [61]: statistics/hypothesis-testing.ipynb
 [62]: statistics/chi-square-test.ipynb
 [63]: statistics/regression-analysis-and-correlation-analysis.ipynb
+[64]: statistics/anova.ipynb
