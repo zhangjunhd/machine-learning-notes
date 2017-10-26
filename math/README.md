@@ -84,12 +84,15 @@
         - [卡方检验：拟合度与独立性检验][54]
         - [二项检验][55]
         - [顺序数据的统计方法][56]
+1. [统计学][5]
+    - [概率分布][60]
 1. [统计思维][6]
 
 [1]: chance-of-math.ipynb
 [2]: statistics-and-truth.ipynb
 [3]: naked-statistics.ipynb
 [4]: StatisticsForTheBehavioralSciences
+[5]: statistics
 [6]: thinkstats
 
 [40]: StatisticsForTheBehavioralSciences/variance.ipynb
@@ -109,3 +112,5 @@
 [54]: StatisticsForTheBehavioralSciences/chi-square-test.ipynb
 [55]: StatisticsForTheBehavioralSciences/binomial-test.ipynb
 [56]: StatisticsForTheBehavioralSciences/ranking-data-test.ipynb
+
+[60]: statistics/probability.ipynb

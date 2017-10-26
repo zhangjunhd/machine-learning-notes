@@ -13,3 +13,17 @@
         ISBN: 9787040078916
 
 [豆瓣链接](https://book.douban.com/subject/1230154/)
+
+1. [概率分布][60]
+    - 标准误差与标准得分
+    - 方差、标准差、标准误差和标准得分公式
+    - 概率加法与乘法
+    - 离散分布的三个例子
+        - 二项分布(binomial distribution)
+        - 泊松分布(possion distribution)
+        - 超几何分布(hypergeometric distribution)
+
+
+
+
+[60]: probability.ipynb
