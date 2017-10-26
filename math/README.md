@@ -86,6 +86,7 @@
         - [顺序数据的统计方法][56]
 1. [统计学][5]
     - [概率分布][60]
+    - [假设检验][61]
 1. [统计思维][6]
 
 [1]: chance-of-math.ipynb
@@ -114,3 +115,4 @@
 [56]: StatisticsForTheBehavioralSciences/ranking-data-test.ipynb
 
 [60]: statistics/probability.ipynb
+[61]: statistics/hypothesis-testing.ipynb

@@ -22,8 +22,15 @@
         - 二项分布(binomial distribution)
         - 泊松分布(possion distribution)
         - 超几何分布(hypergeometric distribution)
-
-
+1. [假设检验][61]
+    - 置信区间(confidence interval)
+    - 样本统计量(sample statistic)
+    - 正态总体百分比的置信区间
+    - 零假设(null hypothesis)
+    - 第一类错误与第二类错误
+    - p-值(p-value)
+    - 统计显著
 
 
 [60]: probability.ipynb
+[61]: hypothesis-testing.ipynb
