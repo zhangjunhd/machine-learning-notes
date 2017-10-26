@@ -31,13 +31,15 @@
     - p-值(p-value)
     - 统计显著
 1. [两个分类变量的χ2分析][62]
-
-
-
-
-
-
+    - 列联表(contingency table)
+1. [回归分析(regression analysis)与相关分析(correlation analysis)][63]
+    - 回归方程
+    - 相关系数r2
+    - 总体的回归系数β的置信区间(t统计量)
+    - 假设检验(t检验和F检验)
+    - 虚拟变量
 
 [60]: probability.ipynb
 [61]: hypothesis-testing.ipynb
 [62]: chi-square-test.ipynb
+[63]: regression-analysis-and-correlation-analysis.ipynb
