@@ -44,6 +44,7 @@
     - [两个独立样本的t检验][46]
     - [两个相关样本的t检验][47]
     - [估计][48]
+    - [方差分析][49]
 
 
 [40]: variance.ipynb
@@ -55,3 +56,4 @@
 [46]: 2independent-sample-t-score.ipynb
 [47]: 2relevent-sample-t-score.ipynb
 [48]: estimation.ipynb
+[49]: anova.ipynb

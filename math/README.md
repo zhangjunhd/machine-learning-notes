@@ -75,6 +75,7 @@
         - [两个独立样本的t检验][46]
         - [两个相关样本的t检验][47]
         - [估计][48]
+        - [方差分析][49]
 1. [统计思维][6]
 
 [1]: chance-of-math.ipynb
@@ -92,3 +93,4 @@
 [46]: StatisticsForTheBehavioralSciences/2independent-sample-t-score.ipynb
 [47]: StatisticsForTheBehavioralSciences/2relevent-sample-t-score.ipynb
 [48]: StatisticsForTheBehavioralSciences/estimation.ipynb
+[49]: StatisticsForTheBehavioralSciences/anova.ipynb
