@@ -50,7 +50,7 @@
 - 相关与非参数检验
     - [相关][52]
     - [回归][53]
-
+    - [卡方检验：拟合度与独立性检验][54]
 
 
 
@@ -68,3 +68,4 @@
 [51]: independent-test-anova.ipynb
 [52]: relevance.ipynb
 [53]: regression.ipynb
+[54]: chi-square-test.ipynb
