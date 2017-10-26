@@ -52,7 +52,7 @@
     - [回归][53]
     - [卡方检验：拟合度与独立性检验][54]
     - [二项检验][55]
-
+    - [顺序数据的统计方法][56]
 
 [40]: variance.ipynb
 [41]: z-score.ipynb
@@ -70,3 +70,4 @@
 [53]: regression.ipynb
 [54]: chi-square-test.ipynb
 [55]: binomial-test.ipynb
+[56]: ranking-data-test.ipynb
