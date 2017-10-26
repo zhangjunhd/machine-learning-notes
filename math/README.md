@@ -77,6 +77,9 @@
         - [估计][48]
         - [方差分析][49]
         - [重复测量方差分析][50]
+        - [双因素方差分析（独立测量）][51]
+    - 相关与非参数检验
+        - [相关][52]
 1. [统计思维][6]
 
 [1]: chance-of-math.ipynb
@@ -96,3 +99,5 @@
 [48]: StatisticsForTheBehavioralSciences/estimation.ipynb
 [49]: StatisticsForTheBehavioralSciences/anova.ipynb
 [50]: StatisticsForTheBehavioralSciences/repeat-anova.ipynb
+[51]: StatisticsForTheBehavioralSciences/independent-test-anova.ipynb
+[52]: StatisticsForTheBehavioralSciences/relevance.ipynb

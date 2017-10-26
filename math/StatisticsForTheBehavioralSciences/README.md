@@ -46,7 +46,9 @@
     - [估计][48]
     - [方差分析][49]
     - [重复测量方差分析][50]
-
+    - [双因素方差分析（独立测量）][51]
+- 相关与非参数检验
+    - [相关][52]
 [40]: variance.ipynb
 [41]: z-score.ipynb
 [42]: probability.ipynb
@@ -58,3 +60,5 @@
 [48]: estimation.ipynb
 [49]: anova.ipynb
 [50]: repeat-anova.ipynb
+[51]: independent-test-anova.ipynb
+[52]: relevance.ipynb
