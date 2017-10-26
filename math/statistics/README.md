@@ -30,7 +30,14 @@
     - 第一类错误与第二类错误
     - p-值(p-value)
     - 统计显著
+1. [两个分类变量的χ2分析][62]
+
+
+
+
+
 
 
 [60]: probability.ipynb
 [61]: hypothesis-testing.ipynb
+[62]: chi-square-test.ipynb

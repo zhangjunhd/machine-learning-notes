@@ -87,6 +87,7 @@
 1. [统计学][5]
     - [概率分布][60]
     - [假设检验][61]
+    - [两个分类变量的χ2分析][62]
 1. [统计思维][6]
 
 [1]: chance-of-math.ipynb
@@ -116,3 +117,4 @@
 
 [60]: statistics/probability.ipynb
 [61]: statistics/hypothesis-testing.ipynb
+[62]: statistics/chi-square-test.ipynb
