@@ -82,6 +82,7 @@
         - [相关][52]
         - [回归][53]
         - [卡方检验：拟合度与独立性检验][54]
+        - [二项检验][55]
 1. [统计思维][6]
 
 [1]: chance-of-math.ipynb
@@ -105,3 +106,4 @@
 [52]: StatisticsForTheBehavioralSciences/relevance.ipynb
 [53]: StatisticsForTheBehavioralSciences/regression.ipynb
 [54]: StatisticsForTheBehavioralSciences/chi-square-test.ipynb
+[55]: StatisticsForTheBehavioralSciences/binomial-test.ipynb

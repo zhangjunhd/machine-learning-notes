@@ -51,7 +51,7 @@
     - [相关][52]
     - [回归][53]
     - [卡方检验：拟合度与独立性检验][54]
-
+    - [二项检验][55]
 
 
 [40]: variance.ipynb
@@ -69,3 +69,4 @@
 [52]: relevance.ipynb
 [53]: regression.ipynb
 [54]: chi-square-test.ipynb
+[55]: binomial-test.ipynb
