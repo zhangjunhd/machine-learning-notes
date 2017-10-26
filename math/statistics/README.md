@@ -40,7 +40,7 @@
     - 虚拟变量
 1. [方差分析][64]
 1. [两个顺序变量的秩方法][65]
-
+1. [多元分析][66]
 
 [60]: probability.ipynb
 [61]: hypothesis-testing.ipynb
@@ -48,3 +48,4 @@
 [63]: regression-analysis-and-correlation-analysis.ipynb
 [64]: anova.ipynb
 [65]: rank-test.ipynb
+[66]: multi-analysis.ipynb

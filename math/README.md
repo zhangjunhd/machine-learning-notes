@@ -91,6 +91,7 @@
     - [回归分析(regression analysis)与相关分析(correlation analysis)][63]
     - [方差分析][64]
     - [两个顺序变量的秩方法][65]
+    - [多元分析][66]
 1. [统计思维][6]
 
 [1]: chance-of-math.ipynb
@@ -124,3 +125,4 @@
 [63]: statistics/regression-analysis-and-correlation-analysis.ipynb
 [64]: statistics/anova.ipynb
 [65]: statistics/rank-test.ipynb
+[66]: statistics/multi-analysis.ipynb
