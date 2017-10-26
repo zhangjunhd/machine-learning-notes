@@ -39,6 +39,7 @@
     - 假设检验(t检验和F检验)
     - 虚拟变量
 1. [方差分析][64]
+1. [两个顺序变量的秩方法][65]
 
 
 [60]: probability.ipynb
@@ -46,3 +47,4 @@
 [62]: chi-square-test.ipynb
 [63]: regression-analysis-and-correlation-analysis.ipynb
 [64]: anova.ipynb
+[65]: rank-test.ipynb
