@@ -23,11 +23,11 @@
     - 展布(spread):对值在分布中扩展规模的度量。
     - 汇总统计量(summary statistic):对分布的某些方面（如集中趋势或展布）进行量化的统计量。
     - 效应量(effect size):一种汇总统计量，用于量化一个效应的大小，如群组之间的差异。
-1. 概率质量函数
+1. [概率质量函数][72]
     - 概率质量函数(probability mass function,PMF):将概率分布表示为从值到概率的映射。
     - 概率(probability):将频数表示为样本量的分数。
     - 正态化(normalization):将频数除以样本量获得概率值的过程。
-1 .累积分布函数
+1. 累积分布函数
     - 百分位秩(percentile rank):一个分布中小于或等于给定值的百分比。
     - 百分位数(percentile):与给定百分位秩相关联的值。
     - 累积分布函数(cumulative distribution function,CDF):将值映射到累积概率的函数。CDF(x)是样本中大于或等于x的值所占的比例。
@@ -133,3 +133,4 @@
 
 [70]: explode.ipynb
 [71]: distribution.ipynb
+[72]: pmf.ipynb

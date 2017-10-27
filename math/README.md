@@ -95,6 +95,7 @@
 1. [统计思维][6]
     - [探索性数据分析][70]
     - [分布][71]
+    - [概率质量函数][72]
 
 [1]: chance-of-math.ipynb
 [2]: statistics-and-truth.ipynb
@@ -131,3 +132,4 @@
 
 [70]: thinkstats/explode.ipynb
 [71]: thinkstats/distribution.ipynb
+[72]: thinkstats/pmf.ipynb
