@@ -98,6 +98,7 @@
     - [概率质量函数][72]
     - [累积分布函数][73]
     - [分布建模][74]
+    - [概率密度函数][75]
 
 [1]: chance-of-math.ipynb
 [2]: statistics-and-truth.ipynb
@@ -137,3 +138,4 @@
 [72]: thinkstats/pmf.ipynb
 [73]: thinkstats/cdf.ipynb
 [74]: thinkstats/distribution-modeling.ipynb
+[75]: thinkstats/pdf.ipynb

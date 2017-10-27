@@ -16,16 +16,15 @@ data/retail.dat.gz
 
 *.pyc
 
-data/Bike-Sharing-Dataset/hour_noheader.csv
 
 deep-learning/Fundamentals-of-Deep-Learning/data
 deep-learning/Fundamentals-of-Deep-Learning/*_logs*
-
-
 deep-learning/Fundamentals-of-Deep-Learning/text8.zip
 
 data-processing/data/P00000001-ALL.csv
 data-processing/data/out
+
+math/thinkstats/CDBRFS08.ASC.gz
 
 .idea/*
 

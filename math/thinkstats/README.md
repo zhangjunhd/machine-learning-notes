@@ -41,7 +41,7 @@
     - 正态概率图
     - 对数正态分布
     - Pareto分布
-1. 概率密度函数
+1. [概率密度函数][75]
     - 概率密度函数(probability density function,PDF):连续CDF的导数。这个函数将值映射到其概率密度。
     - 概率密度(probability density):一个数值，可以在一个取值范围上进行积分得到一个概率。如果值的单位为厘米，那么概率密度的单位为每厘米的概率。
     - 核密度估计(kernel density estimation,KDE):基于一个样本对PDF进行估计的算法。
@@ -140,3 +140,4 @@
 [72]: pmf.ipynb
 [73]: cdf.ipynb
 [74]: distribution-modeling.ipynb
+[75]: pdf.ipynb
