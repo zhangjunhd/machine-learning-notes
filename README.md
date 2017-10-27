@@ -10,6 +10,7 @@
 1. [赤裸裸的统计学][13]
 1. [行为科学统计][14]
 1. [统计学][15]
+1. [统计思维][16]
 
 ## [深度学习][40]
 1. [深度学习中的激活函数][41]
@@ -53,7 +54,7 @@
 [13]: math/naked-statistics.ipynb
 [14]: math/StatisticsForTheBehavioralSciences
 [15]: math/statistics
-
+[16]: math/thinkstats
 
 [30]:natural-language-processing/
 [31]:natural-language-processing/jieba.ipynb
