@@ -12,7 +12,6 @@
     ISBN: 9787115401083
 
 - [豆瓣链接](https://book.douban.com/subject/26593825/)
-- [PythonNotebook](ThinkStats.ipynb)
 
 ## 目录
 1. [探索性数据分析][70]
@@ -27,7 +26,7 @@
     - 概率质量函数(probability mass function,PMF):将概率分布表示为从值到概率的映射。
     - 概率(probability):将频数表示为样本量的分数。
     - 正态化(normalization):将频数除以样本量获得概率值的过程。
-1. 累积分布函数
+1. [累积分布函数][73]
     - 百分位秩(percentile rank):一个分布中小于或等于给定值的百分比。
     - 百分位数(percentile):与给定百分位秩相关联的值。
     - 累积分布函数(cumulative distribution function,CDF):将值映射到累积概率的函数。CDF(x)是样本中大于或等于x的值所占的比例。
@@ -134,3 +133,4 @@
 [70]: explode.ipynb
 [71]: distribution.ipynb
 [72]: pmf.ipynb
+[73]: cdf.ipynb
