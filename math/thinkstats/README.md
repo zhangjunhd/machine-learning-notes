@@ -63,7 +63,7 @@
     - 秩(rank):一个元素出现在排序列表中的索引。
     - Pearson相关性(Pearson's correlation)
     - Spearman秩相关(Spearman's rank correlation)
-1. 估计
+1. [估计][77]
     - 估计(estimation):从样本推导出分布参数的过程。
     - 估计量(estimator):用于估计一个参数的统计量。
     - 均方误差(mean suqared error,MSE):对估计误差的度量。
@@ -142,3 +142,4 @@
 [74]: distribution-modeling.ipynb
 [75]: pdf.ipynb
 [76]: relation-of-variables.ipynb
+[77]: estimation.ipynb
