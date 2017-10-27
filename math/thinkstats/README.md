@@ -53,7 +53,7 @@
     - 样本偏度(sample skewness):一个基于矩的统计量，用于量化分布的偏度。
     - Pearson中位数偏度系数(Pearson's median skewness coefficient):用于量化分布偏度的一个统计量，基于中位数、均值和标准差。
     - 稳健(robust):如果一个统计量受离群值的影响相对较小，那么这个统计量就是稳健的。
-1. 变量之间的关系
+1. [变量之间的关系][76]
     - 抖动(jitter):为了可视化而在数据中加入的随机噪音。
     - 饱和(saturation):多个点叠加而导致的信息丢失。
     - 相关性(correlation):衡量两个变量之间关系强弱的统计量。
@@ -141,3 +141,4 @@
 [73]: cdf.ipynb
 [74]: distribution-modeling.ipynb
 [75]: pdf.ipynb
+[76]: relation-of-variables.ipynb
