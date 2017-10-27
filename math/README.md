@@ -94,6 +94,7 @@
     - [多元分析][66]
 1. [统计思维][6]
     - [探索性数据分析][70]
+    - [分布][71]
 
 [1]: chance-of-math.ipynb
 [2]: statistics-and-truth.ipynb
@@ -129,3 +130,4 @@
 [66]: statistics/multi-analysis.ipynb
 
 [70]: thinkstats/explode.ipynb
+[71]: thinkstats/distribution.ipynb

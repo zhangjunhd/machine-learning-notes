@@ -6,21 +6,6 @@ License: GNU GPLv3 http://www.gnu.org/licenses/gpl.html
 """
 
 from __future__ import print_function, division
-
-"""This file contains class definitions for:
-
-Hist: represents a histogram (map from values to integer frequencies).
-
-Pmf: represents a probability mass function (map from values to probs).
-
-_DictWrapper: private parent class for Hist and Pmf.
-
-Cdf: represents a discrete cumulative distribution function
-
-Pdf: represents a continuous probability density function
-
-"""
-
 import bisect
 import copy
 import logging
@@ -45,6 +30,21 @@ from io import open
 
 ROOT2 = math.sqrt(2)
 
+"""This file contains class definitions for:
+
+Hist: represents a histogram (map from values to integer frequencies).
+
+Pmf: represents a probability mass function (map from values to probs).
+
+_DictWrapper: private parent class for Hist and Pmf.
+
+Cdf: represents a discrete cumulative distribution function
+
+Pdf: represents a continuous probability density function
+
+"""
+
+
 def RandomSeed(x):
     """Initialize the random and np.random generators.
 
@@ -52,7 +52,7 @@ def RandomSeed(x):
     """
     random.seed(x)
     np.random.seed(x)
-    
+
 
 def Odds(p):
     """Computes odds for a given probability.
