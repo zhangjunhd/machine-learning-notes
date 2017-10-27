@@ -9,7 +9,6 @@ from __future__ import print_function
 
 from collections import defaultdict
 import numpy as np
-import sys
 
 import thinkstats2
 
@@ -99,8 +98,8 @@ def test():
     weights = df.finalwgt.value_counts()
     key = max(weights.keys())
     assert df.finalwgt.value_counts()[key] == 6
-
     print('All tests passed.')
+
 
 if __name__ == '__main__':
     test()

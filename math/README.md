@@ -93,6 +93,7 @@
     - [两个顺序变量的秩方法][65]
     - [多元分析][66]
 1. [统计思维][6]
+    - [探索性数据分析][70]
 
 [1]: chance-of-math.ipynb
 [2]: statistics-and-truth.ipynb
@@ -126,3 +127,5 @@
 [64]: statistics/anova.ipynb
 [65]: statistics/rank-test.ipynb
 [66]: statistics/multi-analysis.ipynb
+
+[70]: thinkstats/explode.ipynb
