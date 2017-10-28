@@ -33,7 +33,15 @@
     - 载入你自己的语料库
         - txt文件载入
         - 载入宾州树库的副本
+1. [条件频率分布][203]
+    - 条件与事件
+    - 按文体计数词汇
+    - 绘制分布图和分布表
+    - 使用Bigrams生成随机文本
+
+
 
 
 [201]: nltk-introduction.ipynb
 [202]: corpus.ipynb
+[203]: conditional-frequency-distribution.ipynb

@@ -5,6 +5,7 @@
 1. [Python自然语言处理][200]
     - [NLTK入门][201]
     - [获取文本语料库][202]
+    - [条件频率分布][203]
 1. [结巴中文分词][300]
     - 分词
     - 添加自定义词典
@@ -106,7 +107,7 @@
 [200]: NaturalLanguageProcessingWithPython
 [201]: NaturalLanguageProcessingWithPython/nltk-introduction.ipynb
 [202]: NaturalLanguageProcessingWithPython/corpus.ipynb
-
+[203]: NaturalLanguageProcessingWithPython/conditional-frequency-distribution.ipynb
 
 
 [300]:jieba.ipynb
