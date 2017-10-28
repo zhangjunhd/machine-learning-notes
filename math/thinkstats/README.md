@@ -97,7 +97,7 @@
     - 拟合优度(goodness of fit):度量模型与数据相符合的程度。
     - 决定系数$R^2$(coefficient of determination):量化拟合优度的统计量。
     - 抽样权重(sampling weight):与样本中一个观测相关的值，说明该观测代表总体的哪一部分。
-1. 回归
+1. [回归][80]
     - 回归(regression):估计模型参数以拟合数据的几个相关过程之一。
     - 因变量(dependent variable):回归模型中，希望进行预测的变量，也称为内生变量。
     - 解释变量(explanatory variable):用于预测或解释因变量的变量，也称为自变量或外生变量。
@@ -145,3 +145,4 @@
 [77]: estimation.ipynb
 [78]: hypothesis-testing.ipynb
 [79]: least-square-method.ipynb
+[80]: regression.ipynb

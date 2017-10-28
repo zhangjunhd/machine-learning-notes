@@ -103,6 +103,7 @@
     - [估计][77]
     - [假设检验][78]
     - [线性最小二乘法][79]
+    - [回归][80]
 
 [1]: chance-of-math.ipynb
 [2]: statistics-and-truth.ipynb
@@ -147,3 +148,4 @@
 [77]: thinkstats/estimation.ipynb
 [78]: thinkstats/hypothesis-testing.ipynb
 [79]: thinkstats/least-square-method.ipynb
+[80]: thinkstats/regression.ipynb
