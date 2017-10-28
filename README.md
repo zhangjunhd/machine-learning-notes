@@ -17,6 +17,7 @@
 
 ## [自然语言处理][30]
 ### 词袋模型
+1. [Python自然语言处理][34]
 1. [结巴中文分词][31]
 1. [文本聚类][32]
 1. [主题模型][33]
@@ -57,10 +58,11 @@
 [15]: math/statistics
 [16]: math/thinkstats
 
-[30]:natural-language-processing/
-[31]:natural-language-processing/jieba.ipynb
-[32]:natural-language-processing/text_clustering.ipynb
-[33]:natural-language-processing/topic_model.ipynb
+[30]: natural-language-processing/
+[31]: natural-language-processing/jieba.ipynb
+[32]: natural-language-processing/text_clustering.ipynb
+[33]: natural-language-processing/topic_model.ipynb
+[34]: natural-language-processing/NaturalLanguageProcessingWithPython
 
-[40]:deep-learning
-[41]:deep-learning/activation-function.ipynb
+[40]: deep-learning
+[41]: deep-learning/activation-function.ipynb

@@ -1,5 +1,6 @@
 # 自然语言处理
 ## 词袋模型
+1. [Python自然语言处理][200]
 1. [结巴中文分词][300]
     - 分词
     - 添加自定义词典
@@ -96,6 +97,8 @@
 
 [120]:https://arxiv.org/pdf/1609.08144.pdf
 [121]:https://nlp.stanford.edu/pubs/luong2016iclr_multi.pdf
+
+[200]: NaturalLanguageProcessingWithPython
 
 [300]:jieba.ipynb
 [301]:text_clustering.ipynb
