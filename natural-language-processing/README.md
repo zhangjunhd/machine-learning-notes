@@ -4,6 +4,7 @@
 
 1. [Python自然语言处理][200]
     - [NLTK入门][201]
+    - [获取文本语料库][202]
 1. [结巴中文分词][300]
     - 分词
     - 添加自定义词典
@@ -104,6 +105,9 @@
 
 [200]: NaturalLanguageProcessingWithPython
 [201]: NaturalLanguageProcessingWithPython/nltk-introduction.ipynb
+[202]: NaturalLanguageProcessingWithPython/corpus.ipynb
+
+
 
 [300]:jieba.ipynb
 [301]:text_clustering.ipynb
