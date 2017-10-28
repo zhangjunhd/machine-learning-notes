@@ -90,7 +90,7 @@
     - 误报(false positive):当效应为假时，作出效应为真的结论。
     - 漏报(false negative):当效应非偶然产生时，作出效应是偶然产生的结论。
     - 功效(power):当原假设为假时，正检验的概率。
-1. 线性最小二乘法
+1. [线性最小二乘法][79]
     - 线性拟合(linear fit):对变量关系进行建模的线。
     - 最小二乘法拟合(least squares fit):使残差平方和最小的数据集模型。
     - 残差(residual):实际值与模型的偏差。
@@ -144,3 +144,4 @@
 [76]: relation-of-variables.ipynb
 [77]: estimation.ipynb
 [78]: hypothesis-testing.ipynb
+[79]: least-square-method.ipynb

@@ -102,6 +102,7 @@
     - [变量之间的关系][76]
     - [估计][77]
     - [假设检验][78]
+    - [线性最小二乘法][79]
 
 [1]: chance-of-math.ipynb
 [2]: statistics-and-truth.ipynb
@@ -145,3 +146,4 @@
 [76]: thinkstats/relation-of-variables.ipynb
 [77]: thinkstats/estimation.ipynb
 [78]: thinkstats/hypothesis-testing.ipynb
+[79]: thinkstats/least-square-method.ipynb
