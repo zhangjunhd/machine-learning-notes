@@ -16,15 +16,16 @@
 1. [深度学习中的激活函数][41]
 
 ## [自然语言处理][30]
+### 词袋模型
 1. [结巴中文分词][31]
 1. [文本聚类][32]
 1. [主题模型][33]
-1. 论文集
-    - Neural Probabilistic Language Model
-    - Continuous Space Representations
-    - Deep Structured Semantic Models(DSSM)
-    - Translation
-    - Natural Language Generation(NLG)
+### 深度学习
+1. Neural Probabilistic Language Model
+1. Continuous Space Representations
+1. Deep Structured Semantic Models(DSSM)
+1. Translation
+1. Natural Language Generation(NLG)
 
 ## 经典机器学习
 ### 分类

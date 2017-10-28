@@ -1,5 +1,5 @@
 # 自然语言处理
-## 代码
+## 词袋模型
 1. [结巴中文分词][300]
     - 分词
     - 添加自定义词典
@@ -16,7 +16,7 @@
     - 构建主题模型
     - 在主题空间比较相似度
 
-## 论文
+## 深度学习
 ### Neural Probabilistic Language Model
 1. [A Neural Probabilistic Language Model][1],Yoshua Bengio,Réjean Ducharme,Pascal Vincent,Christian Jauvin,[Journal of Machine Learning Research 3 (2003)][101]
 1. Semantic Hashing
