@@ -112,7 +112,7 @@
     - Logistic回归(logistic regression):因变量为布尔型时使用的一种回归。
     - Poisson回归(poisson regression):因变量为非负整数（通常为一个计算值）时使用的一种回归。
     - 优势(odds):概率p的另一种表示方法，即概率与其补值的比率，p/(1-p)。
-1. 时间序列分析
+1. [时间序列分析][81]
     - 时间序列(time series):一个数据集，其中每个值都与一个时间戳相关，通常为一系列测量值及其收集时间。
     - 窗口(window):时间序列中的一列连续值，经常用于计算移动平均值。
     - 移动平均值(moving average):用于估计时间序列的潜在趋势的统计量之一，通过计算一些列重叠窗口的（某种）平均值得到。
@@ -123,7 +123,7 @@
     - 自相关(autocorrelation):一个更为通用的术语，描述使用任意滞后值的序列相关。
     - 自相关函数(autocorrelation function):将滞后映射到序列相关的函数。
     - 平稳(stationary):如果一个模型的参数和残差分布不随时间变化，那么这个模型就是平稳的。
-1. 生存分析
+1. [生存分析][82]
     - 生存分析(survival analysis):描述和预测生存期（或直到某事件发生的时间）的一组方法。
     - 生存曲线(survival curve):一个函数，将时间t映射到在t之后仍然存活的概率。
     - 危险函数(hazard function):一个函数，将时间t映射到t之前存活的人中在t时刻死亡的比例。
@@ -132,8 +132,11 @@
     - 群组效应(cohort effect):群组之间的差异。
     - NBUE:预期剩余生存期的一个属性，“新比旧好”(New better than used in expectation)。
     - UBNE:预期剩余生存期的一个属性，“旧比新好”(Used better than new in expectation)。
-1. 分析方法
-
+1. [分析方法][83]
+    - 正态分布
+    - 中心极限定理
+    - 相关检验
+    - 卡方检验
 
 [70]: explode.ipynb
 [71]: distribution.ipynb
@@ -146,3 +149,6 @@
 [78]: hypothesis-testing.ipynb
 [79]: least-square-method.ipynb
 [80]: regression.ipynb
+[81]: time-series.ipynb
+[82]: survival-analysis.ipynb
+[83]: analysis-method.ipynb

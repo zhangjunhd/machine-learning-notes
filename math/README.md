@@ -104,6 +104,9 @@
     - [假设检验][78]
     - [线性最小二乘法][79]
     - [回归][80]
+    - [时间序列分析][81]
+    - [生存分析][82]
+    - [分析方法][83]
 
 [1]: chance-of-math.ipynb
 [2]: statistics-and-truth.ipynb
@@ -149,3 +152,6 @@
 [78]: thinkstats/hypothesis-testing.ipynb
 [79]: thinkstats/least-square-method.ipynb
 [80]: thinkstats/regression.ipynb
+[81]: thinkstats/time-series.ipynb
+[82]: thinkstats/survival-analysis.ipynb
+[83]: thinkstats/analysis-method.ipynb
