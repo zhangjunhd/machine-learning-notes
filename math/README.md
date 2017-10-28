@@ -101,6 +101,7 @@
     - [概率密度函数][75]
     - [变量之间的关系][76]
     - [估计][77]
+    - [假设检验][78]
 
 [1]: chance-of-math.ipynb
 [2]: statistics-and-truth.ipynb
@@ -143,3 +144,4 @@
 [75]: thinkstats/pdf.ipynb
 [76]: thinkstats/relation-of-variables.ipynb
 [77]: thinkstats/estimation.ipynb
+[78]: thinkstats/hypothesis-testing.ipynb

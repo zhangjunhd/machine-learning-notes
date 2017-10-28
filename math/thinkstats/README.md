@@ -76,7 +76,7 @@
     - 抽样分布(sampling distribution):实验重复多次得到的统计量分布。
     - 标准误差(standard error):一个估计的均方根误差，对抽样误差（而非其他误差源）导致的波动进行量化。
     - 置信区间(confidence interval):一个区间，代表实验重复多次时预期的估计量范围。
-1. 假设检验
+1. [假设检验][78]
     - 假设检验(hypothesis testing):判断一个直观效应是否统计显著的过程。
     - 检验统计量(test statistic):用于量化效应规模的统计量。
     - 原假设(null hypothesis):一个系统模型，假设一个直观效应是偶然发生的。
@@ -143,3 +143,4 @@
 [75]: pdf.ipynb
 [76]: relation-of-variables.ipynb
 [77]: estimation.ipynb
+[78]: hypothesis-testing.ipynb
