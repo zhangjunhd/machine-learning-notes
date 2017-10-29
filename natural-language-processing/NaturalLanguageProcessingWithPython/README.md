@@ -38,10 +38,19 @@
     - 按文体计数词汇
     - 绘制分布图和分布表
     - 使用Bigrams生成随机文本
-
-
+1. [词典资源][204]
+    - 词汇列表语料库
+    - 发音的词典
+    - 比较词表
+    - 词汇工具：Toolbox
+    - WordNet
+        - 意义与同义词
+        - WordNet的层次结构
+        - 更多的词汇关系
+        - 语义相似度
 
 
 [201]: nltk-introduction.ipynb
 [202]: corpus.ipynb
 [203]: conditional-frequency-distribution.ipynb
+[204]: lexical.ipynb

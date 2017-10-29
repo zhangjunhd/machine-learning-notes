@@ -6,6 +6,7 @@
     - [NLTK入门][201]
     - [获取文本语料库][202]
     - [条件频率分布][203]
+    - [词典资源][204]
 1. [结巴中文分词][300]
     - 分词
     - 添加自定义词典
@@ -108,7 +109,7 @@
 [201]: NaturalLanguageProcessingWithPython/nltk-introduction.ipynb
 [202]: NaturalLanguageProcessingWithPython/corpus.ipynb
 [203]: NaturalLanguageProcessingWithPython/conditional-frequency-distribution.ipynb
-
+[204]: NaturalLanguageProcessingWithPython/lexical.ipynb
 
 [300]:jieba.ipynb
 [301]:text_clustering.ipynb
