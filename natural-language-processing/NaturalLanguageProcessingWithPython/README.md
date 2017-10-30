@@ -65,9 +65,29 @@
             - 如果两个同义词集共用一个特定的`hypernym`——在hypernym层次结构中处于较低层——它们一定有密切的联系。
             - 可以通过查找每个同义词集的深度来量化这个普遍性概念。
             - path_similarity基于hypernym层次结构概念中相互关联的最短路径下，在0~1范围内的相似度（两者之间没有路径返回-1）。同义词集与自身比较将返回1。
+1. [handle-with-raw-text.ipynb][205]
+    - 从网络和硬盘访问文本
+        - 电子书
+        - 处理HTML
+        - 处理RSS订阅
+        - 读取本地文件
+        - NLP流程
+    - 使用正则表达式
+        - 提取字符块
+        - 查找词干(`stems`)
+        - 搜索已分词文本
+    - 规范化(`Normalizing`)文本
+        - 词干提取器(`Stemmers`)
+        - 词形归并(`Lemmatization`)
+        - 分割(`Segmentation`)
+            - `Tokenization` is an instance of a more general problem of `segmentation`.
+            - 将分词转换成搜索问题
+                - 评估函数
+                - 模拟退火
 
 
 [201]: nltk-introduction.ipynb
 [202]: corpus.ipynb
 [203]: conditional-frequency-distribution.ipynb
 [204]: lexical.ipynb
+[205]: handle-with-raw-text.ipynb

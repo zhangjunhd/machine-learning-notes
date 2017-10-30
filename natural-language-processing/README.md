@@ -7,6 +7,7 @@
     - [获取文本语料库][202]
     - [条件频率分布][203]
     - [词典资源][204]
+    - [handle-with-raw-text.ipynb][205]
 1. [结巴中文分词][300]
     - 分词
     - 添加自定义词典
@@ -110,6 +111,7 @@
 [202]: NaturalLanguageProcessingWithPython/corpus.ipynb
 [203]: NaturalLanguageProcessingWithPython/conditional-frequency-distribution.ipynb
 [204]: NaturalLanguageProcessingWithPython/lexical.ipynb
+[205]: NaturalLanguageProcessingWithPython/handle-with-raw-text.ipynb
 
 [300]:jieba.ipynb
 [301]:text_clustering.ipynb
