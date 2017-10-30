@@ -84,10 +84,11 @@
             - 将分词转换成搜索问题
                 - 评估函数
                 - 模拟退火
-
+1. [分类和标注词汇][206]
 
 [201]: nltk-introduction.ipynb
 [202]: corpus.ipynb
 [203]: conditional-frequency-distribution.ipynb
 [204]: lexical.ipynb
 [205]: handle-with-raw-text.ipynb
+[206]: classify-and-pos-tagging.ipynb
