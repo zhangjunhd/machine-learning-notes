@@ -85,6 +85,36 @@
                 - 评估函数
                 - 模拟退火
 1. [分类和标注词汇][206]
+    - 使用词性标注器(`part-of-speech tagger` 或 `POS tagger`)
+    - 标注语料库
+        - 读取已标注的语料库
+        - 简化的词性标记集
+        - 名词
+        - 动词
+        - 未简化的标记
+        - 探索已标注的语料库
+    - 自动标注
+        - 默认标注器
+        - 正则表达式标注器
+        - 查询标注器
+    - N-gram标注
+        - 一元标注器(Unigram Tagging)
+        - 分离训练和测试数据
+        - 一般的N-gram的标注
+        - 组合标注器
+        - 标注生词
+        - 存储标注器
+        - 性能限制
+        - 跨句子边界标注
+    - 基于转换的标注(Transformation-Based Tagging)
+    - 如何确定一个词的分类
+        - 形态学(Morphological)线索
+        - 句法(Syntactic)线索
+        - 语义(Semantic)线索
+        - 新词
+        - 词性标注集中的形态学(Morphology in Part-of-Speech Tagsets)
+
+
 
 [201]: nltk-introduction.ipynb
 [202]: corpus.ipynb
