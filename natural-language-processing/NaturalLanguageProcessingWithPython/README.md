@@ -132,7 +132,7 @@
             - 最大熵隐马尔可夫模型(`Maximum Entropy Markov Models`)和线性链条件随机场模型(`Linear-Chain Conditional Random Field Models`)
 1. [分类文本句子分割][210]
 1. [识别对话行为类型][211]
-
+1. [识别文字蕴含][212]
 
 [201]: nltk-introduction.ipynb
 [202]: corpus.ipynb
@@ -145,3 +145,4 @@
 [209]: classify_pos_tagging.ipynb
 [210]: classify_sentence_segment.ipynb
 [211]: recognizing-dialog-behaviour.ipynb
+[212]: recognizing-textual-entailment.ipynb

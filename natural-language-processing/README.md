@@ -14,6 +14,7 @@
     - [分类文本词性标注][209]
     - [分类文本句子分割][210]
     - [识别对话行为类型][211]
+    - [识别文字蕴含][212]
 1. [结巴中文分词][300]
     - 分词
     - 添加自定义词典
@@ -124,7 +125,7 @@
 [209]: NaturalLanguageProcessingWithPython/classify_pos_tagging.ipynb
 [210]: NaturalLanguageProcessingWithPython/classify_sentence_segment.ipynb
 [211]: NaturalLanguageProcessingWithPython/recognizing-dialog-behaviour.ipynb
-
+[212]: NaturalLanguageProcessingWithPython/recognizing-textual-entailment.ipynb
 
 [300]:jieba.ipynb
 [301]:text_clustering.ipynb
