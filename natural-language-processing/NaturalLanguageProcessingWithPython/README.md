@@ -116,6 +116,11 @@
 1. [分类文本性别鉴定][207]
     - naive Bayes classifier
     - 似然比(`likelihood ratios`)
+1. [分类文本电影评论正负面评价][208]
+    - NaiveBayesClassifier
+
+
+
 
 [201]: nltk-introduction.ipynb
 [202]: corpus.ipynb
@@ -124,3 +129,4 @@
 [205]: handle-with-raw-text.ipynb
 [206]: classify-and-pos-tagging.ipynb
 [207]: classify_gender.ipynb
+[208]: classify_movie_reviews.ipynb
