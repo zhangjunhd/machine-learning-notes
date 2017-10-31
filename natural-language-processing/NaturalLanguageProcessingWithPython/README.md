@@ -113,8 +113,9 @@
         - 语义(Semantic)线索
         - 新词
         - 词性标注集中的形态学(Morphology in Part-of-Speech Tagsets)
-
-
+1. [分类文本性别鉴定][207]
+    - naive Bayes classifier
+    - 似然比(`likelihood ratios`)
 
 [201]: nltk-introduction.ipynb
 [202]: corpus.ipynb
@@ -122,3 +123,4 @@
 [204]: lexical.ipynb
 [205]: handle-with-raw-text.ipynb
 [206]: classify-and-pos-tagging.ipynb
+[207]: classify_gender.ipynb
