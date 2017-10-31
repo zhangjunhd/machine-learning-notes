@@ -118,9 +118,19 @@
     - 似然比(`likelihood ratios`)
 1. [分类文本电影评论正负面评价][208]
     - NaiveBayesClassifier
-
-
-
+1. [分类文本词性标注][209]
+    - 词性标注(`Part-of-Speech Tagging`)
+    - 基于后缀
+    - 探索上下文语境
+    - 序列分类
+        - 为了获取相关分类任务之间的依赖关系，我们可以使用`joint classifier`模型，为一些相关的输入选择适当的标签。
+        - 在词性标注的例子中，可以使用各种不同的`sequence classifier`模型为给定的句子中的所有词选择词性标签。
+        - 一种称为`consecutive classification`或`greedy sequence classification`的序列分类器策略，为第一个输入找到最有可能的类标签，然后在此基础上找到下一个输入的最佳的标签。这个过程可以不断重复直到所有的输入都被贴上标签。
+    - 其他序列分类方法
+        - 这种方法的缺点是一旦做出决定便无法更改。例如：如果决定将一个词标注为名词，但后来发现应该是动词，那也没有办法修复我们的错误了。解决这个问题的方法是采取转型策略(`transformational strategy`)。转型联合分类(`Transformational joint classifiers`)的工作原理是为输入的标签创建一个初始值，然后反复提炼该值，尝试修复相关输入之间的不一致。`Brill标注器`，是使用这种策略的。
+        - 隐马尔可夫模型(`Hidden Markov Models`)采取了这种方法。
+            - 最大熵隐马尔可夫模型(`Maximum Entropy Markov Models`)和线性链条件随机场模型(`Linear-Chain Conditional Random Field Models`)
+1. [分类文本句子分割][210]
 
 [201]: nltk-introduction.ipynb
 [202]: corpus.ipynb
@@ -130,3 +140,5 @@
 [206]: classify-and-pos-tagging.ipynb
 [207]: classify_gender.ipynb
 [208]: classify_movie_reviews.ipynb
+[209]: classify_pos_tagging.ipynb
+[210]: classify_sentence_segment.ipynb

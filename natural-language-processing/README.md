@@ -11,6 +11,8 @@
     - [分类和标注词汇][206]
     - [分类文本性别鉴定][207]
     - [分类文本电影评论正负面评价][208]
+    - [分类文本词性标注][209]
+    - [分类文本句子分割][210]
 1. [结巴中文分词][300]
     - 分词
     - 添加自定义词典
@@ -118,7 +120,8 @@
 [206]: NaturalLanguageProcessingWithPython/classify-and-pos-tagging.ipynb
 [207]: NaturalLanguageProcessingWithPython/classify_gender.ipynb
 [208]: NaturalLanguageProcessingWithPython/classify_movie_reviews.ipynb
-
+[209]: NaturalLanguageProcessingWithPython/classify_pos_tagging.ipynb
+[210]: NaturalLanguageProcessingWithPython/classify_sentence_segment.ipynb
 
 [300]:jieba.ipynb
 [301]:text_clustering.ipynb
