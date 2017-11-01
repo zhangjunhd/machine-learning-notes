@@ -11,6 +11,7 @@
 1. [行为科学统计][14]
 1. [统计学][15]
 1. [统计思维][16]
+1. [狄利克雷过程（dirichlet process ）的五种理解][17]
 
 ## [深度学习][40]
 1. [深度学习中的激活函数][41]
@@ -57,6 +58,7 @@
 [14]: math/StatisticsForTheBehavioralSciences
 [15]: math/statistics
 [16]: math/thinkstats
+[17]: math/dp.ipynb
 
 [30]: natural-language-processing/
 [31]: natural-language-processing/jieba.ipynb
