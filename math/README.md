@@ -108,6 +108,7 @@
     - [生存分析][82]
     - [分析方法][83]
 1. [狄利克雷过程（dirichlet process ）的五种理解][7]
+1. [Dirichlet分布][8]
 
 [1]: chance-of-math.ipynb
 [2]: statistics-and-truth.ipynb
@@ -116,6 +117,9 @@
 [5]: statistics
 [6]: thinkstats
 [7]: dp.ipynb
+[8]: dirichlet.ipynb
+
+
 
 [40]: StatisticsForTheBehavioralSciences/variance.ipynb
 [41]: StatisticsForTheBehavioralSciences/z-score.ipynb

@@ -12,6 +12,7 @@
 1. [统计学][15]
 1. [统计思维][16]
 1. [狄利克雷过程（dirichlet process ）的五种理解][17]
+1. [Dirichlet分布][18]
 
 ## [深度学习][40]
 1. [深度学习中的激活函数][41]
@@ -59,6 +60,7 @@
 [15]: math/statistics
 [16]: math/thinkstats
 [17]: math/dp.ipynb
+[18]: math/dirichlet.ipynb
 
 [30]: natural-language-processing/
 [31]: natural-language-processing/jieba.ipynb
