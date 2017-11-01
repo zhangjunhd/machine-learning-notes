@@ -133,6 +133,7 @@
 1. [分类文本句子分割][210]
 1. [识别对话行为类型][211]
 1. [识别文字蕴含][212]
+1. [决策树][213]
 
 [201]: nltk-introduction.ipynb
 [202]: corpus.ipynb
@@ -146,3 +147,4 @@
 [210]: classify_sentence_segment.ipynb
 [211]: recognizing-dialog-behaviour.ipynb
 [212]: recognizing-textual-entailment.ipynb
+[213]: decision-tree.ipynb
