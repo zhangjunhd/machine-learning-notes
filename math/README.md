@@ -108,7 +108,17 @@
     - [生存分析][82]
     - [分析方法][83]
 1. [狄利克雷过程（dirichlet process ）的五种理解][7]
+    - 原始定义
+    - 中国餐馆过程（CRP）
+    - Polya urn模型
+    - stick-breaking模型
+    - 无限混合模型
 1. [Dirichlet分布][8]
+    - 基础知识：conjugate priors共轭先验
+    - 二项分布和Beta分布
+    - 多项分布和Dirichlet分布
+    - Dirichlet分布的性质
+
 
 [1]: chance-of-math.ipynb
 [2]: statistics-and-truth.ipynb
