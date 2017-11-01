@@ -134,6 +134,34 @@
 1. [识别对话行为类型][211]
 1. [识别文字蕴含][212]
 1. [决策树][213]
+    - 熵(Entropy)和信息增益(Information Gain)
+1. [朴素贝叶斯][214]
+1. [最大熵][215]
+1. [从文本提取信息][216]
+    - 信息提取
+        - 信息提取结构
+    - 分块(Chunking)
+        - 名词短语分块
+        - 用正则表达式分块
+        - 探索文本语料库
+        - 缝隙(Chinking)
+        - 分块的表示：标记与树状图
+    - 开发和评估分块器
+        - 读取IOB格式与CoNLL2000分块语料库
+        - 简单评估和基准
+        - 训练基于分类器的分块器
+    - 语言结构中的递归
+        - 用级联分块器构建嵌套结构
+        - 树状图
+    - 命名实体识别(Named Entity Recognition)
+    - 关系抽取(Relation Extraction)
+1. [分析句子结构][217]
+    - 文法(Syntax)的用途
+    - 上下文无关文法
+    - 上下文无关文法分析(Parsing with Context-Free Grammar)
+        - 递归下降解析器(Recursive Descent Parsing)
+        - 移进-规约分析(Shift-Reduce Parsing)
+    - 依存关系(Dependencies)和依存文法(Dependency Grammar)
 
 [201]: nltk-introduction.ipynb
 [202]: corpus.ipynb
@@ -148,3 +176,7 @@
 [211]: recognizing-dialog-behaviour.ipynb
 [212]: recognizing-textual-entailment.ipynb
 [213]: decision-tree.ipynb
+[214]: naive-bayes.ipynb
+[215]: maximum-entropy.ipynb
+[216]: extract-from-text.ipynb
+[217]: sentence-structure.ipynb

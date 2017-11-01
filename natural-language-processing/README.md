@@ -16,6 +16,10 @@
     - [识别对话行为类型][211]
     - [识别文字蕴含][212]
     - [决策树][213]
+    - [朴素贝叶斯][214]
+    - [最大熵][215]
+    - [从文本提取信息][216]
+    - [分析句子结构][217]
 1. [结巴中文分词][300]
     - 分词
     - 添加自定义词典
@@ -128,6 +132,10 @@
 [211]: NaturalLanguageProcessingWithPython/recognizing-dialog-behaviour.ipynb
 [212]: NaturalLanguageProcessingWithPython/recognizing-textual-entailment.ipynb
 [213]: NaturalLanguageProcessingWithPython/decision-tree.ipynb
+[214]: NaturalLanguageProcessingWithPython/naive-bayes.ipynb
+[215]: NaturalLanguageProcessingWithPython/maximum-entropy.ipynb
+[216]: NaturalLanguageProcessingWithPython/extract-from-text.ipynb
+[217]: NaturalLanguageProcessingWithPython/sentence-structure.ipynb
 
 [300]:jieba.ipynb
 [301]:text_clustering.ipynb
