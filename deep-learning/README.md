@@ -5,6 +5,7 @@
 
 ## Note
 1. [深度学习中的激活函数][2]
+1. [Neural Network and Deep Learning][3]
 1. [Fundamentals of Deep Learning][1]
 
 
@@ -13,9 +14,9 @@
 
 
 [0]: A-Learning-Algorithm-for-Boltzmann-Machines.ipynb
-[1]:Fundamentals-of-Deep-Learning
-[2]:activation-function.ipynb
-
+[1]: Fundamentals-of-Deep-Learning/
+[2]: activation-function.ipynb
+[3]: NeuralNetworkAndDeepLearning/
 
 
 
