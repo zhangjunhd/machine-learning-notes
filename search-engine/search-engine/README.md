@@ -18,8 +18,13 @@
 1. [搜索引擎架构][1]
 1. [信息采集与信息源][2]
 1. [文本处理][3]
+1. [基于索引的相关排序][4]
+
+
+
 
 
 [1]: archtecture.ipynb
 [2]: crawl.md
 [3]: handle_document.ipynb
+[4]: sort.ipynb
