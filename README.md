@@ -19,6 +19,7 @@
 
 ## [深度学习][40]
 1. [深度学习中的激活函数][41]
+1. [Neural Network and Deep Learning][42]
 
 ## [自然语言处理][30]
 ### 词袋模型
@@ -78,7 +79,7 @@
 
 [40]: deep-learning/
 [41]: deep-learning/activation-function.ipynb
-
+[42]: deep-learning/NeuralNetworkAndDeepLearning
 
 [50]: machine-learning/
 [51]: machine-learning/DiscriminativeModelGenerativeModel.md
