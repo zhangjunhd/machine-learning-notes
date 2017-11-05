@@ -28,3 +28,7 @@ math/thinkstats/CDBRFS08.ASC.gz
 
 .idea/*
 
+
+.Rhistory
+
+.RData
