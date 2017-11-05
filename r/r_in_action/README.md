@@ -12,3 +12,19 @@
     ISBN: 9787115420572
 
 [豆瓣链接](https://book.douban.com/subject/26785199/)
+
+1. [创建数据集][1]
+    - 数据集的概念
+    - 数据结构
+        - 向量
+        - 矩阵
+        - 数组
+        - 数据框
+            - attach()、detach()和with()
+            - 实例标识符
+        - 因子
+        - 列表
+    - 数据的输入
+
+
+[1]: create_dataset.ipynb
