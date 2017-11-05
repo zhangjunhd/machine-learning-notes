@@ -58,6 +58,8 @@
     - 机器学习和信息检索
         - 排序学习
         - 主题模型和词汇不匹配
+1. [搜索引擎评价][7]
+
 
 [1]: archtecture.ipynb
 [2]: crawl.md
@@ -65,3 +67,4 @@
 [4]: sort.ipynb
 [5]: query.ipynb
 [6]: search-model.ipynb
+[7]: evaluate.ipynb
