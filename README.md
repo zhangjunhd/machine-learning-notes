@@ -33,6 +33,7 @@
 
 ## [经典机器学习][50]
 1. [什么是判别模型(Discriminative Model)和生成模型(Generative Model)][51]
+1. [An Introduction to Statistical Learning][52]
 
 ### 分类
 - [knn_classification.ipynb](knn_classification.ipynb):Iris,knn,split data
@@ -78,7 +79,7 @@
 
 [50]: machine-learning/
 [51]: machine-learning/DiscriminativeModelGenerativeModel.md
-
+[52]: ISLR-Sixth/
 
 [60]: search-engine/
 [61]: search-engine/search-engine
