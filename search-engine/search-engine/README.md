@@ -59,7 +59,17 @@
         - 排序学习
         - 主题模型和词汇不匹配
 1. [搜索引擎评价][7]
-
+1. [分类与聚类][8]
+    - 分类
+        - 朴素贝叶斯
+        - SVM
+        - 评价
+        - 分类器和特征选择
+        - 垃圾、情感及在线广告
+    - 聚类
+        - 层次聚类和K均值聚类
+        - K近邻聚类
+1. [社会化搜索][9]
 
 [1]: archtecture.ipynb
 [2]: crawl.md
@@ -68,3 +78,5 @@
 [5]: query.ipynb
 [6]: search-model.ipynb
 [7]: evaluate.ipynb
+[8]: classification_clustering.ipynb
+[9]: social_search.ipynb
