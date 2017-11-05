@@ -4,6 +4,9 @@
 1. Pandas
 1. Matplotlib
 
+## [R][70]
+1. [R语言实战（第2版）][71]
+
 ## [数学][10]
 1. [机会的数学][11]
 1. [统计与真理][12]
@@ -83,3 +86,7 @@
 
 [60]: search-engine/
 [61]: search-engine/search-engine
+
+
+[70]: r/
+[71]: r/r_in_action
