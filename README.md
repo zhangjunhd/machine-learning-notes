@@ -79,7 +79,7 @@
 
 [50]: machine-learning/
 [51]: machine-learning/DiscriminativeModelGenerativeModel.md
-[52]: ISLR-Sixth/
+[52]: machine-learning/ISLR-Sixth
 
 [60]: search-engine/
 [61]: search-engine/search-engine
