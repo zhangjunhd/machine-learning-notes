@@ -51,7 +51,8 @@
 - [explore_user_data.ipynb](pyspark_explore_user_data.ipynb):使用pyspark对MovieLens进行数据探索
 - [pyspark_regression.ipynb](pyspark_regression.ipynb):使用pyspark构建回归模型
 
-
+## [搜索引擎][60]
+1. [搜索引擎-信息检索实践][61]
 
 [0]: data-processing/
 
@@ -77,3 +78,7 @@
 
 [50]: machine-learning/
 [51]: machine-learning/DiscriminativeModelGenerativeModel.md
+
+
+[60]: search-engine/
+[61]: search-engine/search-engine
