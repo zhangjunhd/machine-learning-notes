@@ -58,6 +58,8 @@
 
 ## [搜索引擎][60]
 1. [搜索引擎-信息检索实践][61]
+1. [计算广告][62]
+
 
 [0]: data-processing/
 
@@ -87,7 +89,7 @@
 
 [60]: search-engine/
 [61]: search-engine/search-engine
-
+[62]: search-engine/computational_ad
 
 [70]: r/
 [71]: r/r_in_action
