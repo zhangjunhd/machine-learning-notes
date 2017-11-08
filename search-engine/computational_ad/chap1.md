@@ -26,7 +26,7 @@
     - 展示广告售卖模式称为合约广告（agreement-based advertising）
 - 定向广告（targeted advertising）
     - 两个具体需求：一是受众定向（audience targeting）；二是广告投放（ad serving）
-    - `担保式投送`（Guaranteed Delivery，`GD`）：媒体向广告主保证某个投放量，并在此基础上确定合同的总金额以及投放量未完成情况下的赔偿方案。
+    - `担保式投送`（Guaranteed Delivery，`GD`）：媒体向广告主保证某个投放量，并在此基础上确定合同的总金额以及投放量未完成情况下的赔偿方案。
     - 这样的合约仍然主要面向品牌广告主，并且遵循按`千次展示付费`（Cost per Mille，`CPM`）的计费方式。
 - 竞价广告（auction-based advertising）
     - 搜索广告（search ad）
