@@ -8,7 +8,7 @@
 - 需求方可以是广告主（advertiser）、代表广告主利益的代理商（agency）或其他技术形态的采买方
 - 供给方可以是媒体，也可以是其他技术形态的变现平台
 
-《当代广告学》的见解：
+《当代广告学》的见解：
 
     广告的根本目的是广告主通过媒体达到低成本的用户接触。
 
@@ -31,8 +31,8 @@
 - 竞价广告（auction-based advertising）
     - 搜索广告（search ad）
     - 上下文广告（contextual advertising）
-    - 定价机制：广义第二高价（Generalized Second Prince，GSP）
-- `广告网络`（ad Network，`ADN`）:竞价机制和人群定向。
+    - 定价机制：广义第二高价（Generalized Second Prince，GSP）
+- `广告网络`（ad Network，`ADN`）:竞价机制和人群定向。
     - 结算：按点击付费（Cost per Click, `CPC`）
     - 无法计算千次展示收益（Revenue per Mille，`RPM`）
     - 使得大量中小互联网媒体有了切实可行的变现手段
