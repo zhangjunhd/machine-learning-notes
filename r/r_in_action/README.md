@@ -87,8 +87,24 @@
         - reshape2包
             - 融合
             - 重铸
+1. [基本图形][5]
+    - 条形图
+        - 简单条形图
+        - 堆砌条形图和分组条形图
+        - 均值条形图
+        - 条形图的微调
+        - 棘状图
+    - 饼图
+    - 直方图
+    - 核密度图
+    - 箱线图
+        - 使用并列箱线图进行跨组比较
+        - 小提琴图
+    - 点图
+
 
 [1]: create_dataset.ipynb
 [2]: graph1.ipynb
 [3]: data_management1.ipynb
 [4]: data_management2.ipynb
+[5]: graph2.ipynb
