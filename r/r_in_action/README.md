@@ -101,10 +101,35 @@
         - 使用并列箱线图进行跨组比较
         - 小提琴图
     - 点图
-
+1. [基本统计分析][6]
+    - 描述性统计分析
+        - 全集的描述性统计量
+        - 分组计算描述性统计量
+    - 频数表和列联表
+        - 生成频数表
+            - 一维列联表
+            - 二维列联表
+            - 多维列联表
+        - 独立性检验
+            - 卡方独立性检验
+            - Fisher精确检验
+            - Cochran-Mantel-Haenszel检验
+        - 相关性的度量
+    - 相关
+        - 相关的类型
+            - Pearson、Spearman和Kendall相关
+            - 偏相关
+        - 相关性的显著性检验
+    - t检验
+        - 独立样本的t检验
+        - 非独立样本的t检验
+    - 组间差异的非参数检验
+        - 两组的比较
+        - 多于两组的比较
 
 [1]: create_dataset.ipynb
 [2]: graph1.ipynb
 [3]: data_management1.ipynb
 [4]: data_management2.ipynb
 [5]: graph2.ipynb
+[6]: stat.ipynb
