@@ -74,7 +74,7 @@
 [16]: math/thinkstats
 [17]: math/dp.ipynb
 [18]: math/dirichlet.ipynb
-[19]: math/mle.md
+[19]: math/mle.ipynb
 
 [30]: natural-language-processing/
 [31]: natural-language-processing/jieba.ipynb
