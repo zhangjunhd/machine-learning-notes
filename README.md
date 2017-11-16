@@ -58,6 +58,7 @@
 
 ## [搜索引擎][60]
 1. [搜索引擎-信息检索实践][61]
+1. [What are some uses of machine learning in search engines?][63]
 1. [计算广告][62]
 
 
@@ -90,6 +91,9 @@
 [60]: search-engine/
 [61]: search-engine/search-engine
 [62]: search-engine/computational_ad
+[63]: search-engine/WhatAreSomeUsesOfMachineLearningInSearchEngines.md
+
+
 
 [70]: r/
 [71]: r/r_in_action
