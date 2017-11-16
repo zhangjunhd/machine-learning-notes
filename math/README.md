@@ -118,7 +118,7 @@
     - 二项分布和Beta分布
     - 多项分布和Dirichlet分布
     - Dirichlet分布的性质
-
+1. [最大似然估计(Maximum likelihood estimation)][9]
 
 [1]: chance-of-math.ipynb
 [2]: statistics-and-truth.ipynb
@@ -128,7 +128,7 @@
 [6]: thinkstats
 [7]: dp.ipynb
 [8]: dirichlet.ipynb
-
+[9]: mle.md
 
 
 [40]: StatisticsForTheBehavioralSciences/variance.ipynb
