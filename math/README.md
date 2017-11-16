@@ -128,7 +128,7 @@
 [6]: thinkstats
 [7]: dp.ipynb
 [8]: dirichlet.ipynb
-[9]: mle.md
+[9]: mle.ipynb
 
 
 [40]: StatisticsForTheBehavioralSciences/variance.ipynb
