@@ -17,6 +17,8 @@
 1. [狄利克雷过程（dirichlet process ）的五种理解][17]
 1. [Dirichlet分布][18]
 1. [最大似然估计(Maximum likelihood estimation)][19]
+1. [线性代数及其应用][20]
+
 
 ## [深度学习][40]
 1. [深度学习中的激活函数][41]
@@ -75,6 +77,7 @@
 [17]: math/dp.ipynb
 [18]: math/dirichlet.ipynb
 [19]: math/mle.ipynb
+[20]: math/LinearAlgebraAndItsApplications
 
 [30]: natural-language-processing/
 [31]: natural-language-processing/jieba.ipynb
