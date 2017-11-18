@@ -119,6 +119,7 @@
     - 多项分布和Dirichlet分布
     - Dirichlet分布的性质
 1. [最大似然估计(Maximum likelihood estimation)][9]
+1. [线性代数及其应用][10]
 
 [1]: chance-of-math.ipynb
 [2]: statistics-and-truth.ipynb
@@ -129,7 +130,7 @@
 [7]: dp.ipynb
 [8]: dirichlet.ipynb
 [9]: mle.ipynb
-
+[10]:LinearAlgebraAndItsApplications
 
 [40]: StatisticsForTheBehavioralSciences/variance.ipynb
 [41]: StatisticsForTheBehavioralSciences/z-score.ipynb
