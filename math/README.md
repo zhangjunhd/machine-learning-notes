@@ -279,14 +279,14 @@
 [1]: chance-of-math.ipynb
 [2]: statistics-and-truth.ipynb
 [3]: naked-statistics.ipynb
-[4]: StatisticsForTheBehavioralSciences/cover.md
-[5]: statistics/cover.md
-[6]: thinkstats/cover.md
+[4]: StatisticsForTheBehavioralSciences
+[5]: statistics
+[6]: thinkstats
 [7]: dp.ipynb
 [8]: dirichlet.ipynb
 [9]: mle.ipynb
-[10]:LinearAlgebraAndItsApplications/cover.md
-[11]:indiana_edu_statmath/cover.md
+[10]:LinearAlgebraAndItsApplications
+[11]:indiana_edu_statmath
 
 
 [40]: StatisticsForTheBehavioralSciences/variance.ipynb
