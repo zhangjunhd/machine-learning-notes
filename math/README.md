@@ -103,11 +103,32 @@
         - [卡方检验：拟合度与独立性检验][54]
         - [二项检验][55]
         - [顺序数据的统计方法][56]
-1. [统计学][5]
+1. 统计学
+    - [cover][5]
     - [概率分布][60]
+        - 标准误差与标准得分
+        - 方差、标准差、标准误差和标准得分公式
+        - 概率加法与乘法
+        - 离散分布的三个例子
+            - 二项分布(binomial distribution)
+            - 泊松分布(possion distribution)
+            - 超几何分布(hypergeometric distribution)
     - [假设检验][61]
+        - 置信区间(confidence interval)
+        - 样本统计量(sample statistic)
+        - 正态总体百分比的置信区间
+        - 零假设(null hypothesis)
+        - 第一类错误与第二类错误
+        - p-值(p-value)
+        - 统计显著
     - [两个分类变量的χ2分析][62]
+        - 列联表(contingency table)
     - [回归分析(regression analysis)与相关分析(correlation analysis)][63]
+        - 回归方程
+        - 相关系数r2
+        - 总体的回归系数β的置信区间(t统计量)
+        - 假设检验(t检验和F检验)
+        - 虚拟变量
     - [方差分析][64]
     - [两个顺序变量的秩方法][65]
     - [多元分析][66]
@@ -148,7 +169,7 @@
 [2]: statistics-and-truth.ipynb
 [3]: naked-statistics.ipynb
 [4]: StatisticsForTheBehavioralSciences/cover.md
-[5]: statistics
+[5]: statistics/cover.md
 [6]: thinkstats
 [7]: dp.ipynb
 [8]: dirichlet.ipynb
