@@ -18,7 +18,7 @@
 1. [Dirichlet分布][18]
 1. [最大似然估计(Maximum likelihood estimation)][19]
 1. [线性代数及其应用][20]
-1. [INDIANA UNIVERSITY UITS Research Technologies Working Papers](21)
+1. [INDIANA UNIVERSITY UITS Research Technologies Working Papers][21]
 
 ## [深度学习][40]
 1. [深度学习中的激活函数][41]
