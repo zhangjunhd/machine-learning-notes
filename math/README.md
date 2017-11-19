@@ -62,15 +62,34 @@
     - 统计推断与假设检验
     - 百分比
     - 回归分析
-1. [行为科学统计][4]
+1. 行为科学统计
+    - [cover][4]
     - 描述性统计
         - [变异性][40]
+            - 全矩和四分位距
+            - 总体的方差和标准差
+            - 样本的方差和标准差
+            - 无偏估计与有偏估计
     - 推论性统计
         - [z分数][41]
         - [概率][42]
+            - 随机样本
+            - 正态分布
+            - 二项分布
+            - 推论统计
         - [概率和样本：样本平均数的分布][43]
+            - 中心极限定理
+            - 标准误
     - 平均数差异推论
         - [假设检验][44]
+            - 虚无假设
+            - 备择假设
+            - α水平
+            - z分数
+            - 第一类误差
+            - 第二类误差
+            - 显著效应
+            - 科恩d值
         - [t分数][45]
         - [两个独立样本的t检验][46]
         - [两个相关样本的t检验][47]
@@ -120,17 +139,23 @@
     - Dirichlet分布的性质
 1. [最大似然估计(Maximum likelihood estimation)][9]
 1. [线性代数及其应用][10]
+1. [INDIANA UNIVERSITY UITS Research Technologies Working Papers][11]
+    - https://rt.uits.iu.edu/visualization/analytics/papers-tutorials.php
+    - [Comparing Group Means: T-tests and One-way ANOVA][100]
+
 
 [1]: chance-of-math.ipynb
 [2]: statistics-and-truth.ipynb
 [3]: naked-statistics.ipynb
-[4]: StatisticsForTheBehavioralSciences
+[4]: StatisticsForTheBehavioralSciences/cover.md
 [5]: statistics
 [6]: thinkstats
 [7]: dp.ipynb
 [8]: dirichlet.ipynb
 [9]: mle.ipynb
 [10]:LinearAlgebraAndItsApplications
+[11]:indiana_edu_statmath
+
 
 [40]: StatisticsForTheBehavioralSciences/variance.ipynb
 [41]: StatisticsForTheBehavioralSciences/z-score.ipynb
@@ -172,3 +197,5 @@
 [81]: thinkstats/time-series.ipynb
 [82]: thinkstats/survival-analysis.ipynb
 [83]: thinkstats/analysis-method.ipynb
+
+[100]: indiana_edu_statmath/ComparingGroupMeans.ipynb
