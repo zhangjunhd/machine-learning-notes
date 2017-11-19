@@ -5,8 +5,68 @@
 
 ## Note
 1. [深度学习中的激活函数][2]
-1. [Neural Network and Deep Learning][3]
-1. [Fundamentals of Deep Learning][1]
+1. Neural Network and Deep Learning
+    - [cover][3]
+    - [Using neural nets to recognize handwritten digits][11]
+    - [How the backpropagation algorithm works][12]
+    - [Improving the way neural networks learn][13]
+    - [A visual proof that neural nets can compute any function][14]
+    - [Why are deep neural networks hard to train?][15]
+    - [Deep learning][16]
+1. Fundamentals of Deep Learning
+    - [cover][1]
+    - [Chapter 1. The Neural Network][21]
+        - The Neuron
+        - Feed-Forward Neural Networks
+        - Linear Neurons
+        - Sigmoid, Tanh, and ReLU Neurons
+    - [Chapter 2. Training Feed-Forward Neural Networks][21]
+        - The Fast-Food Problem
+        - Gradient Descent
+        - The Delta Rule and Learning Rates
+        - Gradient Descent with Sigmoidal Neurons
+        - The Backpropagation Algorithm
+        - Stochastic and Minibatch Gradient Descent
+        - Test Sets, Validation Sets, and Overfitting
+        - Preventing Overfitting in Deep Neural Networks
+    - [Chapter 3. Implementing Neural Networks in TensorFlow][22]
+        - Installing TensorFlow
+        - Creating and Manipulating TensorFlow Variables
+        - TensorFlow Operations
+        - Placeholder Tensors
+        - Sessions in TensorFlow
+        - Navigating Variable Scopes and Sharing Variables
+        - Managing Models over the CPU and GPU
+        - Specifying the Logistic Regression Model in TensorFlow
+        - Logging and Training the Logistic Regression Model
+        - Leveraging TensorBoard to Visualize Computation Graphs and Learning
+        - Building a Multilayer Model for MNIST in TensorFlow
+    - [Chapter 4. Beyond Gradient Descent][23]
+        - Local Minima in the Error Surfaces of Deep Networks
+        - How Pesky Are Spurious Local Minima in Deep Networks?
+        - Flat Regions in the Error Surface
+        - When the Gradient Points in the Wrong Direction
+        - Momentum-Based Optimization
+        - A Brief View of Second-Order Methods
+            - Conjugate Gradient Descent
+            - Broyden–Fletcher–Goldfarb–Shanno (BFGS)
+        - Learning Rate Adaptation
+            - AdaGrad—Accumulating Historical Gradients
+            - RMSProp—Exponentially Weighted Moving Average of Gradients
+            - Adam—Combining Momentum and RMSProp
+        - Optimization Algorithms Experiment
+    - [Chapter 5. Convolutional Neural Networks][24]
+        - Vanilla Deep Neural Networks Don’t Scale
+        - Filters and Feature Maps
+        - Full Description of the Convolutional Layer
+        - Max Pooling
+        - Full Architectural Description of Convolution Networks
+        - Closing the Loop on MNIST with Convolutional Networks
+        - Building a Convolutional Network for CIFAR-10
+        - Visualizing Learning in Convolutional Networks
+        - Leveraging Convolutional Filters to Replicate Artistic Styles
+
+
 
 
 
@@ -17,6 +77,19 @@
 [1]: Fundamentals-of-Deep-Learning/
 [2]: activation-function.ipynb
 [3]: NeuralNetworkAndDeepLearning/
+
+[11]: chap1.ipynb
+[12]: chap2.ipynb
+[13]: chap3.ipynb
+[14]: chap4.md
+[15]: chap5.ipynb
+[16]: chap6.ipynb
+
+[21]: Fundamentals-of-Deep-Learning-1+2.ipynb
+[22]: Fundamentals-of-Deep-Learning-3.ipynb
+[23]: Fundamentals-of-Deep-Learning-4.ipynb
+[24]: Fundamentals-of-Deep-Learning-5.ipynb
+
 
 
 
