@@ -78,17 +78,17 @@
 [2]: activation-function.ipynb
 [3]: NeuralNetworkAndDeepLearning/
 
-[11]: chap1.ipynb
-[12]: chap2.ipynb
-[13]: chap3.ipynb
-[14]: chap4.md
-[15]: chap5.ipynb
-[16]: chap6.ipynb
+[11]: NeuralNetworkAndDeepLearning/chap1.ipynb
+[12]: NeuralNetworkAndDeepLearning/chap2.ipynb
+[13]: NeuralNetworkAndDeepLearning/chap3.ipynb
+[14]: NeuralNetworkAndDeepLearning/chap4.md
+[15]: NeuralNetworkAndDeepLearning/chap5.ipynb
+[16]: NeuralNetworkAndDeepLearning/chap6.ipynb
 
-[21]: Fundamentals-of-Deep-Learning-1+2.ipynb
-[22]: Fundamentals-of-Deep-Learning-3.ipynb
-[23]: Fundamentals-of-Deep-Learning-4.ipynb
-[24]: Fundamentals-of-Deep-Learning-5.ipynb
+[21]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-1+2.ipynb
+[22]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-3.ipynb
+[23]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-4.ipynb
+[24]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-5.ipynb
 
 
 
