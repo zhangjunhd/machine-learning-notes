@@ -16,3 +16,7 @@
 
 ## 1.5 线性方程组的解集
 ![](http://ou8qjsj0m.bkt.clouddn.com//17-11-19/88267633.jpg)
+
+## 1.7线性无关
+![](http://ou8qjsj0m.bkt.clouddn.com//17-11-21/42376915.jpg)
+![](http://ou8qjsj0m.bkt.clouddn.com//17-11-21/63207347.jpg)
