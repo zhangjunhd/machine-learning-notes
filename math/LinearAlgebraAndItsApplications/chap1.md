@@ -27,3 +27,9 @@
 ![](http://ou8qjsj0m.bkt.clouddn.com//17-11-22/18787140.jpg)
 ![](http://ou8qjsj0m.bkt.clouddn.com//17-11-22/41145538.jpg)
 ![](http://ou8qjsj0m.bkt.clouddn.com//17-11-22/24930617.jpg)
+
+## 1.9 线性变换的矩阵
+下面的讨论指出，从ℝⁿ到ℝᵐ的每一个线性变换，实际上都是一个矩阵变换x⟼Ax，而且变换T的性质都归结为A的性质。寻找矩阵A的关键，是了解T完全由它对单位矩阵In的各列的作用所决定。
+
+![](http://ou8qjsj0m.bkt.clouddn.com//17-11-22/20469717.jpg)
+![](http://ou8qjsj0m.bkt.clouddn.com//17-11-22/3432097.jpg)
