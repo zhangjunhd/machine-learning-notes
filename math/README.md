@@ -271,6 +271,15 @@
 1. [最大似然估计(Maximum likelihood estimation)][9]
 1. 线性代数及其应用
     - [cover][10]
+    - [线性方程组][85]
+        - 线性方程组
+        - 行化简与阶梯形矩阵
+        - 向量方程
+        - 矩阵方程Ax=b
+        - 线性方程组的解集
+        - 线性无关
+        - 线性变换介绍
+        - 线性变换的矩阵
 1. INDIANA UNIVERSITY UITS Research Technologies Working Papers
     - [cover][11]
     - [Comparing Group Means: T-tests and One-way ANOVA][100]
@@ -329,5 +338,8 @@
 [81]: thinkstats/time-series.ipynb
 [82]: thinkstats/survival-analysis.ipynb
 [83]: thinkstats/analysis-method.ipynb
+
+[85]: LinearAlgebraAndItsApplications/chap1.md
+
 
 [100]: indiana_edu_statmath/ComparingGroupMeans.ipynb
