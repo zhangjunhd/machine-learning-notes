@@ -269,6 +269,7 @@
     - 多项分布和Dirichlet分布
     - Dirichlet分布的性质
 1. [最大似然估计(Maximum likelihood estimation)][9]
+1. [PCA的数学原理][12]
 1. 线性代数及其应用
     - [cover][10]
     - [线性方程组][85]
@@ -296,7 +297,7 @@
 [9]: mle.ipynb
 [10]:LinearAlgebraAndItsApplications
 [11]:indiana_edu_statmath
-
+[12]:pca.ipynb
 
 [40]: StatisticsForTheBehavioralSciences/variance.ipynb
 [41]: StatisticsForTheBehavioralSciences/z-score.ipynb
