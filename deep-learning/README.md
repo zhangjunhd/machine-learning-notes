@@ -8,11 +8,32 @@
 1. Neural Network and Deep Learning
     - [cover][3]
     - [Using neural nets to recognize handwritten digits][11]
+        - Perceptrons
+        - Sigmoid neurons
+        - The architecture of neural networks
+        - A simple network to classify handwritten digits
+        - Learning with gradient descent
+        - Implementing our network to classify digits
     - [How the backpropagation algorithm works][12]
+        - Warm up: a fast matrix-based approach to computing the output from a neural network
+        - The two assumptions we need about the cost function
+        - The Hadamard product, s⊙t
+        - The four fundamental equations behind backpropagation
+        - The backpropagation algorithm
     - [Improving the way neural networks learn][13]
+        - The cross-entropy cost function
+        - Introducing the cross-entropy cost function
+        - Softmax
+        - Overfitting and regularization
+        - Regularization
+        - Why does regularization help reduce overfitting?
+        - Other techniques for regularization
     - [A visual proof that neural nets can compute any function][14]
     - [Why are deep neural networks hard to train?][15]
+        - The vanishing gradient problem
+        - What's causing the vanishing gradient problem? Unstable gradients in deep neural nets
     - [Deep learning][16]
+        - Introducing convolutional networks
 1. Fundamentals of Deep Learning
     - [cover][1]
     - [Chapter 1. The Neural Network][21]
