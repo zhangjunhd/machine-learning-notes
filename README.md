@@ -17,6 +17,7 @@
 1. [狄利克雷过程（dirichlet process ）的五种理解][17]
 1. [Dirichlet分布][18]
 1. [最大似然估计(Maximum likelihood estimation)][19]
+1. [PCA的数学原理][22]
 1. [线性代数及其应用][20]
 1. [INDIANA UNIVERSITY UITS Research Technologies Working Papers][21]
 
@@ -79,7 +80,7 @@
 [19]: math/mle.ipynb
 [20]: math/LinearAlgebraAndItsApplications
 [21]: math/indiana_edu_statmath
-
+[22]: math/pca.ipynb
 
 [30]: natural-language-processing/
 [31]: natural-language-processing/jieba.ipynb
