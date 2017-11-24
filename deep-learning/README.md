@@ -86,8 +86,15 @@
         - Building a Convolutional Network for CIFAR-10
         - Visualizing Learning in Convolutional Networks
         - Leveraging Convolutional Filters to Replicate Artistic Styles
-
-
+    - [Chapter 6. Embedding and Representation Learning][25]
+        - Learning Lower-Dimensional Representations
+        - Principal Component Analysis
+        - Motivating the Autoencoder Architecture
+        - Implementing an Autoencoder in TensorFlow
+        - Denoising to Force Robust Representations
+        - Sparsity in Autoencoders
+        - When Context Is More Informative than the Input Vector
+        - The Word2Vec Framework
 
 
 
@@ -110,7 +117,7 @@
 [22]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-3.ipynb
 [23]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-4.ipynb
 [24]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-5.ipynb
-
+[25]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-6.ipynb
 
 
 
