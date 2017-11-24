@@ -281,6 +281,15 @@
         - 线性无关
         - 线性变换介绍
         - 线性变换的矩阵
+    - [矩阵代数][86]
+        - 矩阵运算
+        - 矩阵的逆（非奇异）
+        - 可逆矩阵的特征
+        - 分块矩阵
+        - 矩阵因式分解（LU分解）
+        - 列昂惕夫投入产出模型
+        - ℝⁿ的子空间
+        - 维数与秩
 1. INDIANA UNIVERSITY UITS Research Technologies Working Papers
     - [cover][11]
     - [Comparing Group Means: T-tests and One-way ANOVA][100]
@@ -340,7 +349,7 @@
 [82]: thinkstats/survival-analysis.ipynb
 [83]: thinkstats/analysis-method.ipynb
 
-[85]: LinearAlgebraAndItsApplications/chap1.md
-
+[85]: LinearAlgebraAndItsApplications/chap1.ipynb
+[86]: LinearAlgebraAndItsApplications/chap2.ipynb
 
 [100]: indiana_edu_statmath/ComparingGroupMeans.ipynb
