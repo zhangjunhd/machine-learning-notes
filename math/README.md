@@ -290,6 +290,36 @@
         - 列昂惕夫投入产出模型
         - ℝⁿ的子空间
         - 维数与秩
+    - [行列式][87]
+        - 行列式介绍
+        - 行列式的性质
+        - 克拉默法则、体积和线性变换
+    - [向量空间][88]
+        - 向量空间与子空间
+        - 零空间、列空间和线性变换
+        - 线性无关集和基
+        - 坐标系
+        - 向量空间的维数
+        - 秩
+        - 基的变换
+        - 差分方程中的应用
+    - [特征值与特征向量][89]
+        - 特征向量与特征值
+        - 特征方程
+        - 对角化
+        - 特征向量与线性变换
+        - 特征值的迭代估计
+    - [正交性和最小二乘法][90]
+        - 内积、长度和正交性
+        - 正交集
+        - 正交投影
+        - 格拉姆-施密特方法(The Gram-Schmidt Process)与QR分解
+        - 最小二乘问题(Least-Squares Problems)
+    - [对称矩阵和二次型][91]
+        - 对称矩阵的对角化
+        - 二次型
+        - 条件优化
+        - 奇异值分解
 1. INDIANA UNIVERSITY UITS Research Technologies Working Papers
     - [cover][11]
     - [Comparing Group Means: T-tests and One-way ANOVA][100]
@@ -351,5 +381,10 @@
 
 [85]: LinearAlgebraAndItsApplications/chap1.ipynb
 [86]: LinearAlgebraAndItsApplications/chap2.ipynb
+[87]: LinearAlgebraAndItsApplications/chap3.ipynb
+[88]: LinearAlgebraAndItsApplications/chap4.ipynb
+[89]: LinearAlgebraAndItsApplications/chap5.ipynb
+[90]: LinearAlgebraAndItsApplications/chap6.ipynb
+[91]: LinearAlgebraAndItsApplications/chap7.ipynb
 
 [100]: indiana_edu_statmath/ComparingGroupMeans.ipynb
