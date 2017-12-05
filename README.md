@@ -1,5 +1,6 @@
 # 机器学习笔记
 1. [知识图谱](knowledge-graph)
+1. [搜索引擎](search-engine)
 
 ## [数据处理][0]
 1. NumPy
@@ -62,11 +63,6 @@
 - [explore_user_data.ipynb](pyspark_explore_user_data.ipynb):使用pyspark对MovieLens进行数据探索
 - [pyspark_regression.ipynb](pyspark_regression.ipynb):使用pyspark构建回归模型
 
-## [搜索引擎][60]
-1. [搜索引擎-信息检索实践][61]
-1. [What are some uses of machine learning in search engines?][63]
-1. [计算广告][62]
-
 
 [0]: data-processing/
 
@@ -97,11 +93,6 @@
 [50]: machine-learning/
 [51]: machine-learning/DiscriminativeModelGenerativeModel.md
 [52]: machine-learning/ISLR-Sixth
-
-[60]: search-engine/
-[61]: search-engine/search-engine
-[62]: search-engine/computational_ad
-[63]: search-engine/WhatAreSomeUsesOfMachineLearningInSearchEngines.md
 
 
 
