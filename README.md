@@ -1,14 +1,8 @@
 # 机器学习笔记
 1. [知识图谱](knowledge-graph)
 1. [搜索引擎](search-engine)
-
-## [数据处理][0]
-1. NumPy
-1. Pandas
-1. Matplotlib
-
-## [R][70]
-1. [R语言实战（第2版）][71]
+1. [Python数据处理](data-processing)
+1. [R语言](r)
 
 ## [数学][10]
 1. [机会的数学][11]
@@ -94,7 +88,3 @@
 [51]: machine-learning/DiscriminativeModelGenerativeModel.md
 [52]: machine-learning/ISLR-Sixth
 
-
-
-[70]: r/
-[71]: r/r_in_action
