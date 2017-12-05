@@ -1,4 +1,6 @@
 # 搜索引擎
+1. [What are some uses of machine learning in search engines][63]
+1. [What is faceted search][64]
 1. 搜索引擎-信息检索实践
     - [cover][61]
     - [搜索引擎架构][1]
@@ -56,7 +58,6 @@
             - 层次聚类和K均值聚类
             - K近邻聚类
     - [社会化搜索][9]
-1. [What are some uses of machine learning in search engines?][63]
 1. 计算广告
     - [cover][62]
     - [在线广告综述][1]
@@ -90,6 +91,8 @@
 [61]: search-engine
 [62]: computational_ad
 [63]: WhatAreSomeUsesOfMachineLearningInSearchEngines.md
+[64]: WhatIsFacetedSearch.md
+
 
 [1]: search-engine/archtecture.ipynb
 [2]: search-engine/crawl.md
