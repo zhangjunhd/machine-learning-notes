@@ -3,38 +3,10 @@
 1. [搜索引擎](search-engine)
 1. [Python数据处理](data-processing)
 1. [R语言](r)
+1. [数学](math)
+1. [深度学习](deep-learning)
+1. [自然语言处理](natural-language-processing)
 
-## [数学][10]
-1. [机会的数学][11]
-1. [统计与真理][12]
-1. [赤裸裸的统计学][13]
-1. [行为科学统计][14]
-1. [统计学][15]
-1. [统计思维][16]
-1. [狄利克雷过程（dirichlet process ）的五种理解][17]
-1. [Dirichlet分布][18]
-1. [最大似然估计(Maximum likelihood estimation)][19]
-1. [PCA的数学原理][22]
-1. [线性代数及其应用][20]
-1. [INDIANA UNIVERSITY UITS Research Technologies Working Papers][21]
-
-## [深度学习][40]
-1. [深度学习中的激活函数][41]
-1. [Neural Network and Deep Learning][42]
-
-## [自然语言处理][30]
-### 词袋模型
-1. [Python自然语言处理][34]
-1. [结巴中文分词][31]
-1. [文本聚类][32]
-1. [主题模型][33]
-
-### 深度学习
-1. Neural Probabilistic Language Model
-1. Continuous Space Representations
-1. Deep Structured Semantic Models(DSSM)
-1. Translation
-1. Natural Language Generation(NLG)
 
 ## [经典机器学习][50]
 1. [什么是判别模型(Discriminative Model)和生成模型(Generative Model)][51]
@@ -57,32 +29,6 @@
 - [explore_user_data.ipynb](pyspark_explore_user_data.ipynb):使用pyspark对MovieLens进行数据探索
 - [pyspark_regression.ipynb](pyspark_regression.ipynb):使用pyspark构建回归模型
 
-
-[0]: data-processing/
-
-[10]: math/
-[11]: math/chance-of-math.ipynb
-[12]: math/statistics-and-truth.ipynb
-[13]: math/naked-statistics.ipynb
-[14]: math/StatisticsForTheBehavioralSciences
-[15]: math/statistics
-[16]: math/thinkstats
-[17]: math/dp.ipynb
-[18]: math/dirichlet.ipynb
-[19]: math/mle.ipynb
-[20]: math/LinearAlgebraAndItsApplications
-[21]: math/indiana_edu_statmath
-[22]: math/pca.ipynb
-
-[30]: natural-language-processing/
-[31]: natural-language-processing/jieba.ipynb
-[32]: natural-language-processing/text_clustering.ipynb
-[33]: natural-language-processing/topic_model.ipynb
-[34]: natural-language-processing/NaturalLanguageProcessingWithPython
-
-[40]: deep-learning/
-[41]: deep-learning/activation-function.ipynb
-[42]: deep-learning/NeuralNetworkAndDeepLearning
 
 [50]: machine-learning/
 [51]: machine-learning/DiscriminativeModelGenerativeModel.md
