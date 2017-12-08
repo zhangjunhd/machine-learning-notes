@@ -5,3 +5,4 @@
 1. [语义网是什么？](what-is-semantic-web.md)
 1. [百科知识图谱构建](build-wiki-knowledge-graph.md)
 1. [Wikipedia as Participatory Journalism: Reliable Sources?](WikipediaStat.md)
+1. [综述知识图谱研究进展](TheResearchAdvancesOfKnowledgeGraph.md)
