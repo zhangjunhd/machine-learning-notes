@@ -48,7 +48,6 @@
             - 3.6.4 Interaction Terms
             - 3.6.5 Non-linear Transformations of the Predictors
             - 3.6.6 Qualitative Predictors
-            - 3.6.7 Writing Functions
 
 ## 分类
 - [knn_classification.ipynb](knn_classification.ipynb):Iris,knn,split data
