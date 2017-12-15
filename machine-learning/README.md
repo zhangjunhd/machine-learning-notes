@@ -14,7 +14,7 @@
             - 2.2.1 Measuring the Quality of Fit
             - 2.2.2 The Bias-Variance Trade-Off
             - 2.2.3 The Classification Setting
-    - [3.Linear Regression](LinearRegression.ipynb)
+    - [3.Linear Regression](ISLR-Sixth/LinearRegression.ipynb)
         - 3.1 Simple Linear Regression
             - 3.1.1 Estimating the Coefficients
             - 3.1.2 Assessing the Accuracy of the Coefficient Estimates
