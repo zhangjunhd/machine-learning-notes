@@ -48,6 +48,25 @@
             - 3.6.4 Interaction Terms
             - 3.6.5 Non-linear Transformations of the Predictors
             - 3.6.6 Qualitative Predictors
+    - [4.Classification](ISLR-Sixth/classification.ipynb)
+        - 4.3 Logistic Regression
+            - 4.3.1 The Logistic Model
+            - 4.3.2 Estimating the Regression Coefficients
+            - 4.3.3 Making Predictions
+            - 4.3.4 Multiple Logistic Regression
+            - 4.3.5 Logistic Regression for >2 Response Classes
+        - 4.4 Linear Discriminant Analysis
+            - 4.4.1 Using Bayes’ Theorem for Classification
+            - 4.4.2 Linear Discriminant Analysis for p = 1
+            - 4.4.3 Linear Discriminant Analysis for p >1
+            - 4.4.4 Quadratic Discriminant Analysis
+        - 4.6 Lab: Logistic Regression, LDA, QDA, and KNN
+            - 4.6.1 The Stock Market Data
+            - 4.6.2 Logistic Regression
+            - 4.6.3 Linear Discriminant Analysis
+            - 4.6.4 Quadratic Discriminant Analysis
+            - 4.6.5 K-Nearest Neighbors
+            - 4.6.6 An Application to Caravan Insurance Data
 
 ## 分类
 - [knn_classification.ipynb](knn_classification.ipynb):Iris,knn,split data
