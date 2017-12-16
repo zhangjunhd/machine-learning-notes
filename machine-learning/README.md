@@ -67,6 +67,18 @@
             - 4.6.4 Quadratic Discriminant Analysis
             - 4.6.5 K-Nearest Neighbors
             - 4.6.6 An Application to Caravan Insurance Data
+    - [5.Resampling Methods](resampling.ipynb)
+        - 5.1 Cross-Validation
+            - 5.1.1 The Validation Set Approach
+            - 5.1.2 Leave-One-Out Cross-Validation
+            - 5.1.3 k-Fold Cross-Validation
+            - 5.1.4 Bias-Variance Trade-Off for k-Fold Cross-Validation
+        - 5.2 The Bootstrap
+        - 5.3 Lab: Cross-Validation and the Bootstrap
+            - 5.3.1 The Validation Set Approach
+            - 5.3.2 Leave-One-Out Cross-Validation
+            - 5.3.3 k-Fold Cross-Validation
+            - 5.3.4 The Bootstrap
 
 ## 分类
 - [knn_classification.ipynb](knn_classification.ipynb):Iris,knn,split data
