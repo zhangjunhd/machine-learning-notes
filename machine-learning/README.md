@@ -79,6 +79,31 @@
             - 5.3.2 Leave-One-Out Cross-Validation
             - 5.3.3 k-Fold Cross-Validation
             - 5.3.4 The Bootstrap
+    - [6.Linear Model Selection and Regularization](LinearModelSelectionAndRegularization.ipynb)
+        - 6.1 Subset Selection
+            - 6.1.1 Best Subset Selection
+            - 6.1.2 Stepwise Selection
+            - 6.1.3 Choosing the Optimal Model
+                - Cp, AIC, BIC, and Adjusted R2
+                - Validation and Cross-Validation
+        - 6.2 Shrinkage Methods
+            - 6.2.1 Ridge Regression
+                - Why Does Ridge Regression Improve Over Least Squares?
+            - 6.2.2 The Lasso
+        - 6.3 Dimension Reduction Methods
+        - 6.4 Considerations in High Dimensions
+            - 6.4.1 High-Dimensional Data
+            - 6.4.2 What Goes Wrong in High Dimensions?
+        - 6.5 Lab 1: Subset Selection Methods
+            - 6.5.1 Best Subset Selection
+            - 6.5.2 Forward and Backward Stepwise Selection
+            - 6.5.3 Choosing Among Models Using the Validation Set Approach and Cross-Validation
+        - 6.6 Lab 2: Ridge Regression and the Lasso
+            - 6.6.1 Ridge Regression
+            - 6.6.2 The Lasso
+        - 6.7 Lab 3: PCR and PLS Regression
+            - 6.7.1 Principal Components Regression
+            - 6.7.2 Partial Least Squares
 
 ## 分类
 - [knn_classification.ipynb](knn_classification.ipynb):Iris,knn,split data
