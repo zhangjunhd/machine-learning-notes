@@ -79,7 +79,7 @@
             - 5.3.2 Leave-One-Out Cross-Validation
             - 5.3.3 k-Fold Cross-Validation
             - 5.3.4 The Bootstrap
-    - [6.Linear Model Selection and Regularization](LinearModelSelectionAndRegularization.ipynb)
+    - [6.Linear Model Selection and Regularization](ISLR-Sixth/LinearModelSelectionAndRegularization.ipynb)
         - 6.1 Subset Selection
             - 6.1.1 Best Subset Selection
             - 6.1.2 Stepwise Selection
