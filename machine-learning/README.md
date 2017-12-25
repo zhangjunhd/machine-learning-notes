@@ -104,6 +104,24 @@
         - 6.7 Lab 3: PCR and PLS Regression
             - 6.7.1 Principal Components Regression
             - 6.7.2 Partial Least Squares
+    - [7.Moving Beyond Linearity](ISLR-Sixth/MovingBeyondLinearity.ipynb)
+        - 7.1 Polynomial Regression
+        - 7.2 Step Functions
+        - 7.3 Basis Functions
+        - 7.4 Regression Splines
+            - 7.4.1 Piecewise Polynomials
+            - 7.4.2 Constraints and Splines
+        - 7.5 Smoothing Splines
+        - 7.6 Local Regression
+        - 7.7 Generalized Additive Models
+            - 7.7.1 GAMs for Regression Problems
+            - 7.7.2 GAMs for Classification Problems
+        - 7.8 Lab: Non-linear Modeling
+            - 7.8.1 Polynomial Regression and Step Functions
+            - 7.8.2 Splines
+            - 7.8.3 GAMs
+
+
 
 ## 分类
 - [knn_classification.ipynb](knn_classification.ipynb):Iris,knn,split data
