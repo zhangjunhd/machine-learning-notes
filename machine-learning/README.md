@@ -120,6 +120,20 @@
             - 7.8.1 Polynomial Regression and Step Functions
             - 7.8.2 Splines
             - 7.8.3 GAMs
+    - [8.Tree-Based Methods](ISLR-Sixth/Tree-BasedMethods.ipynb)
+        - 8.1 The Basics of Decision Trees
+            - 8.1.1 Regression Trees
+            - 8.1.2 Classification Trees
+            - 8.1.3 Trees Versus Linear Models
+        - 8.2 Bagging, Random Forests, Boosting
+            - 8.2.1 Bagging
+            - 8.2.2 Random Forests
+            - 8.2.3 Boosting
+        - 8.3 Lab: Decision Trees
+            - 8.3.1 Fitting Classification Trees
+            - 8.3.2 Fitting Regression Trees
+            - 8.3.3 Bagging and Random Forests
+            - 8.3.4 Boosting
 
 
 
