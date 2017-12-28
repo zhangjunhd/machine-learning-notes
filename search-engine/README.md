@@ -116,6 +116,7 @@
         - STEMMING ANALYSIS
             - StopFilter leaves holes
             - Combining stemming and stop-word removal
+1. [Elasticsearch Basic Concepts](ElasticsearchBasicConcepts.md)
 1. [搜索引擎-信息检索实践](search-engine)
     - [搜索引擎架构][1]
     - [信息采集与信息源][2]
