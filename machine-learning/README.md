@@ -158,7 +158,21 @@
             - 9.6.3 ROC Curves
             - 9.6.4 SVM with Multiple Classes
             - 9.6.5 Application to Gene Expression Data
-
+    - [10.Unsupervised Learning](ISLR-Sixth/UnsupervisedLearning.ipynb)
+        - 10.2 Principal Components Analysis
+            - 10.2.1 What Are Principal Components?
+            - 10.2.2 Another Interpretation of Principal Components
+            - 10.2.3 More on PCA
+        - 10.3 Clustering Methods
+            - 10.3.1 K-Means Clustering
+            - 10.3.2 Hierarchical Clustering
+        - 10.4 Lab 1: Principal Components Analysis
+        - 10.5 Lab 2: Clustering
+            - 10.5.1 K-Means Clustering
+            - 10.5.2 Hierarchical Clustering
+        - 10.6 Lab 3: NCI60 Data Example
+            - 10.6.1 PCA on the NCI60 Data
+            - 10.6.2 Clustering the Observations of the NCI60 Data
 
 ## 分类
 - [knn_classification.ipynb](knn_classification.ipynb):Iris,knn,split data
