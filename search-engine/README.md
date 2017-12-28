@@ -24,6 +24,39 @@
             - Query
             - TermQuery
             - TopDocs
+    - [Building a search index](LuceneInAction/BuildingASearchIndex.md)
+        - HOW LUCENE MODELS CONTENT
+            - Documents and fields
+            - Flexible schema
+            - Denormalization
+        - UNDERSTANDING THE INDEXING PROCESS
+            - BASIC INDEX OPERATIONS
+            - Adding documents to an index
+            - Deleting documents from an index
+            - Updating documents in the index
+        - FIELD OPTIONS
+            - Field options for indexing
+            - Field options for storing fields
+            - Field options for term vectors
+            - Reader, TokenStream, and byte[] field values
+            - Field option combinations
+            - Field options for sorting
+            - Multivalued fields
+        - BOOSTING DOCUMENTS AND FIELDS
+            - Boosting documents
+            - Boosting fields
+            - Norms
+        - INDEXING NUMBERS, DATES, AND TIMES
+            - Indexing numbers
+            - Indexing dates and times
+        - FIELD TRUNCATION
+        - NEAR-REAL-TIME SEARCH
+        - OPTIMIZING AN INDEX
+        - OTHER DIRECTORY IMPLEMENTATIONS
+        - CONCURRENCY, THREAD SAFETY, AND LOCKING ISSUES
+            - Thread and multi-JVM safety
+            - Accessing an index over a remote file system
+            - Index locking
 1. [搜索引擎-信息检索实践](search-engine)
     - [搜索引擎架构][1]
     - [信息采集与信息源][2]
