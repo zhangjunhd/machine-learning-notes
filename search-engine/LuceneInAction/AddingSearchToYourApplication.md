@@ -1,3 +1,43 @@
+<!-- TOC -->
+
+- [Adding search to your application](#adding-search-to-your-application)
+    - [IMPLEMENTING A SIMPLE SEARCH FEATURE](#implementing-a-simple-search-feature)
+        - [Searching for a specific term](#searching-for-a-specific-term)
+        - [Parsing a user-entered query expression: QueryParser](#parsing-a-user-entered-query-expression-queryparser)
+    - [USING INDEXSEARCHER](#using-indexsearcher)
+        - [Creating an IndexSearcher](#creating-an-indexsearcher)
+        - [Performing searches](#performing-searches)
+        - [Working with TopDocs](#working-with-topdocs)
+        - [Paging through results](#paging-through-results)
+        - [Near-real-time search](#near-real-time-search)
+    - [UNDERSTANDING LUCENE SCORING](#understanding-lucene-scoring)
+        - [How Lucene scores](#how-lucene-scores)
+        - [Using explain() to understand hit scoring](#using-explain-to-understand-hit-scoring)
+    - [LUCENE’S DIVERSE QUERIES](#lucenes-diverse-queries)
+        - [Searching by term: TermQuery](#searching-by-term-termquery)
+        - [Searching within a term range: TermRangeQuery](#searching-within-a-term-range-termrangequery)
+        - [Searching within a numeric range: NumericRangeQuery](#searching-within-a-numeric-range-numericrangequery)
+        - [Searching on a string: PrefixQuery](#searching-on-a-string-prefixquery)
+        - [Combining queries: BooleanQuery](#combining-queries-booleanquery)
+        - [Searching by phrase: PhraseQuery](#searching-by-phrase-phrasequery)
+        - [Searching by wildcard: WildcardQuery](#searching-by-wildcard-wildcardquery)
+        - [Searching for similar terms: FuzzyQuery](#searching-for-similar-terms-fuzzyquery)
+        - [Matching all documents: MatchAllDocsQuery](#matching-all-documents-matchalldocsquery)
+    - [PARSING QUERY EXPRESSIONS: QUERYPARSER](#parsing-query-expressions-queryparser)
+        - [Query.toString](#querytostring)
+        - [TermQuery](#termquery)
+        - [Term range searches](#term-range-searches)
+        - [Numeric and date range searches](#numeric-and-date-range-searches)
+        - [Prefix and wildcard queries](#prefix-and-wildcard-queries)
+        - [Boolean operators](#boolean-operators)
+        - [Phrase queries](#phrase-queries)
+        - [Fuzzy queries](#fuzzy-queries)
+        - [MatchAllDocsQuery](#matchalldocsquery)
+        - [Grouping](#grouping)
+        - [Setting the boost for a subquery](#setting-the-boost-for-a-subquery)
+
+<!-- /TOC -->
+
 # Adding search to your application
 Table 3.1. Lucene’s primary searching API
 
