@@ -134,7 +134,30 @@
             - 8.3.2 Fitting Regression Trees
             - 8.3.3 Bagging and Random Forests
             - 8.3.4 Boosting
-
+    - [9.Support Vector Machines](ISLR-Sixth/SupportVectorMachines.ipynb)
+        - 9.1 Maximal Margin Classifier
+            - 9.1.1 What Is a Hyperplane?
+            - 9.1.2 Classification Using a Separating Hyperplane
+            - 9.1.3 The Maximal Margin Classifier
+            - 9.1.4 Construction of the Maximal Margin Classifier
+            - 9.1.5 The Non-separable Case
+        - 9.2 Support Vector Classifiers
+            - 9.2.1 Overview of the Support Vector Classifier
+            - 9.2.2 Details of the Support Vector Classifier
+        - 9.3 Support Vector Machines
+            - 9.3.1 Classification with Non-linear Decision Boundaries
+            - 9.3.2 The Support Vector Machine
+            - 9.3.3 An Application to the Heart Disease Data
+        - 9.4 SVMs with More than Two Classes
+            - 9.4.1 One-Versus-One Classification
+            - 9.4.2 One-Versus-All Classification
+        - 9.5 Relationship to Logistic Regression
+        - 9.6 Lab: Support Vector Machines
+            - 9.6.1 Support Vector Classifier
+            - 9.6.2 Support Vector Machine
+            - 9.6.3 ROC Curves
+            - 9.6.4 SVM with Multiple Classes
+            - 9.6.5 Application to Gene Expression Data
 
 
 ## 分类
