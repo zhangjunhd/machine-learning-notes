@@ -34,8 +34,7 @@
         - What's causing the vanishing gradient problem? Unstable gradients in deep neural nets
     - [Deep learning][16]
         - Introducing convolutional networks
-1. Fundamentals of Deep Learning
-    - [cover][1]
+1. [Fundamentals of Deep Learning][1]
     - [Chapter 1. The Neural Network][21]
         - The Neuron
         - Feed-Forward Neural Networks
