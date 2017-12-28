@@ -63,8 +63,7 @@
     - 统计推断与假设检验
     - 百分比
     - 回归分析
-1. 行为科学统计
-    - [cover][4]
+1. [行为科学统计][4]
     - 描述性统计
         - [变异性][40]
             - 全矩和四分位距
@@ -104,8 +103,7 @@
         - [卡方检验：拟合度与独立性检验][54]
         - [二项检验][55]
         - [顺序数据的统计方法][56]
-1. 统计学
-    - [cover][5]
+1. [统计学][5]
     - [概率分布][60]
         - 标准误差与标准得分
         - 方差、标准差、标准误差和标准得分公式
@@ -133,8 +131,7 @@
     - [方差分析][64]
     - [两个顺序变量的秩方法][65]
     - [多元分析][66]
-1. 统计思维
-    - [cover][6]
+1. [统计思维][6]
     - [探索性数据分析][70]
     - [分布][71]
          - 分布(distribution):样本中出现的值以及每个值出现的频数。
@@ -271,8 +268,7 @@
     - Dirichlet分布的性质
 1. [最大似然估计(Maximum likelihood estimation)][9]
 1. [PCA的数学原理][12]
-1. 线性代数及其应用
-    - [cover][10]
+1. [线性代数及其应用][10]
     - [线性方程组][85]
         - 线性方程组
         - 行化简与阶梯形矩阵
@@ -321,8 +317,7 @@
         - 二次型
         - 条件优化
         - 奇异值分解
-1. INDIANA UNIVERSITY UITS Research Technologies Working Papers
-    - [cover][11]
+1. [INDIANA UNIVERSITY UITS Research Technologies Working Papers][11]
     - [Comparing Group Means: T-tests and One-way ANOVA][100]
 
 
