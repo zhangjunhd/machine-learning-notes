@@ -99,6 +99,23 @@
             - MatchAllDocsQuery
             - Grouping
             - Setting the boost for a subquery
+    - [Lucene’s analysis process](LuceneInAction/LuceneAnalysisProcess.md)
+        - USING ANALYZERS
+            - Indexing analysis
+            - QueryParser analysis
+            - Parsing vs. analysis: when an analyzer isn’t appropriate
+        - WHAT’S INSIDE AN ANALYZER?
+            - What’s in a token?
+            - TokenStream uncensored
+            - Visualizing analyzers
+        - USING THE BUILT-IN ANALYZERS
+        - SOUNDS-LIKE QUERYING
+        - SYNONYMS, ALIASES, AND WORDS THAT MEAN THE SAME
+            - Creating SynonymAnalyzer
+            - Visualizing token positions
+        - STEMMING ANALYSIS
+            - StopFilter leaves holes
+            - Combining stemming and stop-word removal
 1. [搜索引擎-信息检索实践](search-engine)
     - [搜索引擎架构][1]
     - [信息采集与信息源][2]
