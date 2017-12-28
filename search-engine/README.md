@@ -57,6 +57,13 @@
             - Thread and multi-JVM safety
             - Accessing an index over a remote file system
             - Index locking
+    - [Index File Formats](LuceneInAction/IndexFileFormats.md)
+        - Definitions
+        - Types of Fields
+        - Segments
+        - Document Numbers
+        - Overview
+        - File Naming
 1. [搜索引擎-信息检索实践](search-engine)
     - [搜索引擎架构][1]
     - [信息采集与信息源][2]
