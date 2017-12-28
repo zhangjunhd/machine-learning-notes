@@ -5,8 +5,7 @@
 
 ## Note
 1. [深度学习中的激活函数][2]
-1. Neural Network and Deep Learning
-    - [cover][3]
+1. [Neural Network and Deep Learning][3]
     - [Using neural nets to recognize handwritten digits][11]
         - Perceptrons
         - Sigmoid neurons
