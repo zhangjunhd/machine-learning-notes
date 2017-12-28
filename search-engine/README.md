@@ -2,8 +2,29 @@
 ## 综述
 1. [What are some uses of machine learning in search engines][63]
 1. [What is faceted search][64]
-1. 搜索引擎-信息检索实践
-    - [cover][61]
+1. [Lucene in Action](LuceneInAction)
+    - [Meet Lucene](LuceneInAction/MeetLucene.md)
+        - WHAT IS LUCENE?
+        - LUCENE AND THE COMPONENTS OF A SEARCH APPLICATION
+            - Components for indexing
+            - Components for searching
+            - The rest of the search application
+        - LUCENE IN ACTION: A SAMPLE APPLICATION
+            - Creating an index
+            - Searching an index
+        - UNDERSTANDING THE CORE INDEXING CLASSES
+            - IndexWriter
+            - Directory
+            - Analyzer
+            - Document
+            - Field
+        - UNDERSTANDING THE CORE SEARCHING CLASSES
+            - IndexSearcher
+            - Term
+            - Query
+            - TermQuery
+            - TopDocs
+1. [搜索引擎-信息检索实践](search-engine)
     - [搜索引擎架构][1]
     - [信息采集与信息源][2]
     - [文本处理][3]
@@ -59,8 +80,7 @@
             - 层次聚类和K均值聚类
             - K近邻聚类
     - [社会化搜索][9]
-1. 计算广告
-    - [cover][62]
+1. [计算广告](computational_ad)
     - [在线广告综述][1]
         - 在线广告创意类型
         - 在线广告简史
@@ -89,8 +109,6 @@
 
 
 
-[61]: search-engine
-[62]: computational_ad
 [63]: WhatAreSomeUsesOfMachineLearningInSearchEngines.md
 [64]: WhatIsFacetedSearch.md
 
