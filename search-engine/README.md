@@ -64,6 +64,41 @@
         - Document Numbers
         - Overview
         - File Naming
+    - [Adding search to your application](LuceneInAction/AddingSearchToYourApplication.md)
+        - IMPLEMENTING A SIMPLE SEARCH FEATURE
+            - Searching for a specific term
+            - Parsing a user-entered query expression: QueryParser
+        - USING INDEXSEARCHER
+            - Creating an IndexSearcher
+            - Performing searches
+            - Working with TopDocs
+            - Paging through results
+            - Near-real-time search
+        - UNDERSTANDING LUCENE SCORING
+            - How Lucene scores
+            - Using explain() to understand hit scoring
+        - LUCENE’S DIVERSE QUERIES
+            - Searching by term: TermQuery
+            - Searching within a term range: TermRangeQuery
+            - Searching within a numeric range: NumericRangeQuery
+            - Searching on a string: PrefixQuery
+            - Combining queries: BooleanQuery
+            - Searching by phrase: PhraseQuery
+            - Searching by wildcard: WildcardQuery
+            - Searching for similar terms: FuzzyQuery
+            - Matching all documents: MatchAllDocsQuery
+        - PARSING QUERY EXPRESSIONS: QUERYPARSER
+            - Query.toString
+            - TermQuery
+            - Term range searches
+            - Numeric and date range searches
+            - Prefix and wildcard queries
+            - Boolean operators
+            - Phrase queries
+            - Fuzzy queries
+            - MatchAllDocsQuery
+            - Grouping
+            - Setting the boost for a subquery
 1. [搜索引擎-信息检索实践](search-engine)
     - [搜索引擎架构][1]
     - [信息采集与信息源][2]
