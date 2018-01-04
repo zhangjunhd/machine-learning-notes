@@ -105,7 +105,15 @@
         - Implementing a Sentiment Analysis Model
         - Solving seq2seq Tasks with Recurrent Neural Networks
         - Augmenting Recurrent Networks with Attention
-
+    - [Chapter 8. Memory Augmented Neural Networks][27]
+        - Neural Turing Machines
+        - Attention-Based Memory Access
+        - Differentiable Neural Computers
+        - Interference-Free Writing in DNCs
+        - DNC Memory Reuse
+        - Temporal Linking of DNC Writes
+        - Understanding the DNC Read Head
+        - The DNC Controller Network
 
 
 
@@ -128,7 +136,7 @@
 [24]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-5.ipynb
 [25]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-6.ipynb
 [26]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-7.ipynb
-
+[27]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-8.ipynb
 
 [19]:Empirical-Evaluation-of-Gated-Recurrent-Neural-Networks-on-Sequence-Modeling.ipynb
 
