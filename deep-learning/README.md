@@ -5,6 +5,7 @@
 
 ## Note
 1. [深度学习中的激活函数][2]
+1. [深度学习][50]
 1. [Neural Network and Deep Learning][10]
     - [Using neural nets to recognize handwritten digits][11]
         - Perceptrons
@@ -148,6 +149,8 @@
 [28]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-9.ipynb
 
 [30]: Hands-OnMachineLearningWithScikit-LearnAndTensorFlow/
+
+[50]: DeepLearning/
 
 [19]: Empirical-Evaluation-of-Gated-Recurrent-Neural-Networks-on-Sequence-Modeling.ipynb
 [100]:http://www.cs.toronto.edu/~fritz/absps/cogscibm.pdf
