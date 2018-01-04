@@ -114,7 +114,15 @@
         - Temporal Linking of DNC Writes
         - Understanding the DNC Read Head
         - The DNC Controller Network
-
+    - [Chapter 9. Deep Reinforcement Learning][28]
+        - Deep Reinforcement Learning Masters Atari Games
+        - What Is Reinforcement Learning?
+        - Markov Decision Processes (MDP)
+            - Policy
+            - Future Return
+            - Discounted Future Return
+        - Policy Versus Value Learning
+        - Q-Learning and Deep Q-Networks
 
 
 
@@ -137,8 +145,8 @@
 [25]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-6.ipynb
 [26]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-7.ipynb
 [27]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-8.ipynb
+[28]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-9.ipynb
 
-[19]:Empirical-Evaluation-of-Gated-Recurrent-Neural-Networks-on-Sequence-Modeling.ipynb
-
+[19]: Empirical-Evaluation-of-Gated-Recurrent-Neural-Networks-on-Sequence-Modeling.ipynb
 [100]:http://www.cs.toronto.edu/~fritz/absps/cogscibm.pdf
 [119]:https://arxiv.org/abs/1412.3555
