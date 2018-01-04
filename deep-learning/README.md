@@ -5,7 +5,7 @@
 
 ## Note
 1. [深度学习中的激活函数][2]
-1. [Neural Network and Deep Learning][3]
+1. [Neural Network and Deep Learning][10]
     - [Using neural nets to recognize handwritten digits][11]
         - Perceptrons
         - Sigmoid neurons
@@ -33,7 +33,7 @@
         - What's causing the vanishing gradient problem? Unstable gradients in deep neural nets
     - [Deep learning][16]
         - Introducing convolutional networks
-1. [Fundamentals of Deep Learning][1]
+1. [Fundamentals of Deep Learning][20]
     - [Chapter 1. The Neural Network][21]
         - The Neuron
         - Feed-Forward Neural Networks
@@ -123,14 +123,13 @@
             - Discounted Future Return
         - Policy Versus Value Learning
         - Q-Learning and Deep Q-Networks
-
+1. [Hands-On Machine Learning with Scikit-Learn and TensorFlow][30]
 
 
 [0]: A-Learning-Algorithm-for-Boltzmann-Machines.ipynb
-[1]: Fundamentals-of-Deep-Learning/
 [2]: activation-function.ipynb
-[3]: NeuralNetworkAndDeepLearning/
 
+[10]: NeuralNetworkAndDeepLearning/
 [11]: NeuralNetworkAndDeepLearning/chap1.ipynb
 [12]: NeuralNetworkAndDeepLearning/chap2.ipynb
 [13]: NeuralNetworkAndDeepLearning/chap3.ipynb
@@ -138,6 +137,7 @@
 [15]: NeuralNetworkAndDeepLearning/chap5.ipynb
 [16]: NeuralNetworkAndDeepLearning/chap6.ipynb
 
+[20]: Fundamentals-of-Deep-Learning/
 [21]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-1+2.ipynb
 [22]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-3.ipynb
 [23]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-4.ipynb
@@ -146,6 +146,8 @@
 [26]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-7.ipynb
 [27]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-8.ipynb
 [28]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-9.ipynb
+
+[30]: Hands-OnMachineLearningWithScikit-LearnAndTensorFlow/
 
 [19]: Empirical-Evaluation-of-Gated-Recurrent-Neural-Networks-on-Sequence-Modeling.ipynb
 [100]:http://www.cs.toronto.edu/~fritz/absps/cogscibm.pdf
