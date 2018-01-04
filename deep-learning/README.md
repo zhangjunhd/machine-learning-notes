@@ -93,7 +93,18 @@
         - Sparsity in Autoencoders
         - When Context Is More Informative than the Input Vector
         - The Word2Vec Framework
-
+    - [Chapter 7. Models for Sequence Analysis][26]
+        - Analyzing Variable-Length Inputs
+        - Tackling seq2seq with Neural N-Grams
+        - Implementing a Part-of-Speech Tagger
+        - Dependency Parsing and SyntaxNet
+        - Beam Search and Global Normalization
+        - A Case for Stateful Deep Learning Models
+        - Recurrent Neural Networks
+        - Long Short-Term Memory (LSTM) Units
+        - Implementing a Sentiment Analysis Model
+        - Solving seq2seq Tasks with Recurrent Neural Networks
+        - Augmenting Recurrent Networks with Attention
 
 
 
@@ -116,7 +127,7 @@
 [23]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-4.ipynb
 [24]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-5.ipynb
 [25]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-6.ipynb
-
+[26]: Fundamentals-of-Deep-Learning/Fundamentals-of-Deep-Learning-7.ipynb
 
 
 [19]:Empirical-Evaluation-of-Gated-Recurrent-Neural-Networks-on-Sequence-Modeling.ipynb
