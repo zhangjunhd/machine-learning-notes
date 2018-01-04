@@ -93,7 +93,7 @@
         - Sparsity in Autoencoders
         - When Context Is More Informative than the Input Vector
         - The Word2Vec Framework
-    - [Chapter 7. Models for Sequence Analysis][26]
+    - [Chapter 7. Models for Sequence Analysis][26]
         - Analyzing Variable-Length Inputs
         - Tackling seq2seq with Neural N-Grams
         - Implementing a Part-of-Speech Tagger
