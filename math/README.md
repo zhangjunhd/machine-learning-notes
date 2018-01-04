@@ -1,5 +1,18 @@
 # 数学
 1. [log-log双对数曲线图](log_log_plot.md)
+1. [狄利克雷过程（dirichlet process ）的五种理解](dp.ipynb)
+    - 原始定义
+    - 中国餐馆过程（CRP）
+    - Polya urn模型
+    - stick-breaking模型
+    - 无限混合模型
+1. [Dirichlet分布](dirichlet.ipynb)
+    - 基础知识：conjugate priors共轭先验
+    - 二项分布和Beta分布
+    - 多项分布和Dirichlet分布
+    - Dirichlet分布的性质
+1. [最大似然估计(Maximum likelihood estimation)](mle.ipynb)
+1. [PCA的数学原理](pca.ipynb)
 1. [机会的数学][1]
     - 概率——机会大小的度量
         - 古典概率：试验结果的等可能性
@@ -255,19 +268,6 @@
         - 中心极限定理
         - 相关检验
         - 卡方检验
-1. [狄利克雷过程（dirichlet process ）的五种理解][7]
-    - 原始定义
-    - 中国餐馆过程（CRP）
-    - Polya urn模型
-    - stick-breaking模型
-    - 无限混合模型
-1. [Dirichlet分布][8]
-    - 基础知识：conjugate priors共轭先验
-    - 二项分布和Beta分布
-    - 多项分布和Dirichlet分布
-    - Dirichlet分布的性质
-1. [最大似然估计(Maximum likelihood estimation)][9]
-1. [PCA的数学原理][12]
 1. [线性代数及其应用][10]
     - [线性方程组][85]
         - 线性方程组
@@ -327,12 +327,8 @@
 [4]: StatisticsForTheBehavioralSciences
 [5]: statistics
 [6]: thinkstats
-[7]: dp.ipynb
-[8]: dirichlet.ipynb
-[9]: mle.ipynb
 [10]:LinearAlgebraAndItsApplications
 [11]:indiana_edu_statmath
-[12]:pca.ipynb
 
 [40]: StatisticsForTheBehavioralSciences/variance.ipynb
 [41]: StatisticsForTheBehavioralSciences/z-score.ipynb
