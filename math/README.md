@@ -1,4 +1,5 @@
 # 数学
+1. [基本初等函数](ElementaryFunction.ipynb)
 1. [log-log双对数曲线图](log_log_plot.md)
 1. [狄利克雷过程（dirichlet process ）的五种理解](dp.ipynb)
     - 原始定义
