@@ -11,6 +11,7 @@
     - 二项分布和Beta分布
     - 多项分布和Dirichlet分布
     - Dirichlet分布的性质
+1. [LDA](LDA.ipynb)
 1. [最大似然估计(Maximum likelihood estimation)](mle.ipynb)
 1. [PCA的数学原理](pca.ipynb)
 1. [机会的数学][1]
