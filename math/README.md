@@ -12,6 +12,9 @@
     - 多项分布和Dirichlet分布
     - Dirichlet分布的性质
 1. [LDA](LDA.ipynb)
+    - 神奇的 Gamma 函数
+    - 认识 Beta/Dirichlet 分布
+    - MCMC 和 Gibbs Sampling
 1. [最大似然估计(Maximum likelihood estimation)](mle.ipynb)
 1. [PCA的数学原理](pca.ipynb)
 1. [机会的数学][1]
