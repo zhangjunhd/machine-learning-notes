@@ -18,6 +18,7 @@
     - MCMC 和 Gibbs Sampling
 1. [最大似然估计(Maximum likelihood estimation)](mle.ipynb)
 1. [从最大似然到EM算法浅解](MLE-EM.ipynb)
+1. [最大后验估计(Maximum-a-Posteriori (MAP) Estimation)](map.ipynb)
 1. [PCA的数学原理](pca.ipynb)
 1. [机会的数学][1]
     - 概率——机会大小的度量
