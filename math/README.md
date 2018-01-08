@@ -20,6 +20,7 @@
 1. [从最大似然到EM算法浅解](MLE-EM.ipynb)
 1. [最大后验估计(Maximum-a-Posteriori (MAP) Estimation)](map.ipynb)
 1. [PCA的数学原理](pca.ipynb)
+1. [矩阵奇异值分解(SVD)及其应用](svd.ipynb)
 1. [机会的数学][1]
     - 概率——机会大小的度量
         - 古典概率：试验结果的等可能性
