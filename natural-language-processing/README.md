@@ -179,6 +179,7 @@
 1. [Recurrent neural network based language model][7],Tomas Mikolov,[INTERSPEECH 2010][102]
 1. [Linguistic Regularities in Continuous Space Word Representations][2],Tomas Mikolov,Wen-tau Yih,Geoffrey Zweig,[NAACL-HLT 2013][103] 
 1. [Efficient Estimation of Word Representations in Vector Space][3],Tomas Mikolov,Kai Chen,Greg Corrado,Jeffrey Dean,[7 Sep 2013][104]
+    - [Note on Word Representation][19], Chao Yang, [link][119]
 1. [Distributed Representations of Words and Phrases and their Compositionality][4],Tomas Mikolov,Ilya Sutskever,Kai Chen,Greg Corrado,Jeffrey Dean,[16 OCT 2013][105]
 1. [Distributed Representations of Sentences and Documents][5],Quoc Le,Tomas Mikolov,[22 May 2014][106]
 1. [Document Embedding with Paragraph Vectors][6],Andrew M. Dai,Christopher Olah,Quoc V. Le,[29 Jul 2015][107]
@@ -222,6 +223,8 @@
 [16]:Learning-Continuous-Phrase-Representations-for-Translation-Modeling.ipynb
 [17]:Learning-Phrase-Representations-using-RNN-Encoder–Decoder-for-Statistical-Machine-Translation.ipynb
 [18]:Sequence-to-Sequence-Learning-with-Neural-Networks.ipynb
+[19]:Note-on-Word-Representation.ipynb
+
 
 [20]:Googles-Neural-Machine-Translation-System-Bridging-the-Gap-between-Human-and-Machine-Translation.ipynb
 [21]:MULTI-TASK-SEQUENCE-TO-SEQUENCE-LEARNING.ipynb
@@ -244,6 +247,7 @@
 [116]:https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/nn4smt.acl_.v9.pdf
 [117]:https://arxiv.org/pdf/1406.1078.pdf
 [118]:https://arxiv.org/pdf/1409.3215.pdf
+[119]:https://github.com/placebokkk/writing/blob/master/word_embedding_note/word_representation_note_en.pdf
 
 [120]:https://arxiv.org/pdf/1609.08144.pdf
 [121]:https://nlp.stanford.edu/pubs/luong2016iclr_multi.pdf
