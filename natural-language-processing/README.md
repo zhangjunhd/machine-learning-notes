@@ -199,7 +199,9 @@
 1. [MULTI-TASK SEQUENCE TO SEQUENCE LEARNING][31],Minh-Thang Luong, Quoc V. Le, Ilya Sutskever, Oriol Vinyals, Lukasz Kaiser,[ICLR 2016][131]
 1. [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation][30],Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V. Le, Jeffrey Dean,[8 Oct 2016][130]
 
-## Natural Language Generation(NLG)
+## Natural Language Understanding(NLU)
+1. [Abstract Meaning Representation for Sembanking],Laura Banarescu,Nathan Schneider,[link][150]
+
 
 [1]: A-Neural-Probabilistic-Language-Model.ipynb
 [2]: Linguistic-Regularities-in-Continuous-Space-Word-Representations.ipynb
@@ -225,6 +227,8 @@
 [30]:Googles-Neural-Machine-Translation-System-Bridging-the-Gap-between-Human-and-Machine-Translation.ipynb
 [31]:MULTI-TASK-SEQUENCE-TO-SEQUENCE-LEARNING.ipynb
 
+[50]:Abstract-Meaning-Representation-for-Sembanking.ipynb
+
 [101]:http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
 [102]:http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf
 [103]:http://www.aclweb.org/anthology/N13-1090
@@ -248,6 +252,8 @@
 
 [130]:https://arxiv.org/pdf/1609.08144.pdf
 [131]:https://nlp.stanford.edu/pubs/luong2016iclr_multi.pdf
+
+[150]:https://amr.isi.edu/a.pdf
 
 [200]: NaturalLanguageProcessingWithPython
 [201]: NaturalLanguageProcessingWithPython/nltk-introduction.ipynb
