@@ -178,7 +178,7 @@
 1. [Efficient Estimation of Word Representations in Vector Space][3],Tomas Mikolov,Kai Chen,Greg Corrado,Jeffrey Dean,[7 Sep 2013][104]
 1. [Distributed Representations of Words and Phrases and their Compositionality][4],Tomas Mikolov,Ilya Sutskever,Kai Chen,Greg Corrado,Jeffrey Dean,[16 OCT 2013][105]
     - [Note on Word Representation][19], Chao Yang, [link][119]
-    - [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method][20],Yoav Goldberg,Omer Levy,[15 Feb 2014][200]
+    - [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method][20],Yoav Goldberg,Omer Levy,[15 Feb 2014][120]
 1. [Distributed Representations of Sentences and Documents][5],Quoc Le,Tomas Mikolov,[22 May 2014][106]
 1. [Document Embedding with Paragraph Vectors][6],Andrew M. Dai,Christopher Olah,Quoc V. Le,[29 Jul 2015][107]
 1. [Skip-Thought Vectors][8],Ryan Kiros,Yukun Zhu,Ruslan Salakhutdinov,Richard S. Zemel,Antonio Torralba, Raquel Urtasun, Sanja Fidler,[2015][108]
@@ -196,8 +196,8 @@
 1. [Learning Phrase Representations using RNN Encoder–Decoder for Statistical Machine Translation][17],Kyunghyun Cho,Yoshua Bengio,
 [3 Sep 2014][117]
 1. [Sequence to Sequence Learning with Neural Networks][18],Ilya Sutskever,Oriol Vinyals,Quoc V. Le,[14 Dec 2014][118]
-1. [MULTI-TASK SEQUENCE TO SEQUENCE LEARNING][21],Minh-Thang Luong, Quoc V. Le, Ilya Sutskever, Oriol Vinyals, Lukasz Kaiser,[ICLR 2016][121]
-1. [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation][20],Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V. Le, Jeffrey Dean,[8 Oct 2016][120]
+1. [MULTI-TASK SEQUENCE TO SEQUENCE LEARNING][31],Minh-Thang Luong, Quoc V. Le, Ilya Sutskever, Oriol Vinyals, Lukasz Kaiser,[ICLR 2016][131]
+1. [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation][30],Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V. Le, Jeffrey Dean,[8 Oct 2016][130]
 
 ## Natural Language Generation(NLG)
 
@@ -222,8 +222,8 @@
 [19]:Note-on-Word-Representation.ipynb
 [20]:word2vecExplained.ipynb
 
-[20]:Googles-Neural-Machine-Translation-System-Bridging-the-Gap-between-Human-and-Machine-Translation.ipynb
-[21]:MULTI-TASK-SEQUENCE-TO-SEQUENCE-LEARNING.ipynb
+[30]:Googles-Neural-Machine-Translation-System-Bridging-the-Gap-between-Human-and-Machine-Translation.ipynb
+[31]:MULTI-TASK-SEQUENCE-TO-SEQUENCE-LEARNING.ipynb
 
 [101]:http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
 [102]:http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf
@@ -244,10 +244,10 @@
 [117]:https://arxiv.org/pdf/1406.1078.pdf
 [118]:https://arxiv.org/pdf/1409.3215.pdf
 [119]:https://github.com/placebokkk/writing/blob/master/word_embedding_note/word_representation_note_en.pdf
-[200]:https://arxiv.org/pdf/1402.3722v1.pdf
+[120]:https://arxiv.org/pdf/1402.3722v1.pdf
 
-[120]:https://arxiv.org/pdf/1609.08144.pdf
-[121]:https://nlp.stanford.edu/pubs/luong2016iclr_multi.pdf
+[130]:https://arxiv.org/pdf/1609.08144.pdf
+[131]:https://nlp.stanford.edu/pubs/luong2016iclr_multi.pdf
 
 [200]: NaturalLanguageProcessingWithPython
 [201]: NaturalLanguageProcessingWithPython/nltk-introduction.ipynb
