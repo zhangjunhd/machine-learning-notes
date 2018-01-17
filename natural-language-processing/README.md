@@ -200,7 +200,7 @@
 1. [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation][30],Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V. Le, Jeffrey Dean,[8 Oct 2016][130]
 
 ## Natural Language Understanding(NLU)
-1. [Abstract Meaning Representation for Sembanking],Laura Banarescu,Nathan Schneider,[link][150]
+1. [Abstract Meaning Representation for Sembanking][50],Laura Banarescu,Nathan Schneider,[link][150]
 
 
 [1]: A-Neural-Probabilistic-Language-Model.ipynb
