@@ -201,7 +201,7 @@
 
 ## Natural Language Understanding(NLU)
 1. [Abstract Meaning Representation for Sembanking][50],Laura Banarescu,Nathan Schneider,[link][150]
-
+1. [SQuAD: 100,000+ Questions for Machine Comprehension of Text][51],Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, Percy Liang,[11 Oct 2016][151]
 
 [1]: A-Neural-Probabilistic-Language-Model.ipynb
 [2]: Linguistic-Regularities-in-Continuous-Space-Word-Representations.ipynb
@@ -228,6 +228,7 @@
 [31]:MULTI-TASK-SEQUENCE-TO-SEQUENCE-LEARNING.ipynb
 
 [50]:Abstract-Meaning-Representation-for-Sembanking.ipynb
+[51]:SQuAD.ipynb
 
 [101]:http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
 [102]:http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf
@@ -254,6 +255,7 @@
 [131]:https://nlp.stanford.edu/pubs/luong2016iclr_multi.pdf
 
 [150]:https://amr.isi.edu/a.pdf
+[151]:https://arxiv.org/pdf/1606.05250.pdf
 
 [200]: NaturalLanguageProcessingWithPython
 [201]: NaturalLanguageProcessingWithPython/nltk-introduction.ipynb
