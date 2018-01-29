@@ -8,6 +8,8 @@
 - 需求方可以是广告主（advertiser）、代表广告主利益的代理商（agency）或其他技术形态的采买方
 - 供给方可以是媒体，也可以是其他技术形态的变现平台
 
+![1](http://www.chinawebanalytics.cn/wp-content/uploads/2014/10/adver-agency-pub-aud.png)
+
 《当代广告学》的见解：
 
     广告的根本目的是广告主通过媒体达到低成本的用户接触。
