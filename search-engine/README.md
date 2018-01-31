@@ -173,30 +173,6 @@
             - 层次聚类和K均值聚类
             - K近邻聚类
     - [社会化搜索][9]
-1. [计算广告](computational_ad)
-    - [在线广告综述][11]
-        - 在线广告创意类型
-        - 在线广告简史
-    - [计算广告基础][12]
-        - 广告有效性原理
-        - 计算广告的核心问题
-            - 广告收入的分解
-            - 结算方式与eCPM估计的关系
-    - [在线产品广告概览][13]
-    - [合约广告][14]
-        - 广告位合约
-        - 受众定向
-    - [搜索与竞价广告][15]
-        - 搜索广告
-            - 搜索广告产品形态
-            - 搜索广告产品新形式
-            - 搜索广告产品策略
-        - 位置拍卖与机制设计
-            - 定价问题
-            - 市场保留价（Market Reserve Price，MRP）
-            - 价格挤压
-        - 广告网络
-        - 竞价广告需求方产品
 
 ## 论文
 
@@ -216,8 +192,4 @@
 [8]: search-engine/classification_clustering.ipynb
 [9]: search-engine/social_search.ipynb
 
-[11]: computational_ad/chap1.md
-[12]: computational_ad/chap2.ipynb
-[13]: computational_ad/chap3.md
-[14]: computational_ad/chap4.md
-[15]: computational_ad/chap5.ipynb
+
