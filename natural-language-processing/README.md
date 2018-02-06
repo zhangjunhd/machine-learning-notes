@@ -204,6 +204,7 @@
 1. [Deep Learning for Answer Sentence Selection][53],Lei Yu,Karl Moritz Hermann,Phil Blunsom,Stephen Pulman,[4 Dec 2014][153]
 1. [WIKIQA: A Challenge Dataset for Open-Domain Question Answering][52],Yi Yang,Wen-tau Yih,Christopher Meek,[17 Sep 2015][152]
 1. [SQuAD: 100,000+ Questions for Machine Comprehension of Text][51],Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, Percy Liang,[11 Oct 2016][151]
+1. [Learning to Answer Questions from Wikipedia Infoboxes][54],Alvaro Morales,Varot Premtoon,Boris Katz,[1 Nov 2016][154]
 
 [1]: A-Neural-Probabilistic-Language-Model.ipynb
 [2]: Linguistic-Regularities-in-Continuous-Space-Word-Representations.ipynb
@@ -233,6 +234,7 @@
 [51]:SQuAD.ipynb
 [52]:WIKIQA.ipynb
 [53]:Deep-Learning-for-Answer-Sentence-Selection.ipynb
+[54]:Learning-to-Answer-Questions-from-Wikipedia-Infoboxes.ipynb
 
 [101]:http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
 [102]:http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf
@@ -262,6 +264,7 @@
 [151]:https://arxiv.org/pdf/1606.05250.pdf
 [152]:http://www.aclweb.org/anthology/D15-1237
 [153]:https://arxiv.org/abs/1412.1632
+[154]:https://aclweb.org/anthology/D16-1199
 
 [200]: NaturalLanguageProcessingWithPython
 [201]: NaturalLanguageProcessingWithPython/nltk-introduction.ipynb
