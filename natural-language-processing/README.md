@@ -206,6 +206,10 @@
 1. [SQuAD: 100,000+ Questions for Machine Comprehension of Text][51],Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, Percy Liang,[11 Oct 2016][151]
 1. [SelQA: A New Benchmark for Selection-based Question Answering][55],Tomasz Jurczyk,Michael Zhai,Jinho D. Choi,[28 Oct 2016][155]
 1. [Learning to Answer Questions from Wikipedia Infoboxes][54],Alvaro Morales,Varot Premtoon,Boris Katz,[1 Nov 2016][154]
+1. [Analysis of Wikipedia-based Corpora for Question Answering][56],Tomasz Jurczyk, Amit Deshmane, Jinho Choi,[1 Jan 2018][156]
+
+
+
 
 [1]: A-Neural-Probabilistic-Language-Model.ipynb
 [2]: Linguistic-Regularities-in-Continuous-Space-Word-Representations.ipynb
@@ -237,6 +241,7 @@
 [53]:Deep-Learning-for-Answer-Sentence-Selection.ipynb
 [54]:Learning-to-Answer-Questions-from-Wikipedia-Infoboxes.ipynb
 [55]:SelQA.ipynb
+[56]:Analysis-of-Wikipedia-based-Corpora-for-Question-Answering.ipynb
 
 [101]:http://www.jmlr.org/papers/volume3/bengio03a/bengio03a.pdf
 [102]:http://www.fit.vutbr.cz/research/groups/speech/publi/2010/mikolov_interspeech2010_IS100722.pdf
@@ -268,6 +273,7 @@
 [153]:https://arxiv.org/abs/1412.1632
 [154]:https://aclweb.org/anthology/D16-1199
 [155]:https://arxiv.org/pdf/1606.08513.pdf
+[156]:https://arxiv.org/pdf/1801.02073.pdf
 
 [200]: NaturalLanguageProcessingWithPython
 [201]: NaturalLanguageProcessingWithPython/nltk-introduction.ipynb
