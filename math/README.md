@@ -61,14 +61,6 @@
             - 样本相关系数
             - 总体相关系数
         - 回归方程
-1. [统计与真理][2]
-    - 蒙特卡罗(Monte Carlo)方法
-    - 赌徒悖论
-    - 如何调查问卷一个很敏感的问题
-    - 偶然性与必然性
-    - 模糊性
-    - π的小数点后的位数是随机的吗？（卡方检验）
-    - 三种逻辑推理方法
 1. [赤裸裸的统计学][3]
     - 描述统计学
     - 正态分布
@@ -325,18 +317,14 @@
         - 二次型
         - 条件优化
         - 奇异值分解
-1. [INDIANA UNIVERSITY UITS Research Technologies Working Papers][11]
-    - [Comparing Group Means: T-tests and One-way ANOVA][100]
 
 
 [1]: chance-of-math.ipynb
-[2]: statistics-and-truth.ipynb
 [3]: naked-statistics.ipynb
 [4]: StatisticsForTheBehavioralSciences
 [5]: statistics
 [6]: thinkstats
 [10]:LinearAlgebraAndItsApplications
-[11]:indiana_edu_statmath
 
 [40]: StatisticsForTheBehavioralSciences/variance.ipynb
 [41]: StatisticsForTheBehavioralSciences/z-score.ipynb
@@ -386,5 +374,3 @@
 [89]: LinearAlgebraAndItsApplications/chap5.ipynb
 [90]: LinearAlgebraAndItsApplications/chap6.ipynb
 [91]: LinearAlgebraAndItsApplications/chap7.ipynb
-
-[100]: indiana_edu_statmath/ComparingGroupMeans.ipynb
