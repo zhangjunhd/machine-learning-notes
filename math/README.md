@@ -16,7 +16,6 @@
     - 神奇的 Gamma 函数
     - 认识 Beta/Dirichlet 分布
     - MCMC 和 Gibbs Sampling
-1. [从最大似然到EM算法浅解](MLE-EM.ipynb)
 1. [PCA的数学原理](pca.ipynb)
 1. [矩阵奇异值分解(SVD)及其应用](svd.ipynb)    
 1. [行为科学统计][4]
