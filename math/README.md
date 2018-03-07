@@ -17,47 +17,7 @@
     - 认识 Beta/Dirichlet 分布
     - MCMC 和 Gibbs Sampling
 1. [PCA的数学原理](pca.ipynb)
-1. [矩阵奇异值分解(SVD)及其应用](svd.ipynb)    
-1. [行为科学统计][4]
-    - 描述性统计
-        - [变异性][40]
-            - 全矩和四分位距
-            - 总体的方差和标准差
-            - 样本的方差和标准差
-            - 无偏估计与有偏估计
-    - 推论性统计
-        - [z分数][41]
-        - [概率][42]
-            - 随机样本
-            - 正态分布
-            - 二项分布
-            - 推论统计
-        - [概率和样本：样本平均数的分布][43]
-            - 中心极限定理
-            - 标准误
-    - 平均数差异推论
-        - [假设检验][44]
-            - 虚无假设
-            - 备择假设
-            - α水平
-            - z分数
-            - 第一类误差
-            - 第二类误差
-            - 显著效应
-            - 科恩d值
-        - [t分数][45]
-        - [两个独立样本的t检验][46]
-        - [两个相关样本的t检验][47]
-        - [估计][48]
-        - [方差分析][49]
-        - [重复测量方差分析][50]
-        - [双因素方差分析（独立测量）][51]
-    - 相关与非参数检验
-        - [相关][52]
-        - [回归][53]
-        - [卡方检验：拟合度与独立性检验][54]
-        - [二项检验][55]
-        - [顺序数据的统计方法][56]
+1. [矩阵奇异值分解(SVD)及其应用](svd.ipynb)        
 1. [统计学][5]
     - [概率分布][60]
         - 标准误差与标准得分
@@ -260,15 +220,10 @@
         - 条件优化
         - 奇异值分解
 
-[4]: StatisticsForTheBehavioralSciences
 [5]: statistics
 [6]: thinkstats
 [10]:LinearAlgebraAndItsApplications
 
-[40]: StatisticsForTheBehavioralSciences/variance.ipynb
-[41]: StatisticsForTheBehavioralSciences/z-score.ipynb
-[42]: StatisticsForTheBehavioralSciences/probability.ipynb
-[43]: StatisticsForTheBehavioralSciences/sample.ipynb
 [44]: StatisticsForTheBehavioralSciences/hypothesis-testing.ipynb
 [45]: StatisticsForTheBehavioralSciences/t-score.ipynb
 [46]: StatisticsForTheBehavioralSciences/2independent-sample-t-score.ipynb
