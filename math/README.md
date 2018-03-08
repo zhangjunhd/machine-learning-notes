@@ -224,11 +224,6 @@
 [6]: thinkstats
 [10]:LinearAlgebraAndItsApplications
 
-[44]: StatisticsForTheBehavioralSciences/hypothesis-testing.ipynb
-[45]: StatisticsForTheBehavioralSciences/t-score.ipynb
-[46]: StatisticsForTheBehavioralSciences/2independent-sample-t-score.ipynb
-[47]: StatisticsForTheBehavioralSciences/2relevent-sample-t-score.ipynb
-[48]: StatisticsForTheBehavioralSciences/estimation.ipynb
 [49]: StatisticsForTheBehavioralSciences/anova.ipynb
 [50]: StatisticsForTheBehavioralSciences/repeat-anova.ipynb
 [51]: StatisticsForTheBehavioralSciences/independent-test-anova.ipynb
