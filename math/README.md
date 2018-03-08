@@ -224,8 +224,6 @@
 [6]: thinkstats
 [10]:LinearAlgebraAndItsApplications
 
-[52]: StatisticsForTheBehavioralSciences/relevance.ipynb
-[53]: StatisticsForTheBehavioralSciences/regression.ipynb
 [54]: StatisticsForTheBehavioralSciences/chi-square-test.ipynb
 [55]: StatisticsForTheBehavioralSciences/binomial-test.ipynb
 [56]: StatisticsForTheBehavioralSciences/ranking-data-test.ipynb
