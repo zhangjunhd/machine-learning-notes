@@ -224,9 +224,6 @@
 [6]: thinkstats
 [10]:LinearAlgebraAndItsApplications
 
-[49]: StatisticsForTheBehavioralSciences/anova.ipynb
-[50]: StatisticsForTheBehavioralSciences/repeat-anova.ipynb
-[51]: StatisticsForTheBehavioralSciences/independent-test-anova.ipynb
 [52]: StatisticsForTheBehavioralSciences/relevance.ipynb
 [53]: StatisticsForTheBehavioralSciences/regression.ipynb
 [54]: StatisticsForTheBehavioralSciences/chi-square-test.ipynb
