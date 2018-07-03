@@ -52,7 +52,6 @@
 1. [Google's Neural Machine Translation System: Bridging the Gap between Human and Machine Translation][30],Yonghui Wu, Mike Schuster, Zhifeng Chen, Quoc V. Le, Jeffrey Dean,[8 Oct 2016][130]
 
 ## Natural Language Understanding(NLU)
-1. [Abstract Meaning Representation for Sembanking][50],Laura Banarescu,Nathan Schneider,[link][150]
 1. [Deep Learning for Answer Sentence Selection][53],Lei Yu,Karl Moritz Hermann,Phil Blunsom,Stephen Pulman,[4 Dec 2014][153]
 1. [WIKIQA: A Challenge Dataset for Open-Domain Question Answering][52],Yi Yang,Wen-tau Yih,Christopher Meek,[17 Sep 2015][152]
 1. [SQuAD: 100,000+ Questions for Machine Comprehension of Text][51],Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, Percy Liang,[11 Oct 2016][151]
@@ -87,7 +86,6 @@
 [30]:Googles-Neural-Machine-Translation-System-Bridging-the-Gap-between-Human-and-Machine-Translation.ipynb
 [31]:MULTI-TASK-SEQUENCE-TO-SEQUENCE-LEARNING.ipynb
 
-[50]:Abstract-Meaning-Representation-for-Sembanking.ipynb
 [51]:SQuAD.ipynb
 [52]:WIKIQA.ipynb
 [53]:Deep-Learning-for-Answer-Sentence-Selection.ipynb
@@ -119,7 +117,6 @@
 [130]:https://arxiv.org/pdf/1609.08144.pdf
 [131]:https://nlp.stanford.edu/pubs/luong2016iclr_multi.pdf
 
-[150]:https://amr.isi.edu/a.pdf
 [151]:https://arxiv.org/pdf/1606.05250.pdf
 [152]:http://www.aclweb.org/anthology/D15-1237
 [153]:https://arxiv.org/abs/1412.1632
