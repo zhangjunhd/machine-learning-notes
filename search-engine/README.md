@@ -1,6 +1,5 @@
 # 搜索引擎
 ## 综述
-1. [What are some uses of machine learning in search engines][63]
 1. [What is faceted search][64]
 1. [Lucene in Action](LuceneInAction)
     - [Meet Lucene](LuceneInAction/MeetLucene.md)
@@ -174,11 +173,6 @@
             - K近邻聚类
     - [社会化搜索][9]
 
-## 论文
-
-
-
-[63]: WhatAreSomeUsesOfMachineLearningInSearchEngines.md
 [64]: WhatIsFacetedSearch.md
 
 
