@@ -170,59 +170,10 @@
         - 中心极限定理
         - 相关检验
         - 卡方检验
-1. [线性代数及其应用][10]
-    - [线性方程组][85]
-        - 线性方程组
-        - 行化简与阶梯形矩阵
-        - 向量方程
-        - 矩阵方程Ax=b
-        - 线性方程组的解集
-        - 线性无关
-        - 线性变换介绍
-        - 线性变换的矩阵
-    - [矩阵代数][86]
-        - 矩阵运算
-        - 矩阵的逆（非奇异）
-        - 可逆矩阵的特征
-        - 分块矩阵
-        - 矩阵因式分解（LU分解）
-        - 列昂惕夫投入产出模型
-        - ℝⁿ的子空间
-        - 维数与秩
-    - [行列式][87]
-        - 行列式介绍
-        - 行列式的性质
-        - 克拉默法则、体积和线性变换
-    - [向量空间][88]
-        - 向量空间与子空间
-        - 零空间、列空间和线性变换
-        - 线性无关集和基
-        - 坐标系
-        - 向量空间的维数
-        - 秩
-        - 基的变换
-        - 差分方程中的应用
-    - [特征值与特征向量][89]
-        - 特征向量与特征值
-        - 特征方程
-        - 对角化
-        - 特征向量与线性变换
-        - 特征值的迭代估计
-    - [正交性和最小二乘法][90]
-        - 内积、长度和正交性
-        - 正交集
-        - 正交投影
-        - 格拉姆-施密特方法(The Gram-Schmidt Process)与QR分解
-        - 最小二乘问题(Least-Squares Problems)
-    - [对称矩阵和二次型][91]
-        - 对称矩阵的对角化
-        - 二次型
-        - 条件优化
-        - 奇异值分解
+
 
 [5]: statistics
 [6]: thinkstats
-[10]:LinearAlgebraAndItsApplications
 
 [54]: StatisticsForTheBehavioralSciences/chi-square-test.ipynb
 [55]: StatisticsForTheBehavioralSciences/binomial-test.ipynb
@@ -250,11 +201,3 @@
 [81]: thinkstats/time-series.ipynb
 [82]: thinkstats/survival-analysis.ipynb
 [83]: thinkstats/analysis-method.ipynb
-
-[85]: LinearAlgebraAndItsApplications/chap1.ipynb
-[86]: LinearAlgebraAndItsApplications/chap2.ipynb
-[87]: LinearAlgebraAndItsApplications/chap3.ipynb
-[88]: LinearAlgebraAndItsApplications/chap4.ipynb
-[89]: LinearAlgebraAndItsApplications/chap5.ipynb
-[90]: LinearAlgebraAndItsApplications/chap6.ipynb
-[91]: LinearAlgebraAndItsApplications/chap7.ipynb
