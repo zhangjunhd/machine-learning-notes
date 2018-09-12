@@ -4,7 +4,6 @@
 1. [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling][19],Junyoung Chung, Caglar Gulcehre, KyungHyun Cho, Yoshua Bengio,[11 Dec 2014][119]
 
 ## Note
-1. [深度学习中的激活函数][2]
 1. [深度学习][50]
 1. [Neural Network and Deep Learning][10]
     - [Using neural nets to recognize handwritten digits][11]
@@ -128,7 +127,6 @@
 
 
 [0]: A-Learning-Algorithm-for-Boltzmann-Machines.ipynb
-[2]: activation-function.ipynb
 
 [10]: NeuralNetworkAndDeepLearning/
 [11]: NeuralNetworkAndDeepLearning/chap1.ipynb
