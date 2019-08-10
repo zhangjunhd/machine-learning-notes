@@ -6,4 +6,3 @@
 1. [自然语言处理](natural-language-processing)
 1. [经典机器学习](machine-learning)
 1. [推荐](recommendation)
-1. [Spark Machine Learning](spark)
