@@ -4,16 +4,14 @@
 1. [Empirical Evaluation of Gated Recurrent Neural Networks on Sequence Modeling][19],Junyoung Chung, Caglar Gulcehre, KyungHyun Cho, Yoshua Bengio,[11 Dec 2014][119]
 
 ## Note
-1. [深度学习][50]
-1. [Hands-On Machine Learning with Scikit-Learn and TensorFlow][30]
+1. [深度学习](DeepLearning)
+1. [Hands-On Machine Learning with Scikit-Learn and TensorFlow](Hands-OnMachineLearningWithScikit-LearnAndTensorFlow)
 
 
 [0]: A-Learning-Algorithm-for-Boltzmann-Machines.ipynb
 
-[30]: Hands-OnMachineLearningWithScikit-LearnAndTensorFlow/
-
-[50]: DeepLearning/
 
 [19]: Empirical-Evaluation-of-Gated-Recurrent-Neural-Networks-on-Sequence-Modeling.ipynb
+
 [100]:http://www.cs.toronto.edu/~fritz/absps/cogscibm.pdf
 [119]:https://arxiv.org/abs/1412.3555
