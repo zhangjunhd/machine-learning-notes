@@ -1,4 +1,5 @@
 # 自然语言处理
+1. [Natural Language Processing](http://note.youdao.com/noteshare?id=2e7de5e90ec5f8905389426ad442d728&sub=D871E60FB2D749EE8B9D10FD84D18BAB),Jacob Eisenstein, Jun 2018
 
 ## 词袋模型
 1. [Python自然语言处理][200]
