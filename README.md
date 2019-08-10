@@ -1,6 +1,6 @@
-# 机器学习笔记
-1. [Python数据处理](data-processing)
-1. [R语言](r)
+1. Language
+    1. [Python](data-processing)
+    1. [R](r)
 1. [数学](math)
 1. [深度学习](deep-learning)
 1. [自然语言处理](natural-language-processing)
