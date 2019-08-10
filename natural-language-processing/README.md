@@ -1,9 +1,7 @@
 # 自然语言处理
 1. [Natural Language Processing](http://note.youdao.com/noteshare?id=2e7de5e90ec5f8905389426ad442d728&sub=D871E60FB2D749EE8B9D10FD84D18BAB),Jacob Eisenstein, Jun 2018
-
-## 词袋模型
-1. [Python自然语言处理][200]
-1. [结巴中文分词][300]
+1. [Python自然语言处理](NaturalLanguageProcessingWithPython)
+1. [结巴中文分词](jieba.ipynb)
     - 分词
     - 添加自定义词典
     - 关键词提取
@@ -11,13 +9,18 @@
         - 基于 TextRank 算法的关键词抽取
     - 词性标注
     - Tokenize
-1. [文本聚类][301]
+1. [文本聚类](text_clustering.ipynb)
     - 词袋模型与文本向量化
     - 相似度：向量间距离
     - 聚类KMeans
 
+
+## Corpus
+1. [THE PENN TREEBANK-AN OVERVIEW](http://note.youdao.com/noteshare?id=9f8f72c20d1e96f5d1a4ac58a79998b7&sub=5F2E5B1C4E894D6BA312A4CC496306CB), AnnTaylor, 19951. 
+1. [The Proposition Bank: An Annotated Corpus of Semantic Roles](http://note.youdao.com/noteshare?id=a57cdb4ab339d1ed8e4864eff9c67cd1&sub=370A6CEAD2F44CB39D8ED76358FF7247), Martha Palmer, 2003
+
 ## Topic Model
-1. [基于主题模型比较相似度][302]
+1. [基于主题模型比较相似度](topic_model.ipynb)
     - 构建主题模型
     - 在主题空间比较相似度
 
@@ -124,8 +127,3 @@
 [154]:https://aclweb.org/anthology/D16-1199
 [155]:https://arxiv.org/pdf/1606.08513.pdf
 [156]:https://arxiv.org/pdf/1801.02073.pdf
-
-[200]: NaturalLanguageProcessingWithPython
-[300]:jieba.ipynb
-[301]:text_clustering.ipynb
-[302]:topic_model.ipynb
