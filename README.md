@@ -6,6 +6,5 @@
 1. [Deep Learning](deep-learning)
 1. [Natural Language Processing](natural-language-processing)
 1. [Recommendation](recommendation)
-1. [Search Engine](search-engine)
 1. [Chatbot](chatbot)
 1. [Knowledge Graph](kg)
