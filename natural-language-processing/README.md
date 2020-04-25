@@ -1,14 +1,6 @@
 # 自然语言处理
 1. [Natural Language Processing](http://note.youdao.com/noteshare?id=2e7de5e90ec5f8905389426ad442d728&sub=D871E60FB2D749EE8B9D10FD84D18BAB),Jacob Eisenstein, Jun 2018
 1. [Python自然语言处理](NaturalLanguageProcessingWithPython)
-1. [结巴中文分词](jieba.ipynb)
-    - 分词
-    - 添加自定义词典
-    - 关键词提取
-        - 基于 TF-IDF 算法的关键词抽取
-        - 基于 TextRank 算法的关键词抽取
-    - 词性标注
-    - Tokenize
 1. [文本聚类](text_clustering.ipynb)
     - 词袋模型与文本向量化
     - 相似度：向量间距离
